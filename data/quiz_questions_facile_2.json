@@ -1,0 +1,1442 @@
+[
+    {
+        "id": 1,
+        "theme": "Sciences et Nature",
+        "subtheme": "Animaux et Végétaux",
+        "question": "Quel est le fruit que les perroquets aiment particulièrement manger ?",
+        "answers": [
+            "La pomme",
+            "La banane",
+            "Le raisin",
+            "La fraise",
+            "L'avocat"
+        ],
+        "correct": "La banane",
+        "difficulty": "facile",
+        "explanation": "Les perroquets apprécient particulièrement les fruits sucrés et croquants, parmi lesquels la banane est un choix privilégié. En plus d'être riche en glucides pour leur énergie, la banane contient des minéraux essentiels tels que le potassium. Les perroquets sont souvent observés manger des bananes dans les zoos et parmi les propriétaires d'oiseaux de compagnie."
+    },
+    {
+        "id": 2,
+        "theme": "Sciences et Nature",
+        "subtheme": "Animaux et Végétaux",
+        "question": "Quel type de plante est connu pour son parfum sucré et ses fleurs en forme de trompette ?",
+        "answers": [
+            "La tulipe",
+            "La rose",
+            "L'orchidée",
+            "La jacinthe",
+            "Le lis"
+        ],
+        "correct": "Le lis",
+        "difficulty": "facile",
+        "explanation": "Les lys sont connus pour leurs grandes fleurs parfumées et leur forme en trompette. Ces plantes, souvent utilisées dans les parcs et jardins, ont une forte odeur sucrée qui attire de nombreux insectes pollinisateurs tels que les papillons. Les lis peuvent être cultivés à partir de bulbes et fleurissent généralement au printemps ou en été."
+    },
+    {
+        "id": 3,
+        "theme": "Sciences et Nature",
+        "subtheme": "Animaux et Végétaux",
+        "question": "Quel est le plus grand animal terrestre actuellement existant ?",
+        "answers": [
+            "L'éléphant d'Afrique",
+            "Le rhinocéros blanc",
+            "La girafe",
+            "Le lion",
+            "L'hippopotame"
+        ],
+        "correct": "L'éléphant d'Afrique",
+        "difficulty": "facile",
+        "explanation": "L'éléphant d'Afrique est reconnu comme le plus grand animal terrestre actuellement existant. Ces mammifères impressionnants peuvent peser jusqu'à 7 tonnes et mesurer environ 3,5 mètres de hauteur à l'épaule. Ils sont principalement connus pour leur intelligence remarquable, leurs longues trompes, et leurs grandes oreilles qui servent également à réguler leur température corporelle."
+    },
+    {
+        "id": 4,
+        "theme": "Sciences et Nature",
+        "subtheme": "Animaux et Végétaux",
+        "question": "Quel est le nom du petit oiseau connu pour son chant mélodieux et souvent utilisé comme symbole de la nature en Amérique du Nord ?",
+        "answers": [
+            "Le rouge-gorge",
+            "L'alouette des champs",
+            "La mésange",
+            "Le merle",
+            "Le pinson"
+        ],
+        "correct": "Le pinson",
+        "difficulty": "facile",
+        "explanation": "Le pinson est un petit oiseau apprécié pour son chant agréable et diversifié, ce qui en fait l'un des symboles de la nature en Amérique du Nord. Son appel est souvent associé au printemps et à la vie sauvage dans les jardins et forêts. Le pinson nord-américain (Passerina cyanea) arbore également une plumaison vibrante, surtout chez le mâle, avec ses couleurs jaune, bleu et vert."
+    },
+    {
+        "id": 5,
+        "theme": "Sciences et Nature",
+        "subtheme": "Animaux et Végétaux",
+        "question": "Quel est le nom du végétal qui peut survivre dans des environnements très secs, comme les déserts ?",
+        "answers": [
+            "La rose",
+            "Le chêne",
+            "L'orchidée",
+            "Le cactus",
+            "La fougère"
+        ],
+        "correct": "Le cactus",
+        "difficulty": "facile",
+        "explanation": "Les cactacées sont adaptées pour survivre dans des environnements arides, comme les déserts. Elles ont évolué pour conserver l'eau grâce à leurs tiges charnues et épaisse cuticule qui réduisent la transpiration. De plus, beaucoup de cactus possèdent des racines très étendues ou profondes qui leur permettent d'absorber efficacement toute eau disponible après les pluies rares."
+    },
+    {
+        "id": 6,
+        "theme": "Sciences et Nature",
+        "subtheme": "Animaux et Végétaux",
+        "question": "Quel est le fruit caractérisé par une peau verte et jaune, souvent associé à la culture de la Grèce antique ?",
+        "answers": [
+            "La pomme",
+            "La banane",
+            "Le kiwi",
+            "La grenade",
+            "L'olive"
+        ],
+        "correct": "L'olive",
+        "difficulty": "facile",
+        "explanation": "L'olive est un fruit connu pour sa peau verte qui peut virer au jaune lorsqu'elle mûrit. Originaire du bassin méditerranéen, elle a une importance culturelle et économique significative en Grèce antique ainsi que dans les régions méditerranéennes contemporaines. Les olives sont souvent consommées vertes ou après être transformées en huile d'olive, qui est un produit alimentaire de base dans la cuisine méditerranéenne."
+    },
+    {
+        "id": 7,
+        "theme": "Sciences et Nature",
+        "subtheme": "Animaux et Végétaux",
+        "question": "Quel est l'arbre connu pour ses baies rouges et qui est souvent associé aux histoires de contes de fées en Europe ?",
+        "answers": [
+            "Le chêne",
+            "Le pin",
+            "La mûre",
+            "L'aubépine",
+            "Le sapin"
+        ],
+        "correct": "L'aubépine",
+        "difficulty": "facile",
+        "explanation": "L'aubépine est un arbre ou arbuste connu pour ses fleurs blanches et ses baies rouges. En Europe, il est souvent associé aux contes de fées et à la mythologie ; par exemple, dans le conte des Trois Petits Cochons, l'aubépine représente la maison faite de bois solide qui protège les cochons du loup. Les baies rouges de cet arbuste sont toxiques avant d'être mûres, mais deviennent comestibles une fois noires."
+    },
+    {
+        "id": 8,
+        "theme": "Sciences et Nature",
+        "subtheme": "Animaux et Végétaux",
+        "question": "Quel est l'arbre connu pour ses feuilles ovales et son écorce écailleuse, souvent utilisé dans les foyers pour le chauffage ?",
+        "answers": [
+            "Le pin",
+            "L'eucalyptus",
+            "Le peuplier",
+            "Le chêne",
+            "Le bouleau"
+        ],
+        "correct": "Le bouleau",
+        "difficulty": "facile",
+        "explanation": "Le bouleau est un arbre connu pour ses feuilles ovales et sa caractéristique écorce écailleuse qui se détache facilement en grandes plaques. Il est souvent utilisé comme bois de chauffage dans les foyers à cause de son pouvoir calorifique efficace. En plus de ses usages domestiques, le bouleau a une importance écologique pour de nombreuses espèces animales et sa sève sucrée peut être transformée en sirop."
+    },
+    {
+        "id": 9,
+        "theme": "Sciences et Nature",
+        "subtheme": "Animaux et Végétaux",
+        "question": "Quel est l'insecte qui possède six pattes, des ailes membraneuses et peut parfois piquer ?",
+        "answers": [
+            "La mouche",
+            "Le scarabée",
+            "La coccinelle",
+            "L'abeille",
+            "La fourmi"
+        ],
+        "correct": "L'abeille",
+        "difficulty": "facile",
+        "explanation": "Les abeilles sont des insectes caractérisés par leurs six pattes et leurs ailes membraneuses qui leur permettent de voler. Contrairement à la plupart des autres insectes, les abeilles possèdent un dard avec lequel elles peuvent piquer pour se défendre ou protéger leur ruche. Les piqûres d'abeille sont souvent associées à la production de miel et au pollinisation des plantes."
+    },
+    {
+        "id": 10,
+        "theme": "Sciences et Nature",
+        "subtheme": "Animaux et Végétaux",
+        "question": "Quel est le plus grand des cétacés, connu pour être l'animal vivant le plus massif sur Terre ?",
+        "answers": [
+            "Le rorqual bleu",
+            "La baleine franche australe",
+            "L'orque",
+            "Le cachalot",
+            "Le dauphin"
+        ],
+        "correct": "Le rorqual bleu",
+        "difficulty": "facile",
+        "explanation": "Le rorqual bleu est le plus grand des cétacés et l'animal vivant le plus massif sur Terre, pouvant atteindre une longueur de 30 mètres et peser jusqu'à 180 tonnes. Son régime alimentaire consiste principalement en plancton microscopique qu'il filtre dans la mer grâce à ses larges fanons. Les rorquals bleus sont reconnus pour leurs migrations sur de longues distances entre les zones d'alimentation et les zones de reproduction."
+    },
+    {
+        "id": 11,
+        "theme": "Sciences et Nature",
+        "subtheme": "Animaux et Végétaux",
+        "question": "Quel est le type de plante qui possède des feuilles vertes et est couramment utilisé comme garniture dans les salades ?",
+        "answers": [
+            "La tomate",
+            "Le concombre",
+            "L'épinard",
+            "La carotte",
+            "Le poivron"
+        ],
+        "correct": "L'épinard",
+        "difficulty": "facile",
+        "explanation": "Les épinards sont une espèce de plantes à feuilles vertes qui font partie des légumes-feuilles. Ils sont souvent utilisés dans les salades pour leur goût frais et leurs nombreuses vitamines. Les épinards sont également riches en fer, calcium et autres nutriments essentiels, ce qui en fait un aliment sain couramment inclus dans diverses recettes."
+    },
+    {
+        "id": 12,
+        "theme": "Sciences et Nature",
+        "subtheme": "Animaux et Végétaux",
+        "question": "Quelle est la couleur des feuilles du chêne en automne ?",
+        "answers": [
+            "Vertes",
+            "Jaunes ou rouges",
+            "Noires",
+            "Blanches",
+            "Bleues"
+        ],
+        "correct": "Jaunes ou rouges",
+        "difficulty": "facile",
+        "explanation": "En automne, les feuilles de nombreux arbres à feuilles caduques, comme le chêne, changent de couleur et deviennent jaunes, oranges ou rouges. Ce phénomène est dû à la dégradation des chlorophylles qui donnent leur couleur verte aux feuilles en été, et à l'action d'autres pigments comme les caroténoïdes (jaunes/oranges) et les anthocyanes (rouges). Les conditions climatiques et le type spécifique de chêne peuvent influencer la teinte exacte des feuilles."
+    },
+    {
+        "id": 13,
+        "theme": "Sciences et Nature",
+        "subtheme": "Animaux et Végétaux",
+        "question": "Quel animal est connu pour avoir des plumes et pondre des œufs ?",
+        "answers": [
+            "Le chat",
+            "La tortue",
+            "Le poisson",
+            "L'oiseau",
+            "Le serpent"
+        ],
+        "correct": "L'oiseau",
+        "difficulty": "facile",
+        "explanation": "Les oiseaux sont connus pour avoir des plumes qui leur permettent de voler. Ils sont également ovipares, ce qui signifie qu'ils pondent des œufs. Les plumes constituent une caractéristique distinctive des oiseaux parmi les animaux terrestres et aériens, et le fait d'incuber des œufs est un aspect fondamental de leur reproduction."
+    },
+    {
+        "id": 14,
+        "theme": "Sciences et Nature",
+        "subtheme": "Animaux et Végétaux",
+        "question": "Quel est le fruit qui contient des graines à l'intérieur et qui est souvent associé aux desserts comme la tarte ou le crumble ?",
+        "answers": [
+            "La pomme",
+            "La banane",
+            "L'orange",
+            "La fraise",
+            "Le raisin"
+        ],
+        "correct": "La pomme",
+        "difficulty": "facile",
+        "explanation": "La pomme est un fruit à pépins qui contient plusieurs graines au centre. C'est une des plus grandes sources de fruits cultivés dans le monde et elle est souvent utilisée dans les desserts comme la tarte aux pommes ou le crumble, grâce à sa saveur sucrée-acidulée. Les pommes sont également appréciées pour leur versatilité en cuisine."
+    },
+    {
+        "id": 15,
+        "theme": "Sciences et Nature",
+        "subtheme": "Animaux et Végétaux",
+        "question": "Quel type de plante est principalement utilisé pour faire du thé ?",
+        "answers": [
+            "La menthe",
+            "Le camomille",
+            "La rooibos",
+            "La vigne",
+            "La lavande"
+        ],
+        "correct": "La camomille",
+        "difficulty": "facile",
+        "explanation": "La camomille est l'une des plantes les plus couramment utilisées pour faire du thé. Elle est appréciée pour ses propriétés apaisantes et son goût doux, souvent associé à une boisson rafraîchissante et relaxante. Le thé de camomille peut être fait en infusant des fleurs séchées dans de l'eau chaude, ce qui libère leurs arômes et bienfaits."
+    },
+    {
+        "id": 16,
+        "theme": "Sciences et Nature",
+        "subtheme": "Astronomie et Espace",
+        "question": "Combien de planètes se trouvent dans notre système solaire ?",
+        "answers": [
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "correct": "8",
+        "difficulty": "facile",
+        "explanation": "Il y a huit planètes dans notre système solaire : Mercure, Vénus, Terre, Mars, Jupiter, Saturne, Uranus et Neptune. Pluton était autrefois considérée comme la neuvième planète jusqu'à ce qu'elle soit rétrogradée au statut de 'planète naine' par l'Union Astronomique Internationale en 2006."
+    },
+    {
+        "id": 17,
+        "theme": "Sciences et Nature",
+        "subtheme": "Astronomie et Espace",
+        "question": "Quel est le satellite naturel de la Terre ?",
+        "answers": [
+            "Phobos",
+            "Deimos",
+            "Ganymède",
+            "Titan",
+            "La Lune"
+        ],
+        "correct": "La Lune",
+        "difficulty": "facile",
+        "explanation": "La Lune est le seul satellite naturel de la Terre. Elle orbite autour de notre planète et influence divers phénomènes, notamment les marées océaniques. La Lune a été un sujet d'étude intérêt depuis l'Antiquité et continue à fasciner scientifiquement avec des missions exploratoires modernes."
+    },
+    {
+        "id": 18,
+        "theme": "Sciences et Nature",
+        "subtheme": "Astronomie et Espace",
+        "question": "Quel phénomène astronomique se produit lorsqu'un astre passe devant un autre, bloquant temporairement sa vue depuis la Terre ?",
+        "answers": [
+            "Éclipse solaire",
+            "Saison estivale",
+            "Éclairage lunaire",
+            "Alignement planétaire",
+            "Conjonction des planètes"
+        ],
+        "correct": "Éclipse solaire",
+        "difficulty": "facile",
+        "explanation": "Une éclipse solaire se produit lorsque la Lune passe entre le Soleil et la Terre, bloquant temporairement la lumière du Soleil depuis notre perspective. Cela peut se produire partiellement ou totalement, selon l'alignement des corps célestes. Les éclipses solaires sont des événements rares et spectaculaires à observer."
+    },
+    {
+        "id": 19,
+        "theme": "Sciences et Nature",
+        "subtheme": "Astronomie et Espace",
+        "question": "Quelle est la plus grande planète de notre système solaire ?",
+        "answers": [
+            "Mercure",
+            "Mars",
+            "Terre",
+            "Jupiter",
+            "Saturne"
+        ],
+        "correct": "Jupiter",
+        "difficulty": "facile",
+        "explanation": "Jupiter est non seulement la plus grande planète de notre système solaire, mais elle est aussi l'une des plus massives. Elle possède une masse équivalente à environ 318 fois celle de la Terre et un diamètre de près de 143 000 kilomètres. Jupiter est connue pour sa grande tache rouge distinctive et ses nombreux satellites naturels."
+    },
+    {
+        "id": 20,
+        "theme": "Sciences et Nature",
+        "subtheme": "Astronomie et Espace",
+        "question": "Quelle planète est connue pour avoir un anneau visuellement spectaculaire ?",
+        "answers": [
+            "Mercure",
+            "Mars",
+            "Terre",
+            "Jupiter",
+            "Saturne"
+        ],
+        "correct": "Saturne",
+        "difficulty": "facile",
+        "explanation": "Saturne est célèbre pour ses anneaux, qui sont composés principalement de glace et de poussière. Ces anneaux visuellement spectaculaires ont été observés pour la première fois à travers des télescopes rudimentaires au 17ème siècle. Saturne a plusieurs systèmes d'anneaux complexes, rendant cette planète particulièrement intrigante pour les astronomes."
+    },
+    {
+        "id": 21,
+        "theme": "Sciences et Nature",
+        "subtheme": "Astronomie et Espace",
+        "question": "Quel est le nom de la lune principale de Jupiter ?",
+        "answers": [
+            "Europa",
+            "Titan",
+            "Triton",
+            "Phobos",
+            "Charon"
+        ],
+        "correct": "Europa",
+        "difficulty": "facile",
+        "explanation": "Europa est l'une des quatre plus grandes lunes galiléennes de Jupiter, découvertes par Galileo Galilei en 1610. Elle est particulièrement remarquable pour sa surface glacée et ses caractéristiques géologiques actives, qui suggèrent la présence d'un océan sous-glaciaire."
+    },
+    {
+        "id": 22,
+        "theme": "Sciences et Nature",
+        "subtheme": "Astronomie et Espace",
+        "question": "Combien de planètes dans notre système solaire ont des anneaux ?",
+        "answers": [
+            "2",
+            "4",
+            "6",
+            "8",
+            "Toutes"
+        ],
+        "correct": "4",
+        "difficulty": "facile",
+        "explanation": "Quatre planètes du Système Solaire possèdent des systèmes d'anneaux : Saturne, Jupiter, Uranus et Neptune. Les anneaux de Saturne sont les plus visibles depuis la Terre en raison de leur taille et de leur composition en glace et poussière. Les anneaux des autres planètes sont beaucoup moins prononcés et souvent nécessitent des observations spéciales pour être détectés."
+    },
+    {
+        "id": 23,
+        "theme": "Sciences et Nature",
+        "subtheme": "Astronomie et Espace",
+        "question": "Quelle est la distance moyenne entre la Terre et le Soleil, appelée unité astronomique (UA) ?",
+        "answers": [
+            "9.3 millions de kilomètres",
+            "149.6 millions de kilomètres",
+            "384 millions de kilomètres",
+            "225 millions de kilomètres",
+            "4.5 milliards de kilomètres"
+        ],
+        "correct": "149.6 millions de kilomètres",
+        "difficulty": "facile",
+        "explanation": "L'unité astronomique (UA) est une unité de mesure utilisée pour exprimer les distances dans le système solaire. Elle correspond à la distance moyenne entre la Terre et le Soleil, soit environ 149.6 millions de kilomètres. L'UA facilite l'évaluation des distances au sein du système solaire en fournissant un point de référence standard."
+    },
+    {
+        "id": 24,
+        "theme": "Sciences et Nature",
+        "subtheme": "Astronomie et Espace",
+        "question": "Quel type d'étoile est notre Soleil ?",
+        "answers": [
+            "Naine blanche",
+            "Étoile géante rouge",
+            "Étoile à neutrons",
+            "Naine jaune",
+            "Supergéante bleue"
+        ],
+        "correct": "Naine jaune",
+        "difficulty": "facile",
+        "explanation": "Notre Soleil est classifié comme une naine jaune, ce qui signifie qu'il s'agit d'une étoile de la séquence principale relativement petite et modérément chaude. Les naines jaunes sont caractérisées par des températures de surface autour de 5 500 à 6 000°C et une luminosité qui permet à la vie de se développer sur les planètes situées dans leur zone habitable, comme Mars ou Vénus pour le Soleil."
+    },
+    {
+        "id": 25,
+        "theme": "Sciences et Nature",
+        "subtheme": "Astronomie et Espace",
+        "question": "Quel phénomène astronomique marque le début du printemps dans l'hémisphère nord ?",
+        "answers": [
+            "Équinoxe de printemps",
+            "Solstice d'été",
+            "Pleine Lune",
+            "Nouvelle Lune",
+            "Éclipse solaire"
+        ],
+        "correct": "Équinoxe de printemps",
+        "difficulty": "facile",
+        "explanation": "L'équinoxe de printemps, qui a généralement lieu autour du 20 ou 21 mars dans l'hémisphère nord, marque le moment où la durée du jour et de la nuit est égale partout sur Terre. C'est à ce moment-là que le Soleil traverse le plan équatorial céleste, signalant ainsi le début du printemps."
+    },
+    {
+        "id": 26,
+        "theme": "Sciences et Nature",
+        "subtheme": "Astronomie et Espace",
+        "question": "Quelle est la planète du système solaire qui tourne sur elle-même le plus rapidement ?",
+        "answers": [
+            "Mars",
+            "Mercure",
+            "Vénus",
+            "Jupiter",
+            "Terre"
+        ],
+        "correct": "Jupiter",
+        "difficulty": "facile",
+        "explanation": "Jupiter est la planète du système solaire qui tourne sur elle-même le plus rapidement, avec une période de rotation d'environ 9 heures et 55 minutes. Cette rapide rotation contribue à son apparence caractéristique en bandes visibles depuis l'espace."
+    },
+    {
+        "id": 27,
+        "theme": "Sciences et Nature",
+        "subtheme": "Astronomie et Espace",
+        "question": "Quel est le plus grand astéroïde du système solaire ?",
+        "answers": [
+            "Eros",
+            "Pallas",
+            "Cérès",
+            "Vesta",
+            "Hygiea"
+        ],
+        "correct": "Cérès",
+        "difficulty": "facile",
+        "explanation": "Cérès est le plus grand astéroïde du système solaire et il est classé comme planète naine depuis 2006. Situé dans la ceinture d'astéroïdes entre Mars et Jupiter, Cérès a un diamètre d'environ 940 kilomètres."
+    },
+    {
+        "id": 28,
+        "theme": "Sciences et Nature",
+        "subtheme": "Astronomie et Espace",
+        "question": "Quel est le plus grand lune naturelle du système solaire ?",
+        "answers": [
+            "Io",
+            "Titan",
+            "Triton",
+            "Ganymède",
+            "Europa"
+        ],
+        "correct": "Ganymède",
+        "difficulty": "facile",
+        "explanation": "Ganymède est la plus grande lune naturelle du système solaire. C'est également la plus grande lune de Jupiter et même plus grande que la planète Mercure en termes de diamètre. Ganymède possède une masse volumineuse et un champ magnétique unique parmi les lunes."
+    },
+    {
+        "id": 29,
+        "theme": "Sciences et Nature",
+        "subtheme": "Astronomie et Espace",
+        "question": "Quelle planète du système solaire est connue pour avoir une grande tache rouge visible depuis la Terre ?",
+        "answers": [
+            "Mars",
+            "Jupiter",
+            "Saturne",
+            "Uranus",
+            "Neptune"
+        ],
+        "correct": "Jupiter",
+        "difficulty": "facile",
+        "explanation": "La Grande Tache Rouge est une gigantesque tempête anticyclonique sur Jupiter, visible depuis la Terre grâce à son contraste avec les autres régions de l'atmosphère du géant gazeux. Elle a été observée pour la première fois en 1830 et continue d'être un sujet d'étude fascinant pour comprendre les phénomènes météorologiques extrêmes dans le système solaire."
+    },
+    {
+        "id": 30,
+        "theme": "Sciences et Nature",
+        "subtheme": "Astronomie et Espace",
+        "question": "Quel est le satellite naturel de la Terre ?",
+        "answers": [
+            "Phobos",
+            "Deimos",
+            "Titan",
+            "Lune",
+            "Io"
+        ],
+        "correct": "Lune",
+        "difficulty": "facile",
+        "explanation": "La Lune est le seul satellite naturel de la Terre. Elle orbit autour de notre planète et a une influence significative sur les marées, en raison de son gravité qui affecte les océans terrestres."
+    },
+    {
+        "id": 31,
+        "theme": "Sciences et Nature",
+        "subtheme": "Climat et Phénomènes Naturels",
+        "question": "Quel phénomène naturel est responsable des marées sur Terre ?",
+        "answers": [
+            "La rotation de la Terre autour du Soleil",
+            "L'activité volcanique",
+            "Les forces gravitationnelles exercées par la Lune et le Soleil",
+            "Le vent d'est",
+            "Les changements dans l'atmosphère terrestre"
+        ],
+        "correct": "Les forces gravitationnelles exercées par la Lune et le Soleil",
+        "difficulty": "facile",
+        "explanation": "Les marées sont causées principalement par les forces gravitationnelles de la Lune, avec une contribution plus faible du Soleil. La gravité lunaire provoque des mouvements dans les océans, entraînant deux marées hautes et deux marées basses chaque jour."
+    },
+    {
+        "id": 32,
+        "theme": "Sciences et Nature",
+        "subtheme": "Climat et Phénomènes Naturels",
+        "question": "Quelle est la principale cause de l'effet de serre sur Terre ?",
+        "answers": [
+            "La réflexion de la lumière solaire par la lune",
+            "Les aurores boréales",
+            "L'émission de gaz à effet de serre comme le CO2 et le méthane",
+            "Le cycle hydrologique",
+            "L'activité sismique"
+        ],
+        "correct": "L'émission de gaz à effet de serre comme le CO2 et le méthane",
+        "difficulty": "facile",
+        "explanation": "L'effet de serre est principalement causé par l'accumulation de gaz à effet de serre dans l'atmosphère terrestre, tels que le dioxyde de carbone (CO2), le méthane (CH4) et la vapeur d'eau. Ces gaz piégent la chaleur du soleil, réchauffant ainsi la surface de la Terre."
+    },
+    {
+        "id": 33,
+        "theme": "Sciences et Nature",
+        "subtheme": "Climat et Phénomènes Naturels",
+        "question": "Quel type de phénomène naturel est causé par l'interaction entre les masses d'air froides et chaudes ?",
+        "answers": [
+            "Les éruptions volcaniques",
+            "La formation des cratères d'impact",
+            "Les ouragans",
+            "La fonte des glaciers",
+            "Le tremblement de terre"
+        ],
+        "correct": "Les ouragans",
+        "difficulty": "facile",
+        "explanation": "Les ouragans se forment lorsque des masses d'air chaud, humide et instable rencontrent une masse d'air froid. Cette interaction crée des systèmes météorologiques complexes qui peuvent s'intensifier en tempêtes violentes, sous certaines conditions atmosphériques et océanographiques."
+    },
+    {
+        "id": 34,
+        "theme": "Sciences et Nature",
+        "subtheme": "Climat et Phénomènes Naturels",
+        "question": "Quel type de phénomène météorologique est caractérisé par une chute rapide et intense de pluie ?",
+        "answers": [
+            "La neige",
+            "La grêle",
+            "L'averse",
+            "Le brouillard",
+            "La brume"
+        ],
+        "correct": "L'averse",
+        "difficulty": "facile",
+        "explanation": "Une averse est un phénomène météorologique caractérisé par une chute rapide et intense de pluie, généralement accompagnée d'un fort vent. Elle est souvent de courte durée mais peut provoquer des inondations locales."
+    },
+    {
+        "id": 35,
+        "theme": "Sciences et Nature",
+        "subtheme": "Climat et Phénomènes Naturels",
+        "question": "Quel phénomène naturel est responsable des variations saisonnières sur Terre ?",
+        "answers": [
+            "La rotation de la Terre autour du Soleil",
+            "L'activité volcanique",
+            "Le déplacement de l'axe terrestre",
+            "L'inclinaison de l'axe terrestre par rapport à son orbite",
+            "Les marées"
+        ],
+        "correct": "L'inclinaison de l'axe terrestre par rapport à son orbite",
+        "difficulty": "facile",
+        "explanation": "Les variations saisonnières sur Terre sont principalement dues à l'inclinaison de l'axe terrestre, qui est d'environ 23.5 degrés par rapport au plan de son orbite autour du Soleil. Cette inclinaison cause des différences dans la quantité de lumière solaire reçue par les diverses régions de la Terre tout au long de l'année, entraînant les saisons."
+    },
+    {
+        "id": 36,
+        "theme": "Sciences et Nature",
+        "subtheme": "Climat et Phénomènes Naturels",
+        "question": "Quel gaz atmosphérique est le principal contributeur au réchauffement climatique ?",
+        "answers": [
+            "L'oxygène (O2)",
+            "L'azote (N2)",
+            "Le dioxyde de carbone (CO2)",
+            "L'ozone (O3)",
+            "La vapeur d'eau"
+        ],
+        "correct": "Le dioxyde de carbone (CO2)",
+        "difficulty": "facile",
+        "explanation": "Le dioxyde de carbone (CO2) est le principal gaz à effet de serre contribuant au réchauffement climatique. Bien que la vapeur d'eau soit également un puissant gaz à effet de serre, ses niveaux dans l'atmosphère sont largement régulés par les processus naturels et non directement influencés par l'activité humaine comme le CO2."
+    },
+    {
+        "id": 37,
+        "theme": "Sciences et Nature",
+        "subtheme": "Climat et Phénomènes Naturels",
+        "question": "Quel phénomène naturel est causé par un mouvement soudain de la croûte terrestre ?",
+        "answers": [
+            "Un ouragan",
+            "Une éclipse solaire",
+            "Un tremblement de terre",
+            "Un orage",
+            "La marée haute"
+        ],
+        "correct": "Un tremblement de terre",
+        "difficulty": "facile",
+        "explanation": "Un tremblement de terre est un phénomène naturel causé par un mouvement soudain et brusque de la croûte terrestre. Ce mouvement est généralement le résultat du déplacement des plaques tectoniques qui se heurtent, glissent ou s'éloignent les unes des autres."
+    },
+    {
+        "id": 38,
+        "theme": "Sciences et Nature",
+        "subtheme": "Climat et Phénomènes Naturels",
+        "question": "Quel phénomène climatique est caractérisé par une augmentation de la température moyenne à long terme ?",
+        "answers": [
+            "Le refroidissement global",
+            "La canicule",
+            "La neige",
+            "L'effet El Niño",
+            "Le réchauffement climatique"
+        ],
+        "correct": "Le réchauffement climatique",
+        "difficulty": "facile",
+        "explanation": "Le réchauffement climatique désigne l'augmentation de la température moyenne à long terme sur Terre. Ce phénomène est principalement attribué aux émissions humaines de gaz à effet de serre, comme le dioxyde de carbone (CO2), qui piégeent la chaleur dans l'atmosphère et entraînent une augmentation des températures globales."
+    },
+    {
+        "id": 39,
+        "theme": "Sciences et Nature",
+        "subtheme": "Climat et Phénomènes Naturels",
+        "question": "Quelle est la cause principale des ouragans dans les océans tropicaux ?",
+        "answers": [
+            "Les variations de pression atmosphérique",
+            "L'activité solaire intense",
+            "La combinaison d'eau chaude et d'air humide",
+            "Le mouvement des plaques tectoniques",
+            "Les courants océaniques froids"
+        ],
+        "correct": "La combinaison d'eau chaude et d'air humide",
+        "difficulty": "facile",
+        "explanation": "Les ouragans se forment principalement dans les océans tropicaux lorsqu'il y a une combinaison de conditions, notamment des eaux très chaudes (au moins 26.5°C ou 80°F) qui fournissent l'énergie nécessaire et un air humide qui contribue à la formation des nuages d'orage. Ces conditions permettent aux ouragans de se développer et de gagner en intensité."
+    },
+    {
+        "id": 40,
+        "theme": "Sciences et Nature",
+        "subtheme": "Climat et Phénomènes Naturels",
+        "question": "Quelle est la principale cause des marées sur Terre ?",
+        "answers": [
+            "Le vent global",
+            "Les variations de température atmosphérique",
+            "La gravité lunaire et solaire",
+            "L'activité volcanique sous-marine",
+            "Les changements saisonniers"
+        ],
+        "correct": "La gravité lunaire et solaire",
+        "difficulty": "facile",
+        "explanation": "Les marées sont principalement causées par les forces gravitationnelles exercées par la Lune et le Soleil sur la Terre. La Lune a une influence plus forte en raison de sa proximité, ce qui entraîne deux marées hautes et deux marées basses chaque jour. Le Soleil contribue également à ces forces, mais dans une moindre mesure."
+    },
+    {
+        "id": 41,
+        "theme": "Sciences et Nature",
+        "subtheme": "Climat et Phénomènes Naturels",
+        "question": "Quel phénomène climatique se caractérise par un froid soudain et intense, souvent accompagné de vents violents ?",
+        "answers": [
+            "Le soleil de minuit",
+            "La canicule",
+            "Le blizzard",
+            "La marée haute",
+            "L'effet de serre"
+        ],
+        "correct": "Le blizzard",
+        "difficulty": "facile",
+        "explanation": "Un blizzard est un phénomène météorologique caractérisé par des vents violents, une chute soudaine et importante de la température et d'intenses chutes de neige. Ces conditions peuvent conduire à une visibilité réduite et rendre les déplacements extrêmement dangereux."
+    },
+    {
+        "id": 42,
+        "theme": "Sciences et Nature",
+        "subtheme": "Climat et Phénomènes Naturels",
+        "question": "Quel est le principal gaz à effet de serre responsable du réchauffement climatique ?",
+        "answers": [
+            "L'oxygène (O2)",
+            "Le méthane (CH4)",
+            "Le dioxyde de carbone (CO2)",
+            "L'azote (N2)",
+            "La vapeur d'eau (H2O)"
+        ],
+        "correct": "Le dioxyde de carbone (CO2)",
+        "difficulty": "facile",
+        "explanation": "Le dioxyde de carbone (CO2) est le principal gaz à effet de serre responsable du réchauffement climatique. Il est émis par des activités humaines telles que la combustion de combustibles fossiles, la déforestation et certaines pratiques agricoles. Le CO2 piége la chaleur dans l'atmosphère, ce qui contribue à l'augmentation globale des températures."
+    },
+    {
+        "id": 43,
+        "theme": "Sciences et Nature",
+        "subtheme": "Climat et Phénomènes Naturels",
+        "question": "Quel phénomène climatique se produit lorsque des couches d'air de température différente s'inversent, empêchant la dissipation des polluants ?",
+        "answers": [
+            "L'évaporation excessive",
+            "La sécheresse",
+            "L'inversion thermique",
+            "Le blizzard",
+            "Les ouragans"
+        ],
+        "correct": "L'inversion thermique",
+        "difficulty": "facile",
+        "explanation": "Une inversion thermique se produit lorsque la température de l'air augmente avec l'altitude au lieu de diminuer, créant une couche d'air plus chaude par-dessus une couche plus froide. Cela peut piéger les polluants près du sol car la couche chaude empêche le mélange vertical des couches d'air et limite l'évacuation naturelle de ces substances."
+    },
+    {
+        "id": 44,
+        "theme": "Sciences et Nature",
+        "subtheme": "Climat et Phénomènes Naturels",
+        "question": "Quel terme décrit le phénomène où des températures exceptionnellement basses sont observées dans une région généralement chaude ?",
+        "answers": [
+            "Chaleur élevée",
+            "Hiver rigoureux",
+            "Effet de serre extrême",
+            "Froid polaire",
+            "Soudain refroidissement"
+        ],
+        "correct": "Soudain refroidissement",
+        "difficulty": "facile",
+        "explanation": "Un 'soudain refroidissement' est un phénomène météorologique où des températures exceptionnellement basses sont observées dans une région qui connaît habituellement des conditions plus chaudes. Cela peut être causé par divers facteurs, y compris les courants d'air froids venant de régions polaires ou arctiques."
+    },
+    {
+        "id": 45,
+        "theme": "Sciences et Nature",
+        "subtheme": "Climat et Phénomènes Naturels",
+        "question": "Quel est le phénomène météorologique caractérisé par des précipitations continues et intenses, souvent associées à de forts vents ?",
+        "answers": [
+            "Éclaircie soudaine",
+            "Orage",
+            "Haboob",
+            "Tempête tropicale",
+            "Brouillard"
+        ],
+        "correct": "Tempête tropicale",
+        "difficulty": "facile",
+        "explanation": "Une tempête tropicale est un phénomène météorologique caractérisé par des vents soutenus, d'au moins 63 km/h (39 mph), et des précipitations importantes. Elle se forme généralement dans les régions tropicales océaniques où les conditions de température et d'humidité sont favorables à son développement."
+    },
+    {
+        "id": 46,
+        "theme": "Sciences et Nature",
+        "subtheme": "Mathématiques et Logique",
+        "question": "Quelle est la somme de tous les angles d'un triangle ?",
+        "answers": [
+            "90 degrés",
+            "180 degrés",
+            "270 degrés",
+            "360 degrés",
+            "450 degrés"
+        ],
+        "correct": "180 degrés",
+        "difficulty": "facile",
+        "explanation": "En géométrie euclidienne, la somme des angles intérieurs d'un triangle est toujours égale à 180 degrés. Cela découle du fait que si vous prolongez une ligne parallèle au côté d'un angle interne et passez un autre côté du triangle, les trois angles résultants forment un demi-cercle avec la ligne, qui a une somme angulaire totale de 180 degrés."
+    },
+    {
+        "id": 47,
+        "theme": "Sciences et Nature",
+        "subtheme": "Mathématiques et Logique",
+        "question": "Quelle est la base du système numérique décimal ?",
+        "answers": [
+            "2",
+            "3",
+            "4",
+            "10",
+            "16"
+        ],
+        "correct": "10",
+        "difficulty": "facile",
+        "explanation": "Le système numérique décimal, également connu sous le nom de système à base dix, utilise la base 10. Cela signifie qu'il y a dix chiffres utilisés (0-9) pour représenter tous les nombres dans ce système, et chaque position d'un nombre reflète une puissance différente de 10."
+    },
+    {
+        "id": 48,
+        "theme": "Sciences et Nature",
+        "subtheme": "Mathématiques et Logique",
+        "question": "Quelle est la définition d'un nombre premier ?",
+        "answers": [
+            "Un nombre qui peut être divisé par tout autre nombre sans reste.",
+            "Un nombre entier supérieur à 1 divisible uniquement par 1 et lui-même.",
+            "Tout nombre pair, sauf le zéro.",
+            "Un multiple de deux ou plus nombres différents.",
+            "Un nombre composé qui est la somme de deux nombres premiers."
+        ],
+        "correct": "Un nombre entier supérieur à 1 divisible uniquement par 1 et lui-même.",
+        "difficulty": "facile",
+        "explanation": "Un nombre premier est un nombre naturel supérieur à 1 dont les seuls diviseurs positifs sont 1 et le nombre lui-même. Cela signifie que ce nombre ne peut pas être divisé de manière égale par d'autres nombres entiers."
+    },
+    {
+        "id": 49,
+        "theme": "Sciences et Nature",
+        "subtheme": "Mathématiques et Logique",
+        "question": "Quelle est la formule pour calculer l'aire d'un cercle ?",
+        "answers": [
+            "A = 2πr",
+            "A = πr^3",
+            "A = πd",
+            "A = πr^2",
+            "A = 1/2bh"
+        ],
+        "correct": "A = πr^2",
+        "difficulty": "facile",
+        "explanation": "L'aire d'un cercle est calculée en utilisant la formule A = πr^2, où 'A' représente l'aire et 'r' le rayon du cercle. Ici, π (pi) est une constante mathématique approximativement égale à 3,14159."
+    },
+    {
+        "id": 50,
+        "theme": "Sciences et Nature",
+        "subtheme": "Mathématiques et Logique",
+        "question": "Quel est le plus petit nombre premier impair ?",
+        "answers": [
+            "1",
+            "2",
+            "3",
+            "5",
+            "7"
+        ],
+        "correct": "3",
+        "difficulty": "facile",
+        "explanation": "Les nombres premiers sont définis comme des nombres entiers supérieurs à 1 qui ne peuvent être divisés de manière égale que par 1 et eux-mêmes. Bien que 2 soit le plus petit nombre premier, il est pair. Le premier nombre premier impair est 3."
+    },
+    {
+        "id": 51,
+        "theme": "Sciences et Nature",
+        "subtheme": "Mathématiques et Logique",
+        "question": "Quelle est la formule pour calculer le périmètre d'un carré ?",
+        "answers": [
+            "P = 2l + 2w",
+            "P = l^2",
+            "P = 4s",
+            "P = πd",
+            "P = 2πr"
+        ],
+        "correct": "P = 4s",
+        "difficulty": "facile",
+        "explanation": "Le périmètre d'un carré est la longueur totale de ses côtés. Comme un carré a quatre côtés égaux, le périmètre P se calcule en multipliant la longueur d'un côté s par 4."
+    },
+    {
+        "id": 52,
+        "theme": "Sciences et Nature",
+        "subtheme": "Mathématiques et Logique",
+        "question": "Quel est le résultat de l'opération 8 ÷ 2(2+2) en suivant la priorité des opérations mathématiques standard ?",
+        "answers": [
+            "1",
+            "16",
+            "4",
+            "8",
+            "32"
+        ],
+        "correct": "16",
+        "difficulty": "facile",
+        "explanation": "Selon les règles de priorité des opérations, nous devons d'abord calculer l'expression entre parenthèses. Ainsi, 2 + 2 donne 4. Ensuite, l'équation devient 8 ÷ 2 × 4. Selon la priorité des opérations (multiplication et division de gauche à droite), nous effectuons d'abord 8 ÷ 2 qui donne 4, puis multiplions par 4 pour obtenir 16."
+    },
+    {
+        "id": 53,
+        "theme": "Sciences et Nature",
+        "subtheme": "Mathématiques et Logique",
+        "question": "Quelle est la valeur de l'angle supplémentaire d'un angle mesurant 45 degrés ?",
+        "answers": [
+            "35°",
+            "135°",
+            "90°",
+            "45°",
+            "180°"
+        ],
+        "correct": "135°",
+        "difficulty": "facile",
+        "explanation": "Deux angles sont complémentaires s'ils additionnent pour former 90 degrés et supplémentaires s'ils additionnent pour former 180 degrés. Donc, l'angle supplémentaire d'un angle mesurant 45 degrés est calculé par 180° - 45° = 135°."
+    },
+    {
+        "id": 54,
+        "theme": "Sciences et Nature",
+        "subtheme": "Mathématiques et Logique",
+        "question": "Quelle est la racine carrée de 49 ?",
+        "answers": [
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "correct": "7",
+        "difficulty": "facile",
+        "explanation": "La racine carrée d'un nombre est une valeur qui, lorsqu'elle est multipliée par elle-même, donne le nombre original. Ainsi, la racine carrée de 49 est 7, car 7 x 7 = 49."
+    },
+    {
+        "id": 55,
+        "theme": "Sciences et Nature",
+        "subtheme": "Mathématiques et Logique",
+        "question": "Combien de côtés a un hexagone ?",
+        "answers": [
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct": "6",
+        "difficulty": "facile",
+        "explanation": "Un hexagone est une figure géométrique à six côtés. Le préfixe 'hexa-' signifie six en grec, ce qui correspond au nombre de côtés d'un hexagone."
+    },
+    {
+        "id": 56,
+        "theme": "Sciences et Nature",
+        "subtheme": "Mathématiques et Logique",
+        "question": "Quelle est la valeur de π arrondie au centième le plus proche ?",
+        "answers": [
+            "3.12",
+            "3.14",
+            "3.15",
+            "3.13",
+            "3.16"
+        ],
+        "correct": "3.14",
+        "difficulty": "facile",
+        "explanation": "Le nombre π (pi) est une constante mathématique qui représente le rapport de la circonférence d'un cercle à son diamètre, et sa valeur approchée au centième le plus proche est 3.14."
+    },
+    {
+        "id": 57,
+        "theme": "Sciences et Nature",
+        "subtheme": "Mathématiques et Logique",
+        "question": "Quelle est la somme des angles intérieurs d'un triangle ?",
+        "answers": [
+            "90 degrés",
+            "180 degrés",
+            "270 degrés",
+            "360 degrés",
+            "450 degrés"
+        ],
+        "correct": "180 degrés",
+        "difficulty": "facile",
+        "explanation": "La somme des angles intérieurs d'un triangle est toujours 180 degrés. Cela s'applique à tous les triangles, qu'ils soient équilatéraux, isocèles ou scalènes."
+    },
+    {
+        "id": 58,
+        "theme": "Sciences et Nature",
+        "subtheme": "Mathématiques et Logique",
+        "question": "Quel est le produit de 6 et 7 ?",
+        "answers": [
+            "36",
+            "40",
+            "42",
+            "45",
+            "48"
+        ],
+        "correct": "42",
+        "difficulty": "facile",
+        "explanation": "Le produit de deux nombres est le résultat de leur multiplication. Ainsi, 6 multiplié par 7 égale 42."
+    },
+    {
+        "id": 59,
+        "theme": "Sciences et Nature",
+        "subtheme": "Mathématiques et Logique",
+        "question": "Quel est le plus petit nombre premier supérieur à 10 ?",
+        "answers": [
+            "9",
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "correct": "11",
+        "difficulty": "facile",
+        "explanation": "Un nombre premier est un entier naturel supérieur à 1 qui n'a pas de diviseurs positifs autres que 1 et lui-même. Le plus petit nombre premier supérieur à 10 est 11, car il ne peut être divisé exactement que par 1 et 11."
+    },
+    {
+        "id": 60,
+        "theme": "Sciences et Nature",
+        "subtheme": "Mathématiques et Logique",
+        "question": "Quelle est la racine carrée de 64 ?",
+        "answers": [
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "correct": "8",
+        "difficulty": "facile",
+        "explanation": "La racine carrée d'un nombre est un nombre qui, multiplié par lui-même, donne le nombre original. Ainsi, la racine carrée de 64 est 8, car 8 x 8 = 64."
+    },
+    {
+        "id": 61,
+        "theme": "Sciences et Nature",
+        "subtheme": "Physique et Chimie",
+        "question": "Quel est l'état d'agrégation de l'eau à une température de 25°C et sous pression atmosphérique normale ?",
+        "answers": [
+            "Solide",
+            "Gaz",
+            "Plasma",
+            "Liquide",
+            "Brouillard"
+        ],
+        "correct": "Liquide",
+        "difficulty": "facile",
+        "explanation": "À une température de 25°C et sous pression atmosphérique normale (environ 1 atm), l'eau est à l'état liquide. C'est la condition typique rencontrée dans notre environnement quotidien."
+    },
+    {
+        "id": 62,
+        "theme": "Sciences et Nature",
+        "subtheme": "Physique et Chimie",
+        "question": "Quel est le symbole chimique de l'oxygène ?",
+        "answers": [
+            "O",
+            "Oh",
+            "Os",
+            "Op",
+            "Or"
+        ],
+        "correct": "O",
+        "difficulty": "facile",
+        "explanation": "Le symbole chimique de l'élément oxygène est 'O'. C'est le deuxième élément le plus abondant dans la croûte terrestre et essentiel pour la respiration des organismes vivants."
+    },
+    {
+        "id": 63,
+        "theme": "Sciences et Nature",
+        "subtheme": "Physique et Chimie",
+        "question": "Quel est le poids moléculaire approximatif de l'eau (H2O) en unités de masse atomique (u) ?",
+        "answers": [
+            "16 u",
+            "18 u",
+            "20 u",
+            "22 u",
+            "24 u"
+        ],
+        "correct": "18 u",
+        "difficulty": "facile",
+        "explanation": "Le poids moléculaire d'une molécule d'eau est calculé en additionnant les masses atomiques de ses composants : 2 atomes d'hydrogène (chaque atome H a une masse approximative de 1 u) et un atome d'oxygène (qui a une masse approximative de 16 u). Ainsi, le poids moléculaire est 2(1 u) + 16 u = 18 u."
+    },
+    {
+        "id": 64,
+        "theme": "Sciences et Nature",
+        "subtheme": "Physique et Chimie",
+        "question": "Quel est l'élément chimique avec le numéro atomique 6 ?",
+        "answers": [
+            "Hélium",
+            "Carbone",
+            "Oxygène",
+            "Azote",
+            "Soufre"
+        ],
+        "correct": "Carbone",
+        "difficulty": "facile",
+        "explanation": "Le numéro atomique d'un élément est le nombre de protons dans le noyau de ses atomes. L'élément avec le numéro atomique 6 est le carbone, qui joue un rôle crucial dans la chimie organique et constitue la base des composés biologiques."
+    },
+    {
+        "id": 65,
+        "theme": "Sciences et Nature",
+        "subtheme": "Physique et Chimie",
+        "question": "Quel est le symbole chimique pour l'élément azote ?",
+        "answers": [
+            "Ne",
+            "N",
+            "Na",
+            "No",
+            "Ni"
+        ],
+        "correct": "N",
+        "difficulty": "facile",
+        "explanation": "Le symbole chimique de l'azote est 'N'. L'azote est un élément gazeux qui compose environ 78% de l'atmosphère terrestre par volume."
+    },
+    {
+        "id": 66,
+        "theme": "Sciences et Nature",
+        "subtheme": "Physique et Chimie",
+        "question": "Quelle est la formule chimique de l'acide chlorhydrique en solution aqueuse ?",
+        "answers": [
+            "HClO4",
+            "HC2H3O2",
+            "HNO3",
+            "H2SO4",
+            "HCl"
+        ],
+        "correct": "HCl",
+        "difficulty": "facile",
+        "explanation": "L'acide chlorhydrique est une solution aqueuse d'hydrogène et de chlore. Sa formule chimique est HCl, où H représente l'atome d'hydrogène et Cl représente l'atome de chlore."
+    },
+    {
+        "id": 67,
+        "theme": "Sciences et Nature",
+        "subtheme": "Physique et Chimie",
+        "question": "Quel est le symbole chimique de l'élément fer ?",
+        "answers": [
+            "Fe",
+            "Fr",
+            "F",
+            "Fl",
+            "Fo"
+        ],
+        "correct": "Fe",
+        "difficulty": "facile",
+        "explanation": "Le symbole chimique du fer, qui est un élément métallique très commun et utilisé dans diverses applications industrielles, est 'Fe'. Ce symbole provient de sa dénomination latine 'ferrum'."
+    },
+    {
+        "id": 68,
+        "theme": "Sciences et Nature",
+        "subtheme": "Physique et Chimie",
+        "question": "Quel est le nombre de valence de l'élément oxygène ?",
+        "answers": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correct": "2",
+        "difficulty": "facile",
+        "explanation": "L'oxygène a 6 électrons dans sa couche externe (configuration électronique : 1s² 2s² 2p⁴). Il nécessite deux électrons supplémentaires pour atteindre une configuration stable similaire à celle du gaz noble néon. Par conséquent, le nombre de valence de l'oxygène est 2."
+    },
+    {
+        "id": 69,
+        "theme": "Sciences et Nature",
+        "subtheme": "Physique et Chimie",
+        "question": "Quel est le point d'ébullition de l'eau sous une pression atmosphérique normale ?",
+        "answers": [
+            "0°C",
+            "100°C",
+            "50°C",
+            "150°C",
+            "200°C"
+        ],
+        "correct": "100°C",
+        "difficulty": "facile",
+        "explanation": "Sous une pression atmosphérique de 1 atmosphère (101,325 kPa), le point d'ébullition de l'eau est 100°C. C'est à cette température que l'eau passe de l'état liquide à l'état gazeux."
+    },
+    {
+        "id": 70,
+        "theme": "Sciences et Nature",
+        "subtheme": "Physique et Chimie",
+        "question": "Quel est le symbole chimique du sodium ?",
+        "answers": [
+            "Sd",
+            "So",
+            "Na",
+            "Sn",
+            "Ne"
+        ],
+        "correct": "Na",
+        "difficulty": "facile",
+        "explanation": "Le symbole chimique du sodium provient de son nom latin 'natrium'. Le sodium est un élément métallique alcalin très réactif, connu pour sa présence dans le sel de table (chlorure de sodium)."
+    },
+    {
+        "id": 71,
+        "theme": "Sciences et Nature",
+        "subtheme": "Physique et Chimie",
+        "question": "Quel est le nombre d'électrons dans un atome neutre de carbone ?",
+        "answers": [
+            "6",
+            "12",
+            "8",
+            "4",
+            "10"
+        ],
+        "correct": "6",
+        "difficulty": "facile",
+        "explanation": "Le numéro atomique du carbone est 6, ce qui signifie qu'il a 6 protons dans son noyau. Dans un atome neutre, le nombre de protons égale le nombre d'électrons. Par conséquent, un atome neutre de carbone possède 6 électrons."
+    },
+    {
+        "id": 72,
+        "theme": "Sciences et Nature",
+        "subtheme": "Physique et Chimie",
+        "question": "Quelle est la formule moléculaire de l'eau ?",
+        "answers": [
+            "CO2",
+            "H2O",
+            "NaCl",
+            "CH4",
+            "O2"
+        ],
+        "correct": "H2O",
+        "difficulty": "facile",
+        "explanation": "La formule moléculaire de l'eau est H2O, ce qui signifie qu'une molécule d'eau se compose de deux atomes d'hydrogène (H) et un atome d'oxygène (O). Cette structure donne à l'eau ses propriétés physiques uniques."
+    },
+    {
+        "id": 73,
+        "theme": "Sciences et Nature",
+        "subtheme": "Physique et Chimie",
+        "question": "Quelle est la masse molaire du dioxyde de carbone (CO2) en grammes par mole ?",
+        "answers": [
+            "44,01 g/mol",
+            "28,02 g/mol",
+            "32,00 g/mol",
+            "18,02 g/mol",
+            "16,00 g/mol"
+        ],
+        "correct": "44,01 g/mol",
+        "difficulty": "facile",
+        "explanation": "La masse molaire du dioxyde de carbone (CO2) est calculée en additionnant la masse atomique du carbone et celle des deux atomes d'oxygène. Le carbone a une masse atomique d'environ 12,01 g/mol, tandis que l'oxygène a une masse atomique d'environ 16,00 g/mol. Ainsi, la masse molaire de CO2 est 12,01 + (2 x 16,00) = 44,01 g/mol."
+    },
+    {
+        "id": 74,
+        "theme": "Sciences et Nature",
+        "subtheme": "Physique et Chimie",
+        "question": "Quel est le symbole chimique de l'oxygène ?",
+        "answers": [
+            "O",
+            "O2",
+            "Ok",
+            "Om",
+            "H2O"
+        ],
+        "correct": "O",
+        "difficulty": "facile",
+        "explanation": "Le symbole chimique de l'oxygène est 'O'. Ce symbole représente un atome d'oxygène. Lorsqu'il s'agit d'un molécule composée de deux atomes, comme dans le cas du dioxygène que nous respirons, elle est notée O2."
+    },
+    {
+        "id": 75,
+        "theme": "Sciences et Nature",
+        "subtheme": "Physique et Chimie",
+        "question": "Quel est l'état physique de l'argent à température ambiante ?",
+        "answers": [
+            "Solide",
+            "Liquide",
+            "Gaz",
+            "Plasma",
+            "Colloïde"
+        ],
+        "correct": "Solide",
+        "difficulty": "facile",
+        "explanation": "À température et pression ambiantes, l'argent est un métal solide. Il a un point de fusion relativement élevé à environ 961,8 °C, ce qui signifie qu'il reste solide dans des conditions normales sur Terre."
+    },
+    {
+        "id": 76,
+        "theme": "Sciences et Nature",
+        "subtheme": "Médecine et Corps Humain",
+        "question": "Combien de doigts a une main humaine typique, y compris le pouce ?",
+        "answers": [
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct": "5",
+        "difficulty": "facile",
+        "explanation": "Une main humaine typique possède cinq doigts : l'index, le majeur, l'annulaire, l'auriculaire et le pouce. Ce dernier est souvent considéré comme un sixième doigt en raison de son importance fonctionnelle distincte."
+    },
+    {
+        "id": 77,
+        "theme": "Sciences et Nature",
+        "subtheme": "Médecine et Corps Humain",
+        "question": "Quel organe du corps humain est responsable de la production des hormones thyroïdiennes ?",
+        "answers": [
+            "Le pancréas",
+            "La glande pituitaire",
+            "La glande pinéale",
+            "La glande thyroïde",
+            "La rate"
+        ],
+        "correct": "La glande thyroïde",
+        "difficulty": "facile",
+        "explanation": "La glande thyroïde, située dans la gorge juste en dessous du cartilage de la pomme d'Adam, est responsable de la production des hormones thyroïdiennes. Ces hormones jouent un rôle crucial dans le régulation du métabolisme et influencent divers processus corporels."
+    },
+    {
+        "id": 78,
+        "theme": "Sciences et Nature",
+        "subtheme": "Médecine et Corps Humain",
+        "question": "Quel est le principal composant du sang humain ?",
+        "answers": [
+            "Les globules blancs",
+            "Le plasma",
+            "Les plaquettes sanguines",
+            "Les globules rouges",
+            "Les protéines"
+        ],
+        "correct": "Le plasma",
+        "difficulty": "facile",
+        "explanation": "Le sang humain est composé d'environ 55 % de plasma, qui est la partie liquide du sang. Le plasma lui-même contient des nutriments, des gaz, des hormones et des déchets métaboliques dissous dans l'eau. Les globules rouges représentent environ 45 %, tandis que les globules blancs et les plaquettes constituent une très petite fraction."
+    },
+    {
+        "id": 79,
+        "theme": "Sciences et Nature",
+        "subtheme": "Médecine et Corps Humain",
+        "question": "Quel organe du corps humain est principalement responsable de la filtration des toxines dans le sang ?",
+        "answers": [
+            "Le foie",
+            "Les reins",
+            "La rate",
+            "Le cœur",
+            "La vésicule biliaire"
+        ],
+        "correct": "Les reins",
+        "difficulty": "facile",
+        "explanation": "Les reins sont les principaux organes responsables de la filtration des toxines, du sel et de l'excès d'eau dans le sang. Ils produisent de l'urine en filtrant le sang pour éliminer ces substances inutiles ou nocives, aidant ainsi à maintenir un environnement interne stable."
+    },
+    {
+        "id": 80,
+        "theme": "Sciences et Nature",
+        "subtheme": "Médecine et Corps Humain",
+        "question": "Quel est le terme médical pour désigner la paire de chevilles dans le corps humain ?",
+        "answers": [
+            "Métatarses",
+            "Tarses",
+            "Phalanges",
+            "Cavités glénoïdes",
+            "Carpe"
+        ],
+        "correct": "Tarses",
+        "difficulty": "facile",
+        "explanation": "En anatomie, les tarses désignent la paire de chevilles. Ils sont situés entre les os du pied inférieur (métatarses) et ceux du bas des jambes (os du tibia et du péroné). Les métatarses font partie du pied mais ne forment pas la cheville elle-même."
+    },
+    {
+        "id": 81,
+        "theme": "Sciences et Nature",
+        "subtheme": "Médecine et Corps Humain",
+        "question": "Quelle est la fonction principale des cellules sanguines appelées globules rouges ?",
+        "answers": [
+            "Faire de l'immunité contre les infections",
+            "Réguler le pH du sang",
+            "Transporter l'oxygène vers les tissus du corps",
+            "Coagulation du sang",
+            "Détruire les cellules infectées"
+        ],
+        "correct": "Transporter l'oxygène vers les tissus du corps",
+        "difficulty": "facile",
+        "explanation": "Les globules rouges, ou érythrocytes, sont principalement responsables de transporter l'oxygène des poumons aux tissus corporels et de ramener le dioxyde de carbone des tissus vers les poumons. Ils contiennent une protéine appelée hémoglobine qui peut se lier à l'oxygène, facilitant ainsi son transport."
+    },
+    {
+        "id": 82,
+        "theme": "Sciences et Nature",
+        "subtheme": "Médecine et Corps Humain",
+        "question": "Quel est le nom de l'organe du corps humain qui filtre et nettoie le sang ?",
+        "answers": [
+            "Le cœur",
+            "Les poumons",
+            "La rate",
+            "Les reins",
+            "L'estomac"
+        ],
+        "correct": "Les reins",
+        "difficulty": "facile",
+        "explanation": "Les reins sont responsables de filtrer et nettoyer le sang en éliminant les déchets sous forme d'urine. Ils jouent un rôle crucial dans la régulation de l'équilibre des fluides, des électrolytes et du pH corporel."
+    },
+    {
+        "id": 83,
+        "theme": "Sciences et Nature",
+        "subtheme": "Médecine et Corps Humain",
+        "question": "Quel système du corps humain est responsable de la défense contre les maladies et infections ?",
+        "answers": [
+            "Système nerveux",
+            "Système digestif",
+            "Système immunitaire",
+            "Système respiratoire",
+            "Système endocrinien"
+        ],
+        "correct": "Système immunitaire",
+        "difficulty": "facile",
+        "explanation": "Le système immunitaire est une collection de cellules, d'organes et de tissus qui travaillent ensemble pour protéger le corps contre les maladies. Il identifie et détruit les agents pathogènes étrangers comme les virus, les bactéries et les champignons."
+    },
+    {
+        "id": 84,
+        "theme": "Sciences et Nature",
+        "subtheme": "Médecine et Corps Humain",
+        "question": "Quelle partie du corps humain est responsable de la production de la bile ?",
+        "answers": [
+            "Le foie",
+            "La vésicule biliaire",
+            "Les reins",
+            "L'estomac",
+            "Les intestins"
+        ],
+        "correct": "Le foie",
+        "difficulty": "facile",
+        "explanation": "Le foie est responsable de la production de la bile, une substance digestive qui aide à émulsionner les graisses dans le système digestif. La vésicule biliaire stocke et concentre la bile produite par le foie avant de la libérer dans l'intestin grêle lorsque nécessaire."
+    },
+    {
+        "id": 85,
+        "theme": "Sciences et Nature",
+        "subtheme": "Médecine et Corps Humain",
+        "question": "Quelle partie du système nerveux contient le cerveau et la moelle épinière ?",
+        "answers": [
+            "Système nerveux périphérique",
+            "Système nerveux autonome",
+            "Système nerveux central",
+            "Système nerveux somatique",
+            "Nerfs crâniens"
+        ],
+        "correct": "Système nerveux central",
+        "difficulty": "facile",
+        "explanation": "Le système nerveux central (SNC) est composé du cerveau et de la moelle épinière. Il traite les informations en provenance du corps et commande des réponses, agissant comme le centre principal pour l'intelligence, la conscience et le contrôle moteur."
+    },
+    {
+        "id": 86,
+        "theme": "Sciences et Nature",
+        "subtheme": "Médecine et Corps Humain",
+        "question": "Quel est le principal composant des os dans le corps humain ?",
+        "answers": [
+            "Le collagène",
+            "L'hydroxyapatite",
+            "La kératine",
+            "Les lipides",
+            "Les protéines"
+        ],
+        "correct": "L'hydroxyapatite",
+        "difficulty": "facile",
+        "explanation": "Les os sont composés principalement d'hydroxyapatite, un minéral contenant du calcium et de la phosphore qui fournit rigidité et densité. Ils contiennent également une petite quantité de collagène, un type de protéine qui offre flexibilité et résistance."
+    },
+    {
+        "id": 87,
+        "theme": "Sciences et Nature",
+        "subtheme": "Médecine et Corps Humain",
+        "question": "Quel est le rôle principal du pancréas dans le corps humain ?",
+        "answers": [
+            "Produire des hormones de croissance",
+            "Filtrer le sang et produire l'urine",
+            "Libérer des enzymes digestives et produire de l'insuline",
+            "Équilibrer les niveaux d'eau dans le corps",
+            "Protéger contre les infections"
+        ],
+        "correct": "Libérer des enzymes digestives et produire de l'insuline",
+        "difficulty": "facile",
+        "explanation": "Le pancréas a deux rôles principaux : il libère des enzymes digestives dans la vésicule biliaire pour aider à décomposer les aliments, et produit l'hormone insuline, qui régule le niveau de sucre (glucose) dans le sang. La dysfonction pancréatique peut mener à des maladies telles que le diabète de type 1 ou 2."
+    },
+    {
+        "id": 88,
+        "theme": "Sciences et Nature",
+        "subtheme": "Médecine et Corps Humain",
+        "question": "Quel est le type de cellule sanguine responsable d'attaquer les infections dans le corps humain ?",
+        "answers": [
+            "Erythrocytes",
+            "Leucocytes",
+            "Thrombocytes",
+            "Globules rouges",
+            "Plaquettes"
+        ],
+        "correct": "Leucocytes",
+        "difficulty": "facile",
+        "explanation": "Les leucocytes, ou globules blancs, sont les cellules du sang responsables de la défense contre les infections et les agents pathogènes. Ils font partie intégrante du système immunitaire et jouent un rôle crucial dans la réponse inflammatoire. Les autres options, telles que les érythrocytes (globules rouges) et les thrombocytes (plaquettes), ont des fonctions différentes liées au transport de l'oxygène et à la coagulation du sang, respectivement."
+    },
+    {
+        "id": 89,
+        "theme": "Sciences et Nature",
+        "subtheme": "Médecine et Corps Humain",
+        "question": "Quelle partie du corps est responsable de la filtration des déchets dans le sang pour former l'urine ?",
+        "answers": [
+            "Pancréas",
+            "Reins",
+            "Foie",
+            "Rate",
+            "Poumons"
+        ],
+        "correct": "Reins",
+        "difficulty": "facile",
+        "explanation": "Les reins sont les organes principaux responsables de la filtration des déchets du sang pour former l'urine. Ils éliminent les toxines, régulent le volume et la composition chimique du plasma sanguin, et contribuent à maintenir un équilibre électrolytique dans le corps."
+    },
+    {
+        "id": 90,
+        "theme": "Sciences et Nature",
+        "subtheme": "Médecine et Corps Humain",
+        "question": "Quel est le nom du tissu nerveux qui relie les différentes parties du cerveau et contrôle des fonctions automatiques comme la respiration ?",
+        "answers": [
+            "Cortex cérébral",
+            "Mésencéphale",
+            "Tronc cérébral",
+            "Plexus solaire",
+            "Hypothalamus"
+        ],
+        "correct": "Tronc cérébral",
+        "difficulty": "facile",
+        "explanation": "Le tronc cérébral est la structure située en bas du cerveau qui relie le cerveau aux autres parties du système nerveux et contrôle des fonctions automatiques vitales telles que la respiration, la fréquence cardiaque, et les mouvements oculaires. Il s'agit d'une composante essentielle du système nerveux central."
+    }
+]

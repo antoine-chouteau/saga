@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saga</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="username-screen">
+        <h1>Saga</h1>                                       
+        <h2>Veuillez enter votre nom</h2>
+        <input type="text" id="username-input" placeholder="votre nom" />
+
+        <h2>Choisissez une difficulté :</h2>
+        <div id="difficulty-options">
+            <button class="difficulty-btn" data-difficulty="facile">Facile</button>
+            <button class="difficulty-btn" data-difficulty="moyenne">Moyen</button>
+        </div>
+
+        <button id="start-btn">Nouvelle Partie</button>
+    </div>
+
+    <div class="quiz-container" id="quiz-container" style="display: none;">
+        <div class="header-container">
+            <h1 class="title">Saga</h1>
+            <span id="question-index">Question: 1</span>
+        </div>
+        
+
+        <div class="countdown">
+            <svg viewBox="0 0 100 100">
+                <circle class="bg-circle" cx="50" cy="50" r="45"></circle>
+                <circle class="progress-circle" cx="50" cy="50" r="45"></circle>
+            </svg>
+            <span id="timer-text">30</span>
+        </div>
+
+        <div id="lives">❤️ ❤️ ❤️</div>
+        
+
+        <div id="question-container">
+            <p id="question">Question en cours...</p>
+            <div id="answer-buttons" class="btn-container"></div>
+        </div>
+
+        <button id="next-btn">Suivant</button>
+        <p id="feedback"></p>
+
+        <div id="bonusDisplay" style="display: none;"></div>
+        <button onclick="useRemoveTwoBonus()" id="useBonusBtn" style="display: none;">❌❌</button>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

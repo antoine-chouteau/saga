@@ -1,0 +1,10 @@
+Great, thanks ! Now I need you to give me, in JSON file format (omit the []), 10 total questions of difficulty "medium" for the theme [6️⃣ Culture Pop et Divertissement], for the subtheme : [6.6 Jeux Vidéos et leurs univers], it needs to be in french and in this format :  {
+    "id": "Q10",
+    "theme": "Histoire et Civilisations",
+    "subtheme": "Moyen Âge et chevaliers",
+    "question": "En quelle année la chute de Constantinople a-t-elle eu lieu ?",
+    "answers": ["1453","1492","1189","1066","1302"],
+    "correct": "1453",
+    "difficulty": "Facile",
+    "explanation": "La chute de Constantinople en 1453 a marqué la fin de l'Empire byzantin, les Ottomans prenant le contrôle de la ville après un long siège."
+  }
