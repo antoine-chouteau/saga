@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil | Saga</title>
+    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js"></script>
+    <script defer src="profil.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        .container { width: 300px; margin: auto; padding: 20px; border: 1px solid #ccc; border-radius: 10px; }
+        button { width: 100%; padding: 10px; margin-top: 10px; }
+        .perk { margin-top: 10px; }
+        .perk.unlocked { color: green; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2>Profil</h2>
+        <p><strong>Nom d'utilisateur:</strong> <span id="username">Chargement...</span></p>
+        <p><strong>Meilleur Score:</strong> <span id="best-score">0</span></p>
+        <p><strong>Monnaie:</strong> <span id="currency">0</span></p>
+
+        <h3>Avantages débloqués</h3>
+        <div id="perks-container">
+            <p>Chargement...</p>
+        </div>
+
+        <h3>Acheter un Avantage (1000 monnaie)</h3>
+        <button onclick="buyPerk()">Acheter un perk</button>
+
+        <button onclick="logout()">Se déconnecter</button>
+    </div>
+
+</body>
+</html>

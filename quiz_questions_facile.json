@@ -1,0 +1,2402 @@
+[
+    {
+        "id": 1,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quelle est la civilisation considérée comme l'une des plus anciennes dans le bassin méditerranéen, ayant prospéré vers 3000 avant J.-C. ?",
+        "answers": [
+            "Les Égyptiens",
+            "Les Mésopotamiens",
+            "Les Phéniciens",
+            "Les Grecs mycéniens",
+            "Les Hittites"
+        ],
+        "correct": "Les Mésopotamiens",
+        "difficulty": "facile",
+        "explanation": "La civilisation mésopotamienne est considérée comme l'une des plus anciennes du bassin méditerranéen. Elle a prospéré autour de 3000 avant J.-C., avec la création des premières villes-États, notamment à Sumer. Les Mésopotamiens ont développé l'écriture cunéiforme et ont fait d'importantes avancées en mathématiques, astronomie et ingénierie."
+    },
+    {
+        "id": 2,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quel est le nom du code de loi attribué au roi Hammurabi, qui date du XVIIIe siècle avant J.-C. ?",
+        "answers": [
+            "La Loi des Douze Tables",
+            "Le Code de Justinien",
+            "Les Lois Saliques",
+            "Le Code d'Hammurabi",
+            "Le Décret de Kadesh"
+        ],
+        "correct": "Le Code d'Hammurabi",
+        "difficulty": "facile",
+        "explanation": "Le Code d'Hammurabi est l'un des premiers exemples connus de code légal écrit. Rédigé sous le règne du roi Hammurabi, il date du XVIIIe siècle avant J.-C. et comprend 282 lois couvrant divers aspects de la vie quotidienne, y compris les droits civiques, les affaires économiques et le droit pénal. C'est un document essentiel pour comprendre l'administration légale de la Mésopotamie ancienne."
+    },
+    {
+        "id": 3,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quelle ville antique était connue sous le nom de 'Ville Blanche' à cause du calcaire blanc dont elle était construite ?",
+        "answers": [
+            "Thèbes",
+            "Mycènes",
+            "Athènes",
+            "Tyr",
+            "Laodicée"
+        ],
+        "correct": "Athènes",
+        "difficulty": "facile",
+        "explanation": "Athènes était souvent appelée la 'Ville Blanche' à cause du calcaire blanc abondant dans la région, utilisé pour construire de nombreux bâtiments. Ce matériau a donné aux structures classiques de la ville une teinte particulièrement lumineuse et distinctive. Cette caractéristique est notable dans des sites tels que l'Acropole d'Athènes."
+    },
+    {
+        "id": 4,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quel est le nom du grand pharaon égyptien qui a mené de nombreuses campagnes militaires et dont les momies ont été retrouvées ensemble en 1922 ?",
+        "answers": [
+            "Cléopâtre VII",
+            "Ramsès II",
+            "Thoutmôsis III",
+            "Akhenaton",
+            "Toutânkhamon"
+        ],
+        "correct": "Toutânkhamon",
+        "difficulty": "facile",
+        "explanation": "Toutânkhamon est le jeune pharaon égyptien dont la tombe fut découverte presque intacte en 1922 par l'archéologue Howard Carter dans la Vallée des Rois. La richesse des objets trouvés dans sa tombe a considérablement accru notre connaissance de l'Ancienne Égypte. Toutânkhamon est connu pour son règne relativement court et pour le mystère qui entoure sa vie et sa mort prématurée."
+    },
+    {
+        "id": 5,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quel peuple ancien est célèbre pour avoir construit un empire puissant en Mésopotamie, connu pour son centre politique à Hattusa ?",
+        "answers": [
+            "Les Égyptiens",
+            "Les Babyloniens",
+            "Les Perses",
+            "Les Hittites",
+            "Les Grecs"
+        ],
+        "correct": "Les Hittites",
+        "difficulty": "facile",
+        "explanation": "Le peuple hittite a établi un empire puissant en Anatolie, dans la région de l'actuelle Turquie, autour du XVIIIe siècle avant J.-C. Leur centre politique était Hattusa. Les Hittites sont également reconnus pour avoir été parmi les premiers à utiliser le fer et pour leurs avancées diplomatiques et militaires en Mésopotamie."
+    },
+    {
+        "id": 6,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quel est le nom de la première écriture développée en Mésopotamie autour du IVe millénaire avant J.-C. ?",
+        "answers": [
+            "L'écriture hieroglyphique",
+            "Le cunéiforme",
+            "L'alphabet phénicien",
+            "La boustrophédon",
+            "Le linéaire B"
+        ],
+        "correct": "Le cunéiforme",
+        "difficulty": "facile",
+        "explanation": "Le cunéiforme est la première forme d'écriture connue, développée par les Sumériens en Mésopotamie autour du IVe millénaire avant J.-C. Les inscriptions étaient faites avec un stylet pointu sur des tablettes d'argile, formant des signes en forme de coin ou de cunéiforme (c'est-à-dire 'en coin'). Cette écriture a évolué et a été utilisée par plusieurs civilisations dans la région pour divers langages."
+    },
+    {
+        "id": 7,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quel est le nom du légendaire trésorier du roi Midas, souvent associé à la mythe de l'or qui se transforme en orgeau ?",
+        "answers": [
+            "Prométhée",
+            "Dédale",
+            "Glaucos",
+            "Talos",
+            "Briarée"
+        ],
+        "correct": "Glaucos",
+        "difficulty": "facile",
+        "explanation": "Dans la mythologie grecque, Glaucos est le serviteur de Midas. La légende raconte qu'un jour, après avoir bu par erreur dans une rivière enchantée où les poissons avaient été changés en pierre par Hermès et Athéna, il demanda à son maître une bénédiction. Midas lui offrit le pouvoir de transformer tout ce qu'il touchait en or. Cependant, lorsque Glaucos tenta d'embrasser sa fille, elle se transforma également en statue d'or, ce qui amena Midas à regretter cette malédiction."
+    },
+    {
+        "id": 8,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quel est le nom du code de loi créé sous le règne de Hammurabi, l'un des premiers exemples d'un système légal écrit ?",
+        "answers": [
+            "Les Douze Tables",
+            "Le Code de Hammurabi",
+            "La Loi Salique",
+            "Les Lois Grecques Anciennes",
+            "Le Digeste Justinien"
+        ],
+        "correct": "Le Code de Hammurabi",
+        "difficulty": "facile",
+        "explanation": "Le Code de Hammurabi est un ensemble de lois codifiées créé sous le règne du roi babylonien Hammurabi autour de 1754 avant J.-C. C'est l'un des plus anciens exemples connus d'une loi écrite et gravée sur une stèle de pierre, exposant près de 282 articles couvrant divers aspects de la vie quotidienne. Ce code est célèbre pour son principe de réciprocité : 'œil pour œil, dent pour dent'."
+    },
+    {
+        "id": 9,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quel était le nom du premier empereur de la dynastie Han en Chine, réputé pour avoir unifié le pays et promulgué des politiques de centralisation ?",
+        "answers": [
+            "Shi Huangdi",
+            "Liu Bang",
+            "Wudi",
+            "Gaozu de Tang",
+            "Ying Zheng"
+        ],
+        "correct": "Liu Bang",
+        "difficulty": "facile",
+        "explanation": "Liu Bang, également connu sous le nom posthume d'Empereur Gaozu, est reconnu comme le premier empereur de la dynastie Han en Chine. Il a régné après avoir vaincu ses rivaux dans les guerres Chu-Han qui ont suivi l'effondrement de la dynastie Qin. Sous son règne, Liu Bang a mis en œuvre des politiques pour centraliser le pouvoir et stabiliser l'économie, posant ainsi les bases du long règne Han."
+    },
+    {
+        "id": 10,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quelle invention est attribuée à l'ancienne Mésopotamie et permettait de mesurer le temps avec précision, en utilisant une série de vases ou récipients gradués ?",
+        "answers": [
+            "La roue du potier",
+            "L'horloge solaire",
+            "Le cadran solaire",
+            "Le clepsydre",
+            "L'alidade"
+        ],
+        "correct": "Le clepsydre",
+        "difficulty": "facile",
+        "explanation": "Le clepsydre, ou horloge à eau, est une invention attribuée aux anciens Mésopotamiens. Il fonctionne en laissant l'eau s'écouler d'un récipient plus haut vers un autre récipient gradué. La mesure du temps se fait en observant le niveau de l'eau qui baisse, avec des marques préalablement gravées pour indiquer les intervalles. Cet instrument était largement utilisé dans l'Antiquité jusqu'à l'apparition d'autres méthodes plus précises."
+    },
+    {
+        "id": 11,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quel est le nom du temple égyptien célèbre pour ses colossales statues de sphinx et son allée de rois, situé à Gizeh ?",
+        "answers": [
+            "Temple d'Abou Simbel",
+            "Temple de Karnak",
+            "Nécropole de Saqqarah",
+            "Le complexe du Ramesseum",
+            "La nécropole royale de Gizeh"
+        ],
+        "correct": "La nécropole royale de Gizeh",
+        "difficulty": "facile",
+        "explanation": "La nécropole royale de Gizeh est célèbre pour ses trois grandes pyramides (la Pyramide de Khéops, la Pyramide de Khephren et la Pyramide rouge de Mykérinos) ainsi que le Sphinx de Gizeh. Cette zone est une des principales attractions touristiques du monde en raison de son importance historique et architecturale dans l'ancienne Égypte."
+    },
+    {
+        "id": 12,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quel philosophe grec est considéré comme le père de la philosophie occidentale et a posé les bases de la méthode dialectique ?",
+        "answers": [
+            "Platon",
+            "Socrate",
+            "Aristote",
+            "Épicure",
+            "Thalès"
+        ],
+        "correct": "Socrate",
+        "difficulty": "facile",
+        "explanation": "Socrate est reconnu comme le père de la philosophie occidentale. Contrairement à ses prédécesseurs, il ne rédigea pas d'écrits, mais son influence a perduré par les œuvres de ses disciples, en particulier Platon. Socrate est célèbre pour sa méthode dialectique, une approche consistant à poser des questions successives afin de stimuler la pensée critique et d'exposer les contradictions dans les arguments de l'interlocuteur."
+    },
+    {
+        "id": 13,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Dans quel pays ancien l'écriture cunéiforme a-t-elle été développée pour la première fois ?",
+        "answers": [
+            "L'Égypte antique",
+            "La Mésopotamie",
+            "La Grèce antique",
+            "L'Inde védique",
+            "Le royaume de Perse"
+        ],
+        "correct": "La Mésopotamie",
+        "difficulty": "facile",
+        "explanation": "L'écriture cunéiforme a été développée pour la première fois en Mésopotamie par les Sumériens vers le 4ème millénaire avant J.-C. Elle est l'une des premières formes d'écriture connues et était utilisée sur de petits cylindres en argile, ou tablettes, avec un stylet pointu pour inscrire les signes en forme de coin."
+    },
+    {
+        "id": 14,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quelle grande cité antique de la Grèce est connue pour ses contributions significatives à l'architecture, notamment le Parthénon ?",
+        "answers": [
+            "Sparte",
+            "Thèbes",
+            "Athènes",
+            "Corinthe",
+            "Mykénès"
+        ],
+        "correct": "Athènes",
+        "difficulty": "facile",
+        "explanation": "Athènes est célèbre pour ses contributions majeures à l'architecture et à la culture de la Grèce antique. Le Parthénon, situé sur l'Acropole d'Athènes, est un exemple emblématique du style dorique et symbolise le pic de la démocratie athénienne ainsi que les réalisations artistiques et architecturales des Grecs."
+    },
+    {
+        "id": 15,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quel pharaon célèbre a construit la Grande Pyramide de Gizeh et est souvent associé à l'Égypte ancienne ?",
+        "answers": [
+            "Ramsès II",
+            "Thoutmôsis III",
+            "Akhenaton",
+            "Khéops",
+            "Cléopâtre"
+        ],
+        "correct": "Khéops",
+        "difficulty": "facile",
+        "explanation": "La Grande Pyramide de Gizeh est l'une des Sept Merveilles du Monde Ancien et a été construite sous le règne du pharaon Khéops, également connu sous le nom de Khephren dans certaines sources. Elle fait partie d'un complexe funéraire comprenant trois pyramides majeures et est un témoignage impressionnant des compétences architecturales et organisationnelles de l'Égypte ancienne."
+    },
+    {
+        "id": 16,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quelle loi ancienne est souvent considérée comme l'une des premières tentatives de codification des lois et a été créée sous le règne du roi Hammurabi ?",
+        "answers": [
+            "Les Douze Tables",
+            "Le Code de Justinien",
+            "La Loi d'Ur-Nammu",
+            "Le Code d'Hammurabi",
+            "Le Code de Manu"
+        ],
+        "correct": "Le Code d'Hammurabi",
+        "difficulty": "facile",
+        "explanation": "Le Code d'Hammurabi est l'une des premières collections de lois écrites, créée autour de 1754 av. J.-C., sous le règne du roi babylonien Hammurabi. Les lois étaient gravées sur une stèle monumentale et couvraient divers aspects de la vie quotidienne, y compris les droits des citoyens, les obligations familiales, et les sanctions pour diverses infractions."
+    },
+    {
+        "id": 17,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quel empire antique était connu pour son vaste réseau de routes et sa politique d'ouverture au commerce, notamment sous le règne de Cyrus le Grand ?",
+        "answers": [
+            "L'Empire romain",
+            "L'Empire byzantin",
+            "L'Empire carthaginois",
+            "L'Empire maurya",
+            "L'Empire achéménide"
+        ],
+        "correct": "L'Empire achéménide",
+        "difficulty": "facile",
+        "explanation": "L'Empire achéménide, fondé par Cyrus le Grand au VIe siècle av. J.-C., est connu pour avoir établi un vaste empire qui s'étendait de l'Iran à la Grèce et de l'Afghanistan à l'Égypte. Sous sa gouvernance, il a promu une politique d'ouverture au commerce et de respect des cultures locales, tout en développant le réseau de routes royales, facilitant ainsi les échanges commerciaux et culturels."
+    },
+    {
+        "id": 18,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quel est le nom du célèbre poète grec antique qui a composé l'Iliade et l'Odyssée, deux œuvres majeures de la littérature ancienne ?",
+        "answers": [
+            "Homère",
+            "Hésiode",
+            "Sappho",
+            "Pindare",
+            "Euripide"
+        ],
+        "correct": "Homère",
+        "difficulty": "facile",
+        "explanation": "Homère est traditionnellement crédité de la composition de l'Iliade et de l'Odyssée, deux épopées fondamentales de la littérature grecque ancienne. L'Iliade raconte les événements finaux de la guerre de Troie, tandis que l'Odyssée suit le voyage du héros Odysseus (Ulysse) de retour à Ithaque après la guerre."
+    },
+    {
+        "id": 19,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quelle invention est attribuée aux anciens Égyptiens et a joué un rôle crucial dans l'écriture de leur langue ?",
+        "answers": [
+            "Le papyrus",
+            "La brique d'argile",
+            "Le parchemin",
+            "L'encre à base de soie",
+            "Les tablettes en bois"
+        ],
+        "correct": "Le papyrus",
+        "difficulty": "facile",
+        "explanation": "Les anciens Égyptiens sont crédités pour l'invention du papyrus, un matériau d'écriture fait de la plante aquatique Cyperus papyrus. Le papyrus a été largement utilisé dans l'Égypte antique pour écrire des textes administratifs, religieux et littéraires, car il était relativement facile à produire et à transporter."
+    },
+    {
+        "id": 20,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quel empereur romain est célèbre pour avoir adopté une politique de tolérance envers le christianisme et a joué un rôle clé dans sa propagation ?",
+        "answers": [
+            "Auguste",
+            "Trajan",
+            "Hadrien",
+            "Constantin Ier",
+            "Caligula"
+        ],
+        "correct": "Constantin Ier",
+        "difficulty": "facile",
+        "explanation": "L'empereur Constantin Ier est connu pour avoir promulgué l'Édit de Milan en 313 après J.-C., qui accordait la tolérance religieuse à travers l'Empire romain et permettait le culte chrétien. Cet édit a marqué un tournant dans l'histoire du christianisme, conduisant à sa propagation rapide et son institutionnalisation en tant que religion majeure de l'empire."
+    },
+    {
+        "id": 21,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quel est le nom de la ville antique qui était connue pour son oracle et sa position stratégique à l'entrée du détroit des Dardanelles ?",
+        "answers": [
+            "Athènes",
+            "Sparte",
+            "Delphes",
+            "Troy",
+            "Éphèse"
+        ],
+        "correct": "Éphèse",
+        "difficulty": "facile",
+        "explanation": "La ville antique d'Éphèse, située dans l'actuelle Turquie, était renommée pour son temple dédié à la déesse Artémis et pour le célèbre oracle qui s'y trouvait. Éphèse occupait une position stratégique importante sur les routes commerciales de l'époque, notamment à l'entrée des Dardanelles."
+    },
+    {
+        "id": 22,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quel célèbre penseur grec est souvent appelé le 'père de la philosophie' pour ses contributions à la pensée occidentale et sa méthode dialectique ?",
+        "answers": [
+            "Platon",
+            "Aristote",
+            "Socrate",
+            "Épicure",
+            "Thalès"
+        ],
+        "correct": "Socrate",
+        "difficulty": "facile",
+        "explanation": "Socrate est reconnu comme le 'père de la philosophie' en raison de son influence majeure sur l'établissement des fondements de la pensée occidentale. Connu pour sa méthode dialectique, connue sous le nom de maïeutique ou méthode socratique, Socrate a engagé ses interlocuteurs dans des discussions philosophiques approfondies pour explorer des concepts tels que la justice, la vertu et l'éthique."
+    },
+    {
+        "id": 23,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quel monument grec antique, situé à Athènes, est célèbre pour sa beauté architecturale et ses sculptures sur la frise extérieure ?",
+        "answers": [
+            "Le Parthénon",
+            "L'Acropole",
+            "La Colonne de Thésée",
+            "Les Propylées",
+            "La Tour des Vents"
+        ],
+        "correct": "Le Parthénon",
+        "difficulty": "facile",
+        "explanation": "Le Parthénon est un temple dorique situé sur l'Acropole d'Athènes, construit principalement entre 447 et 432 avant J.-C. Il est célèbre pour sa beauté architecturale et notamment ses sculptures détaillées de la frise extérieure qui représentent le festival des Panathénées. Le Parthénon symbolise l'apogée de la civilisation athénienne au Ve siècle avant J.-C."
+    },
+    {
+        "id": 24,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quelle est la principale langue écrite de l'Égypte antique, utilisée pour inscriptions et documents officiels ?",
+        "answers": [
+            "L'araméen",
+            "Le copte",
+            "Le grec ancien",
+            "La langue des hiéroglyphes égyptiens",
+            "Le latin"
+        ],
+        "correct": "La langue des hiéroglyphes égyptiens",
+        "difficulty": "facile",
+        "explanation": "La langue des hiéroglyphes égyptiens était la principale forme d'écriture de l'Égypte antique, utilisée pour les inscriptions monumentales et les documents officiels. Elle se composait de signes pictographiques qui représentaient à la fois des sons et des idées, permettant une communication complexe et détaillée dans divers domaines tels que la religion, l'administration et l'art."
+    },
+    {
+        "id": 25,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Antiquité",
+        "question": "Quelle grande muraille asiatique a été construite pour se protéger des invasions nomades du nord ?",
+        "answers": [
+            "La Muraille de Berlin",
+            "Le Limes Romain",
+            "La Grande Muraille de Chine",
+            "Les Murs de Constantinople",
+            "La Muraille d'Athènes"
+        ],
+        "correct": "La Grande Muraille de Chine",
+        "difficulty": "facile",
+        "explanation": "La Grande Muraille de Chine est une série de fortifications en terre et en pierre qui s'étend sur des milliers de kilomètres à travers le nord de la Chine. Construite principalement pendant les dynasties Qin et Ming, son but principal était de se protéger contre les invasions des tribus nomades venant du nord, notamment les Huns."
+    },
+    {
+        "id": 26,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quelle croisade a été initiée par le pape Urbain II en 1095 et visait à reprendre Jérusalem des mains des musulmans ?",
+        "answers": [
+            "Première Croisade",
+            "Deuxième Croisade",
+            "Troisième Croisade",
+            "Quatrième Croisade",
+            "Sixième Croisade"
+        ],
+        "correct": "Première Croisade",
+        "difficulty": "facile",
+        "explanation": "La Première Croisade a été lancée par le pape Urbain II lors du concile de Clermont en 1095. Son objectif principal était de reprendre Jérusalem et d'autres territoires saints aux mains des musulmans. Cette croisade s'est soldée par la prise de Jérusalem en 1099 par les forces chrétiennes, marquant le début d'une série de conflits connus sous le nom de Croisades."
+    },
+    {
+        "id": 27,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quelle tour de Londres est célèbre pour son rôle historique en tant que prison et lieu d'exécution, notamment celle de Marie Stuart ?",
+        "answers": [
+            "La Tour de la Monnaie",
+            "Le Palais de Westminster",
+            "Big Ben",
+            "Le Tower Bridge",
+            "La Tour de Londres"
+        ],
+        "correct": "La Tour de Londres",
+        "difficulty": "facile",
+        "explanation": "La Tour de Londres est un célèbre château médiéval situé sur la rive sud de la Tamise à Londres. Elle a servi de nombreuses fonctions au cours des siècles, notamment en tant que palais royal, fort militaire et prison d'État. Marie Stuart, reine d'Écosse, y fut emprisonnée avant son exécution en 1587."
+    },
+    {
+        "id": 28,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel ordre militaire et religieux a été fondé en 1099 pour protéger les pèlerins chrétiens se rendant aux Lieux Saints après la Première Croisade ?",
+        "answers": [
+            "Ordre du Temple",
+            "Chevaliers Teutoniques",
+            "Hospitaliers de Saint-Jean",
+            "Croisés Franciscains",
+            "Chevaliers de Malte"
+        ],
+        "correct": "Ordre du Temple",
+        "difficulty": "facile",
+        "explanation": "L'Ordre du Temple, également connu sous le nom d'Ordre des Templiers, a été fondé en 1099 par Hugues de Payens et quelques compagnons. Son objectif principal était la protection des pèlerins chrétiens voyageant vers Jérusalem après la Première Croisade. L'ordre s'est ensuite étendu pour devenir une puissante institution militaire et financière."
+    },
+    {
+        "id": 29,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel chevalier légendaire est connu pour sa quête du Saint Graal et a été tué par son neveu Mordred ?",
+        "answers": [
+            "Sir Lancelot du Lac",
+            "Robin des Bois",
+            "Sir Galahad",
+            "Le roi Arthur",
+            "Beowulf"
+        ],
+        "correct": "Le roi Arthur",
+        "difficulty": "facile",
+        "explanation": "Le roi Arthur est une figure emblématique de la légende arthurienne, célèbre pour avoir réuni les chevaliers de la Table Ronde et leur quête du Saint Graal. Selon la légende, il a été tué par son neveu Mordred lors de la bataille finale à Camlann."
+    },
+    {
+        "id": 30,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel traité a été signé en 1215 et est souvent considéré comme une pierre angulaire du développement de la monarchie constitutionnelle anglaise ?",
+        "answers": [
+            "La Magna Carta",
+            "Le Traité de Verdun",
+            "L'Acte d'Union",
+            "Le Concordat de Worms",
+            "Le Pacte de Varsovie"
+        ],
+        "correct": "La Magna Carta",
+        "difficulty": "facile",
+        "explanation": "La Magna Carta, signée en 1215 par le roi Jean d'Angleterre sous la pression des barons rebelles, est considérée comme un document fondateur de la démocratie moderne. Elle limitait les pouvoirs du monarque et affirmait certains droits légaux pour les nobles, posant ainsi les bases du système juridique constitutionnel en Angleterre."
+    },
+    {
+        "id": 31,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel château en France est célèbre pour être le lieu de naissance de Louis XIV, également connu sous le nom de 'Le Roi Soleil' ?",
+        "answers": [
+            "Château de Versailles",
+            "Château de Chambord",
+            "Palais des Papes d'Avignon",
+            "Château de Vincennes",
+            "Château de Saint-Germain-en-Laye"
+        ],
+        "correct": "Château de Saint-Germain-en-Laye",
+        "difficulty": "facile",
+        "explanation": "Le Château de Saint-Germain-en-Laye, situé en Île-de-France près de Paris, est le lieu où Louis XIV est né le 5 septembre 1638. Il est célèbre pour avoir été l'un des résidences favorites du roi et un centre politique important pendant son règne."
+    },
+    {
+        "id": 32,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel château est associé à la célèbre histoire de 'Robin des Bois' et se situe dans le Nottinghamshire, en Angleterre ?",
+        "answers": [
+            "Château de Warwick",
+            "Château de Windsor",
+            "Tour d'Eltham",
+            "Château de Leeds",
+            "Château de Rougemont"
+        ],
+        "correct": "Château de Rougemont",
+        "difficulty": "facile",
+        "explanation": "Le Château de Rougemont dans le Nottinghamshire est souvent associé à la légende de Robin des Bois. Bien que les détails historiques exacts puissent être incertains, il figure dans plusieurs récits mettant en scène ce personnage mythique comme le lieu où le Shérif de Nottingham avait ses quartiers."
+    },
+    {
+        "id": 33,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quelle bataille, qui a eu lieu en 1066, a marqué le début du règne normand en Angleterre sous Guillaume le Conquérant ?",
+        "answers": [
+            "Bataille de Hastings",
+            "Bataille d'Hastings (Angleterre)",
+            "Bataille d'Azincourt",
+            "Bataille de Bannockburn",
+            "Bataille de Bosworth"
+        ],
+        "correct": "Bataille de Hastings",
+        "difficulty": "facile",
+        "explanation": "La bataille de Hastings, qui s'est déroulée le 14 octobre 1066, a opposé l'armée normande dirigée par Guillaume le Conquérant à celle de Harold II, roi d'Angleterre. La victoire de Guillaume a mené à son couronnement et au début du règne normand en Angleterre."
+    },
+    {
+        "id": 34,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel ordre militaire a été fondé au XIIe siècle pour protéger les pèlerins chrétiens en Terre Sainte et est connu pour son hospitalité?",
+        "answers": [
+            "Ordre de Cluny",
+            "Templiers",
+            "Hospitaliers",
+            "Teutoniques",
+            "Chartreux"
+        ],
+        "correct": "Hospitaliers",
+        "difficulty": "facile",
+        "explanation": "L'ordre des Hospitaliers, ou Ordre de Saint-Jean de Jérusalem, a été fondé au XIIe siècle avec l'objectif principal d'hospitaliser et soigner les pèlerins chrétiens en Terre Sainte. Il est devenu un ordre militaire après la première croisade, jouant un rôle clé dans la protection des lieux saints."
+    },
+    {
+        "id": 35,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel type de tournoi médiéval était considéré comme l'épreuve ultime pour les chevaliers et impliquait le combat dans des arènes fermées?",
+        "answers": [
+            "Joute",
+            "Tournoi de la quintaine",
+            "Tjost",
+            "Jeu du paon",
+            "Juste"
+        ],
+        "correct": "Juste",
+        "difficulty": "facile",
+        "explanation": "La 'juste' était une forme particulière de tournoi médiéval qui se déroulait dans des arènes fermées et ressemblait à un combat singulier. Elle impliquait souvent le combat à pied, et les participants devaient prouver leur habileté martiale en affrontant plusieurs adversaires successivement."
+    },
+    {
+        "id": 36,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel célèbre traité médiéval, signé en 1215, a établi certaines limites à la puissance du roi d'Angleterre et est considéré comme un précurseur des droits civils modernes?",
+        "answers": [
+            "Traité de Verdun",
+            "Charte des Libertés anglaises",
+            "Magna Carta",
+            "Édit de Nantes",
+            "Pacte de Varsovie"
+        ],
+        "correct": "Magna Carta",
+        "difficulty": "facile",
+        "explanation": "La Magna Carta, ou Grande Charte, a été signée en 1215 par le roi Jean sans Terre d'Angleterre. Ce document historique limitait les pouvoirs arbitraires du souverain et accordait certaines libertés à la noblesse et aux citoyens, posant ainsi les fondations des droits légaux modernes."
+    },
+    {
+        "id": 37,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel symbole héraldique, souvent associé aux chevaliers et utilisé dans les armoiries médiévales, représente la protection divine?",
+        "answers": [
+            "Croix",
+            "Fleur de lys",
+            "Lion",
+            "Aigle",
+            "Étoile"
+        ],
+        "correct": "Croix",
+        "difficulty": "facile",
+        "explanation": "La croix est un symbole fort dans le contexte médiéval, souvent associée à la protection divine et au christianisme. Elle apparaît fréquemment dans les armoiries pour symboliser la foi chrétienne des chevaliers ou leurs liens avec l'Église."
+    },
+    {
+        "id": 38,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quelle est la devise de l'ordre des chevaliers teutoniques, qui symbolise leur mission et foi chrétienne?",
+        "answers": [
+            "Honi soit qui mal y pense",
+            "Deus vult",
+            "In hoc signo vinces",
+            "Purgate vetus fermentum",
+            "Per crucem ad lucem"
+        ],
+        "correct": "Purgate vetus fermentum",
+        "difficulty": "facile",
+        "explanation": "La devise des chevaliers teutoniques est 'Purgate vetus fermentum', qui signifie 'Éliminez le vieux levain'. Elle symbolise leur mission de purifier et protéger les terres chrétiennes contre l'influence non-chrétienne, en accord avec leurs objectifs religieux et militaires."
+    },
+    {
+        "id": 39,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel tournoi médiéval, souvent considéré comme un précurseur de la joute, consistait à briser des lances contre celles d'adversaires montés sur chevaux?",
+        "answers": [
+            "Juste",
+            "Joute",
+            "Tjost",
+            "Tournoi de la quintaine",
+            "Jeu du paon"
+        ],
+        "correct": "Tjost",
+        "difficulty": "facile",
+        "explanation": "La tjost est une forme de tournoi médiéval où les chevaliers s'affrontaient en lançant leurs lances contre celles des adversaires tout en étant montés sur chevaux. Elle était considérée comme un précurseur de la joute, qui est apparue plus tard."
+    },
+    {
+        "id": 40,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel célèbre cycle de romans en prose, racontant les aventures d'un chevalier nommé Lancelot et ses exploits au service du roi Arthur, est un élément essentiel de la littérature médiévale?",
+        "answers": [
+            "Les Contes de Canterbury",
+            "Le Roman de Renart",
+            "La Chanson de Roland",
+            "Le Cycle de Lancelot-Grail",
+            "Les Quatre Filles du docteur March"
+        ],
+        "correct": "Le Cycle de Lancelot-Grail",
+        "difficulty": "facile",
+        "explanation": "Le Cycle de Lancelot-Grail, aussi connu sous le nom de Vulgate Cycle ou Prose Lancelot, est un ensemble de romans en prose médiévaux qui développent l'histoire du roi Arthur et des chevaliers de la Table Ronde. Ce cycle met particulièrement en avant les aventures de Lancelot."
+    },
+    {
+        "id": 41,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel était le principal rôle des chevaliers dans la société médiévale?",
+        "answers": [
+            "Gérer les affaires commerciales",
+            "Rédiger des lois et constitutions",
+            "Offrir protection et service militaire",
+            "Pratiquer la médecine",
+            "Construire des cathédrales"
+        ],
+        "correct": "Offrir protection et service militaire",
+        "difficulty": "facile",
+        "explanation": "Les chevaliers dans la société médiévale étaient principalement chargés de fournir une protection aux seigneurs féodaux, au roi, ou à l'Église en échange d'une terre. Leur rôle incluait le service militaire et participer aux guerres pour défendre ou étendre les territoires."
+    },
+    {
+        "id": 42,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel vêtement était traditionnellement porté par les chevaliers en dessous de leur armure durant le Moyen Âge?",
+        "answers": [
+            "Gambeson",
+            "Tunique",
+            "Cotte de mailles",
+            "Chausses",
+            "Pourpoint"
+        ],
+        "correct": "Gambeson",
+        "difficulty": "facile",
+        "explanation": "Le gambeson était une veste rembourrée en toile ou en cuir, souvent utilisée par les chevaliers comme couche intermédiaire sous l'armure. Il offrait à la fois protection et confort supplémentaire contre le frottement de l'armure."
+    },
+    {
+        "id": 43,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel est le nom du célèbre ordre militaire chrétien fondé au XIIe siècle, initialement pour protéger les pèlerins se rendant en Terre Sainte?",
+        "answers": [
+            "Ordre de Calatrava",
+            "Templiers",
+            "Hospitaliers",
+            "Teutoniques",
+            "Chevaliers Porte-Glaive"
+        ],
+        "correct": "Templiers",
+        "difficulty": "facile",
+        "explanation": "L'ordre des Templiers, officiellement connu sous le nom d'Ordre du Temple, a été fondé au début du XIIe siècle pour protéger les pèlerins chrétiens en Terre Sainte. Ils sont devenus l'un des ordres militaires et financiers les plus puissants de leur époque."
+    },
+    {
+        "id": 44,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel était le rôle principal du seigneur féodal dans la société médiévale?",
+        "answers": [
+            "Rédiger des lois et constitutions",
+            "Gérer les affaires commerciales",
+            "Protéger son territoire et ses vassaux",
+            "Pratiquer la médecine",
+            "Construire des cathédrales"
+        ],
+        "correct": "Protéger son territoire et ses vassaux",
+        "difficulty": "facile",
+        "explanation": "Dans la société féodale du Moyen Âge, le rôle principal d'un seigneur féodal était de protéger son territoire ainsi que les personnes qui y vivaient, notamment ses vassaux. En échange de cette protection, il recevait leur allégeance et souvent des services ou une part de la production agricole."
+    },
+    {
+        "id": 45,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quelle était la fonction principale de l'écuyer dans la société féodale?",
+        "answers": [
+            "Construire des forteresses",
+            "Aider et former les chevaliers en herbe",
+            "Rédiger des documents légaux",
+            "Pratiquer le commerce",
+            "Servir de médecin"
+        ],
+        "correct": "Aider et former les chevaliers en herbe",
+        "difficulty": "facile",
+        "explanation": "Dans la société féodale, l'écuyer était un jeune homme qui servait sous un chevalier. Sa principale fonction consistait à aider ce dernier dans ses tâches quotidiennes tout en apprenant les compétences nécessaires pour devenir chevalier lui-même."
+    },
+    {
+        "id": 46,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quelle était la principale raison pour laquelle les tournois étaient organisés pendant le Moyen Âge?",
+        "answers": [
+            "Pour établir de nouvelles lois féodales",
+            "Pour divertir la cour royale et pratiquer les compétences militaires",
+            "Pour négocier des traités commerciaux",
+            "Pour élire un nouveau roi",
+            "Pour promouvoir l'agriculture"
+        ],
+        "correct": "Pour divertir la cour royale et pratiquer les compétences militaires",
+        "difficulty": "facile",
+        "explanation": "Les tournois pendant le Moyen Âge étaient organisés principalement pour divertir la noblesse, y compris la cour royale. Ils offraient également une occasion aux chevaliers de pratiquer leurs compétences martiales dans un contexte simulé, ce qui était essentiel à leur formation."
+    },
+    {
+        "id": 47,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel type d'armure était généralement porté par les chevaliers au cours de la période médiévale pour une protection maximale?",
+        "answers": [
+            "Bouclier rond",
+            "Armure de mailles",
+            "Cotte de mailles",
+            "Jambières",
+            "Casque en cuir"
+        ],
+        "correct": "Cotte de mailles",
+        "difficulty": "facile",
+        "explanation": "La cotte de mailles était une armure corporelle composée d'intersections de chaînes métalliques. Elle offrait une protection maximale contre les coups et était couramment portée par les chevaliers pendant le Moyen Âge, surtout à partir du XIIe siècle."
+    },
+    {
+        "id": 48,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel document symbolise la loyauté et l'allégeance d'un chevalier à son seigneur durant le Moyen Âge?",
+        "answers": [
+            "Charte de libertés",
+            "Livre des serfs",
+            "Hommage féodal",
+            "Bref d'ordonnance",
+            "Traité commercial"
+        ],
+        "correct": "Hommage féodal",
+        "difficulty": "facile",
+        "explanation": "L'hommage féodal était un rituel par lequel un chevalier prêtait allégeance à son seigneur, symbolisant sa loyauté et son service. Cela faisait partie intégrante des pratiques féodales du Moyen Âge."
+    },
+    {
+        "id": 49,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel était l'un des codes de conduite que les chevaliers étaient censés suivre pendant le Moyen Âge?",
+        "answers": [
+            "Code du samouraï",
+            "Éthique monastique",
+            "Chivalry Code",
+            "Code d'honneur naval",
+            "Code de la route médiévale"
+        ],
+        "correct": "Chivalry Code",
+        "difficulty": "facile",
+        "explanation": "Le code de chevalerie, ou Chivalry Code, était un ensemble de règles éthiques et morales que les chevaliers devaient suivre. Il mettait l'accent sur la bravoure, le respect des faibles, de l'honneur et de la loyauté envers son seigneur."
+    },
+    {
+        "id": 50,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Moyen Âge et chevaliers",
+        "question": "Quel était l'animal emblématique souvent associé aux chevaliers, symbolisant force et noblesse?",
+        "answers": [
+            "Lion",
+            "Aigle",
+            "Cheval",
+            "Chien",
+            "Faucon"
+        ],
+        "correct": "Cheval",
+        "difficulty": "facile",
+        "explanation": "Le cheval était l'animal emblématique des chevaliers, symbolisant force, noblesse et courage. C'était un compagnon essentiel pour les chevaliers, tant sur le champ de bataille que lors des tournois."
+    },
+    {
+        "id": 51,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel événement de la Révolution française est symbolisé par l'exécution du roi Louis XVI?",
+        "answers": [
+            "La prise de la Bastille",
+            "Le Fédéralisme",
+            "Le coup d'état du 18 Brumaire",
+            "La Terreur",
+            "L'exécution du roi"
+        ],
+        "correct": "L'exécution du roi",
+        "difficulty": "facile",
+        "explanation": "L'exécution de Louis XVI le 21 janvier 1793 est un événement clé de la Révolution française, symbolisant le rejet définitif de l'absolutisme monarchique et le passage à une république."
+    },
+    {
+        "id": 52,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel document, adopté pendant la Révolution américaine en 1776, proclame l'indépendance des Treize colonies vis-à-vis de la Grande-Bretagne?",
+        "answers": [
+            "La Constitution des États-Unis",
+            "La Déclaration d'Indépendance",
+            "Les Articles de la Confédération",
+            "Le Traité de Paris",
+            "La Proclamation royale"
+        ],
+        "correct": "La Déclaration d'Indépendance",
+        "difficulty": "facile",
+        "explanation": "La Déclaration d'Indépendance, adoptée le 4 juillet 1776 par le Congrès continental, proclamait l'indépendance des Treize colonies américaines vis-à-vis du pouvoir britannique."
+    },
+    {
+        "id": 53,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel événement de la Révolution française a marqué le début de l'ère républicaine en France?",
+        "answers": [
+            "La prise de la Bastille",
+            "L'exécution du roi Louis XVI",
+            "Le coup d'état du 18 Brumaire",
+            "La proclamation de la Constitution civile du clergé",
+            "La création de l'Assemblée constituante"
+        ],
+        "correct": "L'exécution du roi Louis XVI",
+        "difficulty": "facile",
+        "explanation": "L'exécution de Louis XVI le 21 janvier 1793 a marqué le passage définitif à la République en France, éliminant toute possibilité de retour au pouvoir royal."
+    },
+    {
+        "id": 54,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel événement de la Révolution industrielle a considérablement transformé les méthodes de production au XVIIIème siècle?",
+        "answers": [
+            "L'invention du télégraphe",
+            "Le développement des voitures à vapeur",
+            "La découverte de l'électricité",
+            "L'introduction de la machine à vapeur",
+            "La création des chemins de fer"
+        ],
+        "correct": "L'introduction de la machine à vapeur",
+        "difficulty": "facile",
+        "explanation": "L'introduction de la machine à vapeur par James Watt au milieu du XVIIIème siècle a révolutionné les industries en augmentant considérablement l'efficacité des processus de production, notamment dans le textile et le transport."
+    },
+    {
+        "id": 55,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel document a marqué le début de la Révolution américaine en déclarant l'indépendance des colonies britanniques?",
+        "answers": [
+            "La Constitution des États-Unis",
+            "Le Manifeste du Congrès continental",
+            "Les Articles de la Confédération",
+            "La Déclaration d'Indépendance",
+            "Le Traité de Paris"
+        ],
+        "correct": "La Déclaration d'Indépendance",
+        "difficulty": "facile",
+        "explanation": "Adoptée le 4 juillet 1776 par le Congrès continental, la Déclaration d'Indépendance a officiellement marqué le début de l'indépendance des Treize colonies américaines vis-à-vis du Royaume-Uni."
+    },
+    {
+        "id": 56,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quelle révolution a abouti à la création de la Première République française en 1792?",
+        "answers": [
+            "La Révolution industrielle",
+            "La Révolution américaine",
+            "La Révolution glorieuse",
+            "La Révolution française",
+            "La Révolution des Carpenters"
+        ],
+        "correct": "La Révolution française",
+        "difficulty": "facile",
+        "explanation": "La Révolution française, qui a débuté en 1789, a conduit à de nombreux changements politiques et sociaux en France. En 1792, la monarchie fut abolie et la Première République française fut proclamée."
+    },
+    {
+        "id": 57,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel événement est souvent considéré comme le catalyseur de la Révolution française en 1789?",
+        "answers": [
+            "La prise de la Bastille",
+            "L'exécution du roi Louis XVI",
+            "Le coup d'état du 18 Brumaire",
+            "La publication des Cahiers de doléances",
+            "La mort de Robespierre"
+        ],
+        "correct": "La prise de la Bastille",
+        "difficulty": "facile",
+        "explanation": "La prise de la Bastille le 14 juillet 1789 est souvent vue comme le début de la Révolution française. Cet événement symbolique a marqué un soulèvement populaire contre l'autorité royale et a conduit à des changements significatifs dans la structure politique de la France."
+    },
+    {
+        "id": 58,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel événement a marqué la fin de l'Ancien Régime en France et le début de la Révolution française?",
+        "answers": [
+            "La prise de la Bastille",
+            "L'exécution du roi Louis XVI",
+            "La publication des Droits de l'Homme et du Citoyen",
+            "Le coup d'état du 18 Brumaire",
+            "La création de l'Assemblée nationale constituante"
+        ],
+        "correct": "La prise de la Bastille",
+        "difficulty": "facile",
+        "explanation": "La prise de la Bastille le 14 juillet 1789 est souvent considérée comme le symbole du début de la Révolution française et la fin de l'Ancien Régime. Cet événement a marqué une montée en puissance des forces populaires contre la monarchie."
+    },
+    {
+        "id": 59,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel pays a connu une révolution en 1917 qui a mené à l'établissement d'un régime communiste sous la direction de Lénine?",
+        "answers": [
+            "La Russie",
+            "L'Allemagne",
+            "Le Mexique",
+            "La Chine",
+            "La France"
+        ],
+        "correct": "La Russie",
+        "difficulty": "facile",
+        "explanation": "En 1917, la Révolution russe a abouti à la chute de l'Empire russe et à la prise de pouvoir par les bolcheviks dirigés par Lénine. Cela a conduit à l'établissement du premier État communiste au monde."
+    },
+    {
+        "id": 60,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel mouvement a débuté en 1989, menant à la chute du mur de Berlin et l'effondrement du bloc communiste européen?",
+        "answers": [
+            "Le Printemps arabe",
+            "Les Révolutions des Jasmin",
+            "La Révolution verte",
+            "La Révolution de velours",
+            "La Marche des gauches"
+        ],
+        "correct": "La Révolution de velours",
+        "difficulty": "facile",
+        "explanation": "La Révolution de velours est le terme utilisé pour décrire la transition pacifique vers une démocratie en Tchécoslovaquie, culminant avec la chute du mur de Berlin en 1989 et contribuant à l'effondrement des régimes communistes en Europe de l'Est."
+    },
+    {
+        "id": 61,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel événement a marqué la fin de l'Empire romain d'Occident en 476 après J.-C.?",
+        "answers": [
+            "La bataille de Manzikert",
+            "La chute de Constantinople",
+            "Le sac de Rome par Alaric Ier",
+            "L'invasion des Huns sous Attila",
+            "Le couronnement de Charlemagne"
+        ],
+        "correct": "Le sac de Rome par Alaric Ier",
+        "difficulty": "facile",
+        "explanation": "Bien que le sac de Rome par Alaric Ier en 410 après J.-C. soit un événement important, c'est l'abdication forcée de l'empereur romain d'Occident Romulus Augustule en 476 qui marque officiellement la fin de l'Empire romain d'Occident, marquant ainsi le début du Moyen Âge."
+    },
+    {
+        "id": 62,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel événement a marqué le début de la Révolution industrielle en Angleterre au XVIIIe siècle?",
+        "answers": [
+            "La découverte du Nouveau Monde",
+            "L'invention de la machine à vapeur par James Watt",
+            "Le couronnement de Louis XVI",
+            "Les guerres napoléoniennes",
+            "La bataille de Waterloo"
+        ],
+        "correct": "L'invention de la machine à vapeur par James Watt",
+        "difficulty": "facile",
+        "explanation": "L'amélioration et l'application de la machine à vapeur par James Watt au milieu du XVIIIe siècle ont été cruciales pour le développement des industries textiles, minières et autres secteurs, marquant ainsi le début de la Révolution industrielle en Angleterre."
+    },
+    {
+        "id": 63,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel événement a marqué le début de la Révolution française en 1789?",
+        "answers": [
+            "La bataille d'Austerlitz",
+            "La prise de la Bastille",
+            "Le couronnement de Napoléon Bonaparte",
+            "La signature du traité de Versailles",
+            "L'exécution du roi Louis XVI"
+        ],
+        "correct": "La prise de la Bastille",
+        "difficulty": "facile",
+        "explanation": "La prise de la Bastille le 14 juillet 1789 est considérée comme l'événement symbolique qui a marqué le début de la Révolution française, reflétant les tensions sociales et économiques croissantes en France à cette époque."
+    },
+    {
+        "id": 64,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel événement a marqué la fin de l'Ancien Régime en France en 1789?",
+        "answers": [
+            "La signature du traité de Versailles",
+            "L'exécution de Louis XVI",
+            "Le sacre de Napoléon Bonaparte",
+            "La prise de la Bastille",
+            "La bataille d'Austerlitz"
+        ],
+        "correct": "La prise de la Bastille",
+        "difficulty": "facile",
+        "explanation": "La prise de la Bastille le 14 juillet 1789 est vue comme un événement clé qui a marqué la fin de l'Ancien Régime en France. Cela a symbolisé la lutte du peuple contre l'absolutisme et les privilèges féodaux, ouvrant la voie à une série de réformes radicales."
+    },
+    {
+        "id": 65,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quelle révolution a conduit à l'indépendance de l'Irlande du Sud en 1922?",
+        "answers": [
+            "La Révolution russe",
+            "La Guerre des Boers",
+            "Le Mouvement national indien",
+            "L'Irish War of Independence",
+            "La Seconde guerre mondiale"
+        ],
+        "correct": "L'Irish War of Independence",
+        "difficulty": "facile",
+        "explanation": "La période connue sous le nom de l'Irish War of Independence, qui s'est déroulée de 1919 à 1921, a conduit à la signature du Traité anglo-irlandais en 1921. Ce traité a établi l'État libre d'Irlande, accordant une autonomie significative et marquant ainsi le début de l'indépendance de l'Irlande du Sud en 1922."
+    },
+    {
+        "id": 66,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel événement a marqué la fin de la dynastie des Qing en Chine en 1912?",
+        "answers": [
+            "La Révolution industrielle chinoise",
+            "La Guerre sino-japonaise",
+            "Le Mouvement des Boxers",
+            "La Révolution Xinhai",
+            "L'expansion coloniale européenne"
+        ],
+        "correct": "La Révolution Xinhai",
+        "difficulty": "facile",
+        "explanation": "La Révolution Xinhai, également connue sous le nom de révolution de 1911-1912, a conduit à la chute de la dynastie Qing et l'établissement de la République de Chine. Cet événement marqua un changement majeur dans l'histoire politique chinoise en mettant fin au dernier empire impérial de Chine."
+    },
+    {
+        "id": 67,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel événement a marqué le début de la Révolution mexicaine en 1910?",
+        "answers": [
+            "La prise du Palacio Nacional",
+            "Le coup d'État de Porfirio Díaz",
+            "L'appel à l'insurrection par Francisco I. Madero",
+            "L'exécution des réformistes",
+            "La signature du Traité de Guadalupe Hidalgo"
+        ],
+        "correct": "L'appel à l'insurrection par Francisco I. Madero",
+        "difficulty": "facile",
+        "explanation": "Francisco I. Madero a publié le Plan de San Luis Potosí en octobre 1910, appelant les Mexicains à s'insurger contre la réélection du président Porfirio Díaz. Cet événement est considéré comme le déclencheur de la Révolution mexicaine."
+    },
+    {
+        "id": 68,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel événement a conduit à l'indépendance des Pays-Bas de la domination espagnole en 1648?",
+        "answers": [
+            "La Paix d'Augsbourg",
+            "Les guerres napoléoniennes",
+            "Le Traité de Westphalie",
+            "La Déclaration d'Indépendance américaine",
+            "La bataille de Waterloo"
+        ],
+        "correct": "Le Traité de Westphalie",
+        "difficulty": "facile",
+        "explanation": "Le Traité de Westphalie, signé en 1648, a mis fin à la Guerre de Trente Ans et a reconnu l'indépendance des Provinces-Unies (Pays-Bas) vis-à-vis de l'Espagne. Cet événement marqua un tournant important dans les relations de pouvoir en Europe."
+    },
+    {
+        "id": 69,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel événement a marqué le début de la Guerre d'indépendance des États-Unis en 1775?",
+        "answers": [
+            "La signature du Traité de Paris",
+            "L'exécution de Charles Ier",
+            "Les batailles de Lexington et Concord",
+            "La déclaration de l'Indépendance américaine",
+            "Le traité de Versailles"
+        ],
+        "correct": "Les batailles de Lexington et Concord",
+        "difficulty": "facile",
+        "explanation": "Les batailles de Lexington et Concord, qui ont eu lieu en avril 1775, sont considérées comme le début des hostilités armées entre les colonies américaines et la Grande-Bretagne. Ces affrontements marquèrent le début de la Guerre d'indépendance des États-Unis."
+    },
+    {
+        "id": 70,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel événement a marqué le début de la Révolution française en 1789?",
+        "answers": [
+            "La prise de la Bastille",
+            "La bataille d'Austerlitz",
+            "Le coup d'État du 18 Brumaire",
+            "La déclaration des droits de l'homme et du citoyen",
+            "L'exécution de Louis XVI"
+        ],
+        "correct": "La prise de la Bastille",
+        "difficulty": "facile",
+        "explanation": "La prise de la Bastille le 14 juillet 1789 est un événement symbolique qui marque le début de la Révolution française. Ce soulèvement contre les symboles du pouvoir royal et de l'oppression a galvanisé d'autres révoltes à travers la France."
+    },
+    {
+        "id": 71,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quelle année a marqué le début de la Révolution industrielle en Angleterre?",
+        "answers": [
+            "1700",
+            "1750",
+            "1800",
+            "1830",
+            "1900"
+        ],
+        "correct": "1750",
+        "difficulty": "facile",
+        "explanation": "La Révolution industrielle est généralement considérée comme ayant commencé vers 1750 en Angleterre, avec des avancées technologiques et une augmentation de la production qui ont transformé les économies agraires en sociétés industrielles."
+    },
+    {
+        "id": 72,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel document, publié en 1789, a énoncé les droits fondamentaux des citoyens français pendant la Révolution française?",
+        "answers": [
+            "La Déclaration d'indépendance américaine",
+            "Le Manifeste communiste",
+            "La Charte constitutionnelle de 1814",
+            "La Constitution française de 1791",
+            "La Déclaration des droits de l'homme et du citoyen"
+        ],
+        "correct": "La Déclaration des droits de l'homme et du citoyen",
+        "difficulty": "facile",
+        "explanation": "Adoptée par l'Assemblée nationale le 26 août 1789, la Déclaration des droits de l'homme et du citoyen énonçait les principes fondamentaux des droits individuels et des libertés civiles, influencée en partie par la philosophie des Lumières."
+    },
+    {
+        "id": 73,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Qui a initié la Réforme en lançant ses 95 thèses en 1517?",
+        "answers": [
+            "Jules II",
+            "Henri VIII",
+            "Martin Luther",
+            "Jean Calvin",
+            "Ignace de Loyola"
+        ],
+        "correct": "Martin Luther",
+        "difficulty": "facile",
+        "explanation": "Martin Luther, un moine et théologien allemand, a initié la Réforme protestante en publiant ses 95 thèses le 31 octobre 1517, critiquant les pratiques de l'Église catholique romaine, notamment celle des indulgences."
+    },
+    {
+        "id": 74,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel événement, en 1789, a symbolisé le début de la Révolution française?",
+        "answers": [
+            "La mort de Louis XVI",
+            "L'assassinat de Jean-Paul Marat",
+            "La prise de la Bastille",
+            "Le coup d'État du 18 Brumaire",
+            "La bataille de Valmy"
+        ],
+        "correct": "La prise de la Bastille",
+        "difficulty": "facile",
+        "explanation": "La prise de la Bastille le 14 juillet 1789 est considérée comme un événement symbolique marquant le début de la Révolution française. Ce bastion royal était vu comme un symbole de l'oppression du roi, et sa chute a galvanisé les révolutions dans tout le pays."
+    },
+    {
+        "id": 75,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Révolutions et grands bouleversements",
+        "question": "Quel événement est considéré comme le point de départ de la Révolution américaine en 1775?",
+        "answers": [
+            "La signature du traité de Paris",
+            "Le discours de Gettysburg",
+            "Les batailles de Lexington et Concord",
+            "L'adoption de la Déclaration d'indépendance",
+            "La création de l'Union des États"
+        ],
+        "correct": "Les batailles de Lexington et Concord",
+        "difficulty": "facile",
+        "explanation": "Les batailles de Lexington et Concord, qui ont eu lieu le 19 avril 1775, marquent les premiers engagements militaires entre les colonies américaines et les forces britanniques. Ces affrontements sont souvent considérés comme le début officiel de la Révolution américaine."
+    },
+    {
+        "id": 76,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel événement a officiellement marqué la fin de la Première Guerre mondiale en 1918?",
+        "answers": [
+            "La bataille de Verdun",
+            "Le traité de Versailles",
+            "L'armistice du 11 novembre 1918",
+            "La prise de Constantinople",
+            "La révolution russe"
+        ],
+        "correct": "L'armistice du 11 novembre 1918",
+        "difficulty": "facile",
+        "explanation": "L'armistice signé le 11 novembre 1918 a mis fin aux combats entre les Alliés et l'Allemagne pendant la Première Guerre mondiale. Cet armistice est souvent considéré comme le jour où la guerre s'est officiellement terminée, bien que le traité de Versailles en 1919 ait formalisé sa conclusion."
+    },
+    {
+        "id": 77,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel pays a lancé l'attaque sur Pearl Harbor, entraînant les États-Unis dans la Seconde Guerre mondiale en 1941?",
+        "answers": [
+            "Le Japon",
+            "L'Italie",
+            "L'Allemagne nazie",
+            "La Russie soviétique",
+            "La Chine"
+        ],
+        "correct": "Le Japon",
+        "difficulty": "facile",
+        "explanation": "Le Japon a lancé une attaque surprise sur la base navale américaine de Pearl Harbor à Hawaï le 7 décembre 1941. Cette attaque a conduit les États-Unis à entrer dans la Seconde Guerre mondiale, déclarant la guerre au Japon le lendemain."
+    },
+    {
+        "id": 78,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel événement est considéré comme le début de la guerre en Europe pendant la Seconde Guerre mondiale?",
+        "answers": [
+            "La bataille de Stalingrad",
+            "L'invasion de l'Union soviétique",
+            "Le débarquement en Normandie",
+            "L'invasion de la Pologne par l'Allemagne nazie",
+            "L'attaque sur Pearl Harbor"
+        ],
+        "correct": "L'invasion de la Pologne par l'Allemagne nazie",
+        "difficulty": "facile",
+        "explanation": "Le 1er septembre 1939, l'Allemagne nazie a envahi la Pologne, déclenchant ainsi le début de la Seconde Guerre mondiale en Europe. Cet événement a conduit à la déclaration de guerre de la France et du Royaume-Uni contre l'Allemagne, marquant officiellement le commencement des hostilités."
+    },
+    {
+        "id": 79,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel document a officiellement marqué la fin de la Seconde Guerre mondiale en Europe?",
+        "answers": [
+            "La Déclaration d'indépendance des États-Unis",
+            "Le traité de Versailles",
+            "L'armistice du 11 novembre 1918",
+            "Les actes de capitulation signés à Reims et Berlin en 1945",
+            "La Charte de l'Atlantique"
+        ],
+        "correct": "Les actes de capitulation signés à Reims et Berlin en 1945",
+        "difficulty": "facile",
+        "explanation": "La Seconde Guerre mondiale s'est officiellement terminée en Europe avec la signature des actes de capitulation par les forces allemandes. Le premier a été signé le 7 mai 1945 à Reims, France, et le second confirmé à Berlin le 8 mai 1945. Ces actes ont mis fin aux hostilités entre les Alliés occidentaux et l'Allemagne nazie."
+    },
+    {
+        "id": 80,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel événement a marqué le début de la guerre du Vietnam?",
+        "answers": [
+            "Le massacre de Nuit de Cristal",
+            "L'attaque sur Pearl Harbor",
+            "La bataille des Six Jours",
+            "Les bombardements de Đà Lạt en 1956",
+            "L'invasion de la Corée du Sud par la Corée du Nord"
+        ],
+        "correct": "Les bombardements de Đà Lạt en 1956",
+        "difficulty": "facile",
+        "explanation": "Bien que souvent considéré comme le début officiel de l'implication américaine, les bombardements de Đà Lạt ont eu lieu en 1956 et sont vus par beaucoup d'historiens comme un des premiers signes significatifs de la guerre du Vietnam. Ces attaques étaient destinées à soutenir le gouvernement sud-vietnamien contre les forces communistes au Sud, marquant une escalade militaire dans la région."
+    },
+    {
+        "id": 81,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel pays a été divisé en deux après la Seconde Guerre mondiale, créant ainsi la République fédérale d'Allemagne (RFA) et la République démocratique allemande (RDA)?",
+        "answers": [
+            "La France",
+            "L'Italie",
+            "Le Japon",
+            "L'Allemagne",
+            "La Yougoslavie"
+        ],
+        "correct": "L'Allemagne",
+        "difficulty": "facile",
+        "explanation": "Après la Seconde Guerre mondiale, l'Allemagne a été divisée en deux États distincts. À l'ouest, la République fédérale d'Allemagne (RFA) a été formée sous influence occidentale, tandis qu'à l'est, la République démocratique allemande (RDA) est née sous contrôle soviétique. Cette division symbolise le début de la Guerre Froide et a duré jusqu'à la réunification en 1990."
+    },
+    {
+        "id": 82,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel événement a symbolisé la fin de la Guerre Froide en 1989?",
+        "answers": [
+            "La chute du mur de Berlin",
+            "Le début des attaques contre le World Trade Center",
+            "L'invasion soviétique de l'Afghanistan",
+            "La déclaration d'indépendance de la Lituanie",
+            "Le traité de Maastricht"
+        ],
+        "correct": "La chute du mur de Berlin",
+        "difficulty": "facile",
+        "explanation": "Le 9 novembre 1989, le gouvernement est-allemand a annoncé qu'il allait permettre à ses citoyens de voyager librement vers l'ouest. Cela a conduit à la chute symbolique du mur de Berlin peu après, marquant un tournant décisif dans la fin de la Guerre Froide et le début de la réunification allemande."
+    },
+    {
+        "id": 83,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quelle conférence a marqué le début de la coopération entre les Alliés pour planifier l'après-Seconde Guerre mondiale?",
+        "answers": [
+            "La Conférence d'Istanbul",
+            "La Conférence de Yalta",
+            "La Conférence de San Francisco",
+            "La Conférence de Casablanca",
+            "Le Sommet de Potsdam"
+        ],
+        "correct": "La Conférence de Casablanca",
+        "difficulty": "facile",
+        "explanation": "La Conférence de Casablanca, tenue du 14 au 24 janvier 1943, a réuni Franklin D. Roosevelt et Winston Churchill. Elle est connue pour avoir fixé les termes 'rendre ou détruire' à l'égard des puissances de l'Axe et marqué un renforcement de la collaboration entre les Alliés, tout en commençant à discuter de l'après-guerre."
+    },
+    {
+        "id": 84,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel pays a lancé le premier satellite artificiel en orbite autour de la Terre?",
+        "answers": [
+            "Les États-Unis",
+            "La France",
+            "Le Royaume-Uni",
+            "L'Union soviétique",
+            "La Chine"
+        ],
+        "correct": "L'Union soviétique",
+        "difficulty": "facile",
+        "explanation": "L'Union soviétique a lancé le premier satellite artificiel, Spoutnik 1, le 4 octobre 1957. Cet événement a marqué une étape importante dans la course à l'espace et le début de la Guerre Froide spatiale, stimulant les États-Unis à intensifier leurs propres efforts en matière d'exploration spatiale."
+    },
+    {
+        "id": 85,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel événement a marqué la fin officielle de la Première Guerre mondiale?",
+        "answers": [
+            "La bataille de la Somme",
+            "L'armistice du 11 novembre 1918",
+            "Le déclenchement de la Révolution russe",
+            "Le traité de Versailles",
+            "La bataille de Verdun"
+        ],
+        "correct": "L'armistice du 11 novembre 1918",
+        "difficulty": "facile",
+        "explanation": "L'armistice signé le 11 novembre 1918 entre l'Allemagne et les Alliés a marqué la fin des combats de la Première Guerre mondiale. Cet armistice est entré en vigueur à 11 heures ce jour-là, mettant fin officiellement aux hostilités après quatre ans de conflit."
+    },
+    {
+        "id": 86,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quelle bataille navale a marqué le tournant de la guerre du Pacifique lors de la Seconde Guerre mondiale?",
+        "answers": [
+            "La bataille de Midway",
+            "La bataille de Pearl Harbor",
+            "La bataille d'Iwo Jima",
+            "La bataille des Îles Salomon",
+            "La bataille du détroit de Gibraltar"
+        ],
+        "correct": "La bataille de Midway",
+        "difficulty": "facile",
+        "explanation": "La bataille de Midway, qui s'est déroulée du 4 au 7 juin 1942, a été un tournant décisif dans la guerre du Pacifique pendant la Seconde Guerre mondiale. Les États-Unis ont infligé une défaite écrasante à la flotte japonaise, inversant le cours de la guerre en faveur des Alliés et mettant fin à l'expansionnisme naval japonais."
+    },
+    {
+        "id": 87,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel traité a officiellement mis fin à la Première Guerre mondiale?",
+        "answers": [
+            "Le traité de Brest-Litovsk",
+            "Le pacte Molotov-Ribbentrop",
+            "Le traité de Versailles",
+            "Le traité de Saint-Germain-en-Laye",
+            "Le pacte Kellogg-Briand"
+        ],
+        "correct": "Le traité de Versailles",
+        "difficulty": "facile",
+        "explanation": "Le traité de Versailles, signé le 28 juin 1919 à la France, a officiellement mis fin aux hostilités de la Première Guerre mondiale entre les Alliés et l'Allemagne. Il imposait des réparations substantielles et des restrictions territoriales à l'Allemagne, influençant profondément la géopolitique européenne post-guerre."
+    },
+    {
+        "id": 88,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel pays est tombé le premier à l'attaque allemande pendant la Seconde Guerre mondiale?",
+        "answers": [
+            "La France",
+            "Le Royaume-Uni",
+            "L'Italie",
+            "La Pologne",
+            "Les Pays-Bas"
+        ],
+        "correct": "La Pologne",
+        "difficulty": "facile",
+        "explanation": "La Pologne est tombée le premier à l'attaque allemande pendant la Seconde Guerre mondiale. L'invasion a commencé le 1er septembre 1939, ce qui a déclenché officiellement le conflit. Cette attaque surprise a été suivie de près par une invasion soviétique du côté est, divisant rapidement le pays entre l'Allemagne nazie et l'Union soviétique."
+    },
+    {
+        "id": 89,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel événement a marqué le début officiel de la Seconde Guerre mondiale?",
+        "answers": [
+            "L'invasion allemande de la Pologne",
+            "Le bombardement de Pearl Harbor",
+            "La bataille d'Angleterre",
+            "L'attaque japonaise sur Singapour",
+            "L'invasion soviétique de Finlande"
+        ],
+        "correct": "L'invasion allemande de la Pologne",
+        "difficulty": "facile",
+        "explanation": "Le début officiel de la Seconde Guerre mondiale est marqué par l'invasion allemande de la Pologne le 1er septembre 1939. Cela a conduit à des déclarations de guerre contre l'Allemagne par la France et le Royaume-Uni, lançant ainsi le conflit global."
+    },
+    {
+        "id": 90,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel événement a directement conduit à l'entrée des États-Unis dans la Seconde Guerre mondiale?",
+        "answers": [
+            "L'invasion de Pearl Harbor par le Japon",
+            "La déclaration de guerre britannique contre l'Allemagne",
+            "Le pacte Molotov-Ribbentrop",
+            "L'invasion allemande de la Belgique",
+            "La bataille de Stalingrad"
+        ],
+        "correct": "L'invasion de Pearl Harbor par le Japon",
+        "difficulty": "facile",
+        "explanation": "L'attaque surprise japonaise sur Pearl Harbor, au large d'Hawaï, a eu lieu le 7 décembre 1941. Cette attaque a directement conduit à l'entrée des États-Unis dans la Seconde Guerre mondiale, car elle a poussé le Congrès américain à déclarer la guerre au Japon le jour suivant."
+    },
+    {
+        "id": 91,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quelle bataille est souvent considérée comme le tournant de la Première Guerre mondiale sur le Front de l'Ouest?",
+        "answers": [
+            "La bataille des Dardanelles",
+            "La bataille de Verdun",
+            "La bataille de Gallipoli",
+            "La bataille de la Marne",
+            "La bataille d'Ypres"
+        ],
+        "correct": "La bataille de la Marne",
+        "difficulty": "facile",
+        "explanation": "La bataille des Frontières, suivie par la Première et la Seconde Bataille de la Marne (juillet-septembre 1914), est souvent considérée comme le tournant de la Première Guerre mondiale sur le Front de l'Ouest. Elle a stoppé l'avancée allemande vers Paris, sauvegardant ainsi la France et empêchant une victoire rapide des puissances centrales."
+    },
+    {
+        "id": 92,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Qui était le commandant en chef des forces alliées lors du Débarquement de Normandie (D-Day) pendant la Seconde Guerre mondiale?",
+        "answers": [
+            "Général Dwight D. Eisenhower",
+            "Général Bernard Montgomery",
+            "Amiral Chester W. Nimitz",
+            "Général George S. Patton",
+            "Premier ministre Winston Churchill"
+        ],
+        "correct": "Général Dwight D. Eisenhower",
+        "difficulty": "facile",
+        "explanation": "Le général Dwight D. Eisenhower était le commandant en chef des forces alliées lors du Débarquement de Normandie, qui a eu lieu le 6 juin 1944. Il joua un rôle crucial dans la planification et l'exécution de cette opération militaire décisive qui contribua à la libération de l'Europe occidentale des forces nazies."
+    },
+    {
+        "id": 93,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel pays a abattu le sous-marin allemand U-47 lors d'une attaque sur Scapa Flow pendant la Première Guerre mondiale?",
+        "answers": [
+            "Le Royaume-Uni",
+            "La France",
+            "Les États-Unis",
+            "L'Italie",
+            "L'Allemagne"
+        ],
+        "correct": "Le Royaume-Uni",
+        "difficulty": "facile",
+        "explanation": "Le sous-marin allemand U-47, commandé par l'amiral Günther Prien, a réussi à pénétrer dans la base navale britannique de Scapa Flow et à couler le cuirassé HMS Royal Oak en octobre 1939. L'attaque a été repérée par un avion de patrouille du Royaume-Uni qui a dirigé des forces pour attaquer l'U-47, conduisant finalement à son naufrage."
+    },
+    {
+        "id": 94,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel traité a officiellement mis fin à la Première Guerre mondiale en 1919?",
+        "answers": [
+            "Le Traité de Versailles",
+            "Le Traité de Brest-Litovsk",
+            "Le Traité de Saint-Germain-en-Laye",
+            "Le Traité de Trianon",
+            "Le Traité de Neuilly-sur-Seine"
+        ],
+        "correct": "Le Traité de Versailles",
+        "difficulty": "facile",
+        "explanation": "Le traité de Versailles, signé le 28 juin 1919, a officiellement mis fin à la Première Guerre mondiale entre les Alliés et l'Allemagne. Ce traité imposait des sanctions sévères à l'Allemagne, incluant des réparations de guerre importantes, la perte de territoires, et des restrictions militaires."
+    },
+    {
+        "id": 95,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel événement a marqué le début officiel de la Seconde Guerre mondiale en Europe?",
+        "answers": [
+            "L'invasion allemande de la Pologne",
+            "Le déclenchement du Blitzkrieg sur la France",
+            "La bataille d'Hawaï",
+            "La crise des Sudètes",
+            "La signature de l'Accord Molotov-Ribbentrop"
+        ],
+        "correct": "L'invasion allemande de la Pologne",
+        "difficulty": "facile",
+        "explanation": "Le début officiel de la Seconde Guerre mondiale en Europe est marqué par l'invasion de la Pologne par l'Allemagne nazie le 1er septembre 1939. Cette invasion a conduit à des déclarations de guerre contre l'Allemagne par la France et le Royaume-Uni, mettant ainsi officiellement fin à une période d'hostilités limitées."
+    },
+    {
+        "id": 96,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel est le nom de la bataille qui a marqué l'entrée des États-Unis dans la Première Guerre mondiale?",
+        "answers": [
+            "Bataille de Verdun",
+            "Bataille de la Somme",
+            "Bataille du Jutland",
+            "Bataille de Saint-Mihiel",
+            "Bataille de la mer de Corail"
+        ],
+        "correct": "Bataille de Saint-Mihiel",
+        "difficulty": "facile",
+        "explanation": "La bataille de Saint-Mihiel, qui a eu lieu du 12 au 15 septembre 1918, est souvent citée comme l'un des premiers engagements majeurs de l'armée américaine indépendante dans la Première Guerre mondiale. Cette opération était commandée par le général John J. Pershing et représentait une étape significative dans l'intervention croissante des États-Unis sur le Front de l'Ouest."
+    },
+    {
+        "id": 97,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quelle bataille a marqué la fin de la Seconde Guerre mondiale en Europe?",
+        "answers": [
+            "Bataille de Berlin",
+            "Bataille du Pacifique",
+            "Bataille d'El Alamein",
+            "Bataille de Stalingrad",
+            "Bataille des Ardennes"
+        ],
+        "correct": "Bataille de Berlin",
+        "difficulty": "facile",
+        "explanation": "La bataille de Berlin, qui a eu lieu du 16 avril au 2 mai 1945, fut la dernière grande opération militaire sur le Front de l'Est et conduisit à la chute de Berlin aux mains des forces soviétiques. La reddition inconditionnelle de l'Allemagne nazie suivant cette bataille a marqué la fin officielle de la Seconde Guerre mondiale en Europe."
+    },
+    {
+        "id": 98,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quelle est la date de signature du Traité de Rome, qui a conduit à la formation de la Communauté économique européenne (CEE) ?",
+        "answers": [
+            "25 mars 1957",
+            "24 octobre 1945",
+            "7 décembre 1991",
+            "1er janvier 2002",
+            "11 novembre 1918"
+        ],
+        "correct": "25 mars 1957",
+        "difficulty": "facile",
+        "explanation": "Le Traité de Rome a été signé le 25 mars 1957 par six pays : la Belgique, la France, l'Italie, le Luxembourg, les Pays-Bas et l'Allemagne de l'Ouest. Ce traité est à l'origine de la formation de la Communauté économique européenne (CEE), qui a ensuite évolué vers l'Union européenne."
+    },
+    {
+        "id": 99,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel pays a capitulé en dernière position durant la Seconde Guerre mondiale en Europe?",
+        "answers": [
+            "Italie",
+            "France",
+            "Allemagne",
+            "Roumanie",
+            "Hongrie"
+        ],
+        "correct": "Allemagne",
+        "difficulty": "facile",
+        "explanation": "L'Allemagne a capitulé en dernière position le 8 mai 1945, marquant la fin de la Seconde Guerre mondiale en Europe. Après des combats intenses et une avance rapide des forces soviétiques sur Berlin, l'Allemagne nazie s'est rendue inconditionnellement, conduisant à la capitulation officielle du Troisième Reich."
+    },
+    {
+        "id": 100,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Guerres mondiales et conflits majeurs",
+        "question": "Quel événement a marqué la fin officielle de la Première Guerre mondiale?",
+        "answers": [
+            "Signature du Traité de Versailles",
+            "Bataille de l'Atlantique",
+            "Armistice de Compiegne",
+            "Création de la Société des Nations",
+            "Invasion de la Pologne"
+        ],
+        "correct": "Armistice de Compiegne",
+        "difficulty": "facile",
+        "explanation": "L'armistice de Compiègne, signé le 11 novembre 1918, a marqué la fin officielle des hostilités dans la Première Guerre mondiale. Ce cessez-le-feu a été conclu entre les Alliés et l'Allemagne dans un wagon de chemin de fer près de Compiègne en France."
+    },
+    {
+        "id": 101,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui a inventé la pâte à modeler Play-Doh ?",
+        "answers": [
+            "Thomas Edison",
+            "Robert Moog",
+            "Joseph McVicker",
+            "Alexander Graham Bell",
+            "John Wright"
+        ],
+        "correct": "Joseph McVicker",
+        "difficulty": "facile",
+        "explanation": "La pâte à modeler Play-Doh a été inventée par Joseph McVicker dans les années 1950. Initialement commercialisée comme un produit pour nettoyer la suie sur les fours, elle est devenue l'une des marques de jouets les plus populaires et largement reconnues."
+    },
+    {
+        "id": 102,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui est crédité de l'invention du téléphone ?",
+        "answers": [
+            "Guglielmo Marconi",
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Nikola Tesla",
+            "James Watt"
+        ],
+        "correct": "Alexander Graham Bell",
+        "difficulty": "facile",
+        "explanation": "Alexander Graham Bell est reconnu comme l'inventeur du téléphone. Il a déposé le brevet pour son invention en 1876, marquant une avancée significative dans la communication à distance."
+    },
+    {
+        "id": 103,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui a inventé l'ampoule électrique ?",
+        "answers": [
+            "Thomas Edison",
+            "Nikola Tesla",
+            "Alexander Graham Bell",
+            "Guglielmo Marconi",
+            "James Watt"
+        ],
+        "correct": "Thomas Edison",
+        "difficulty": "facile",
+        "explanation": "Bien que plusieurs inventeurs aient contribué au développement de l'ampoule électrique, Thomas Edison est crédité pour avoir breveté et commercialisé une ampoule avec un filament durable en carbone. Son travail sur le filtre amélioré dans les années 1870 a permis d'utiliser l'ampoule à des fins domestiques."
+    },
+    {
+        "id": 104,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui a découvert le pénicillium, la source du premier antibiotique commercialisé ?",
+        "answers": [
+            "Louis Pasteur",
+            "Alexander Fleming",
+            "Robert Koch",
+            "Ignaz Semmelweis",
+            "Edward Jenner"
+        ],
+        "correct": "Alexander Fleming",
+        "difficulty": "facile",
+        "explanation": "En 1928, Alexander Fleming a découvert le pénicillium notatum, un champignon qui produit la pénicilline. Cette découverte est considérée comme l'une des plus importantes en médecine, car elle a conduit au développement du premier antibiotique commercialisé."
+    },
+    {
+        "id": 105,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Quel inventeur est connu pour avoir breveté le premier véritable moteur à combustion interne ?",
+        "answers": [
+            "Karl Benz",
+            "Gottlieb Daimler",
+            "Henry Ford",
+            "Nicolas-Joseph Cugnot",
+            "Étienne Lenoir"
+        ],
+        "correct": "Karl Benz",
+        "difficulty": "facile",
+        "explanation": "Karl Benz est reconnu pour avoir breveté le premier véritable moteur à combustion interne en 1886, ce qui a mené au développement du premier véhicule automobile pratique et commercialisable. Son invention a marqué un tournant dans la technologie des transports."
+    },
+    {
+        "id": 106,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui est reconnu pour avoir inventé la photographie au début du XIXème siècle ?",
+        "answers": [
+            "Louis Daguerre",
+            "Thomas Wedgwood",
+            "George Eastman",
+            "Nicéphore Niépce",
+            "Henry Fox Talbot"
+        ],
+        "correct": "Nicéphore Niépce",
+        "difficulty": "facile",
+        "explanation": "Nicéphore Niépce est reconnu comme le pionnier de la photographie pour avoir créé la première image durable en 1826 ou 1827, utilisant un processus qu'il a appelé 'héliographie'. C'était une étape cruciale dans l'histoire des inventions liées à la capture d'images."
+    },
+    {
+        "id": 107,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui est crédité pour avoir inventé le premier parachute utilisable par l'homme ?",
+        "answers": [
+            "Jean-François Pilâtre de Rozier",
+            "Leonardo da Vinci",
+            "Louis-Sébastien Lenormand",
+            "Joseph A. Mickey",
+            "George Cayley"
+        ],
+        "correct": "Louis-Sébastien Lenormand",
+        "difficulty": "facile",
+        "explanation": "Louis-Sébastien Lenormand est crédité pour avoir effectué le premier saut en parachute à bord d'un ballon en 1783, ce qui constitue la première utilisation réussie du parachute par un humain. Cependant, il s'agissait encore d'une forme primitive comparée aux parachutes modernes."
+    },
+    {
+        "id": 108,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui a créé le premier téléphone portable commercialisé ?",
+        "answers": [
+            "Martin Cooper",
+            "Alexander Graham Bell",
+            "Thomas Watson",
+            "Ray Tomlinson",
+            "Steve Jobs"
+        ],
+        "correct": "Martin Cooper",
+        "difficulty": "facile",
+        "explanation": "Martin Cooper, alors employé chez Motorola, a fait le premier appel téléphonique depuis un téléphone portable commercialisé en 1973. Cela marque la naissance de l'ère des communications mobiles."
+    },
+    {
+        "id": 109,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui a inventé le premier microscope optique ?",
+        "answers": [
+            "Galileo Galilei",
+            "Antonie van Leeuwenhoek",
+            "Robert Hooke",
+            "Marcello Malpighi",
+            "Zacharias Janssen"
+        ],
+        "correct": "Zacharias Janssen",
+        "difficulty": "facile",
+        "explanation": "Zacharias Janssen, un fabricant de lunettes néerlandais, est souvent crédité d'avoir inventé le premier microscope optique au début du 17ème siècle. Bien que l'exactitude historique soit sujette à débat, son nom reste associé à cette invention fondamentale dans l'histoire des sciences."
+    },
+    {
+        "id": 110,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui est connu pour avoir inventé la pâte dentifrice moderne ?",
+        "answers": [
+            "William Colgate",
+            "Joseph P. Borden",
+            "Dr. Washington Sheffield",
+            "Crest Whitestrips",
+            "Colgate-Palmolive Company"
+        ],
+        "correct": "Dr. Washington Sheffield",
+        "difficulty": "facile",
+        "explanation": "Dr. Washington Sheffield est crédité de l'invention du dentifrice moderne en 1873, qu'il a commercialisé sous la marque Arm & Hammer Baking Soda Toothpaste. Cette innovation a marqué le début d'une nouvelle ère dans les produits dentaires."
+    },
+    {
+        "id": 111,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui a inventé la première machine à coudre industrielle ?",
+        "answers": [
+            "Isaac Singer",
+            "Elias Howe",
+            "Barthelemy Thimonnier",
+            "Walter Hunt",
+            "Thomas Saint"
+        ],
+        "correct": "Elias Howe",
+        "difficulty": "facile",
+        "explanation": "Elias Howe est crédité de l'invention de la première machine à coudre industrielle en 1846. Bien que Barthelemy Thimonnier ait breveté une machine à coudre mécanique plus tôt, celle de Howe était plus durable et efficace pour une production à grande échelle."
+    },
+    {
+        "id": 112,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui a inventé la photographie moderne ?",
+        "answers": [
+            "Louis Daguerre",
+            "Nicéphore Niépce",
+            "George Eastman",
+            "Henry Fox Talbot",
+            "Thomas Edison"
+        ],
+        "correct": "Louis Daguerre",
+        "difficulty": "facile",
+        "explanation": "Louis Daguerre est crédité de l'invention de la photographie moderne grâce à son développement du procédé daguerréotype en 1839. Cela a permis pour la première fois de fixer une image sur un support durable, marquant le début d'une nouvelle ère dans la capture des images."
+    },
+    {
+        "id": 113,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui a inventé le premier vélo à pédales ?",
+        "answers": [
+            "Karl Drais",
+            "Pierre Michaux",
+            "Scottish Boneshaker",
+            "Thomas Stevens",
+            "Giovanni Bianconi"
+        ],
+        "correct": "Pierre Michaux",
+        "difficulty": "facile",
+        "explanation": "Pierre Michaux, avec son frère Ernest, est crédité de l'invention du vélo à pédales vers 1863. Ils ont ajouté des pédales à la draisienne de Karl Drais, créant ainsi le premier vélo mécanique connu sous le nom de 'vélocipède Michaux'."
+    },
+    {
+        "id": 114,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui a inventé le premier téléphone ?",
+        "answers": [
+            "Elisha Gray",
+            "Alexander Graham Bell",
+            "Thomas Edison",
+            "Guglielmo Marconi",
+            "Nikola Tesla"
+        ],
+        "correct": "Alexander Graham Bell",
+        "difficulty": "facile",
+        "explanation": "Alexander Graham Bell est crédité de l'invention du premier téléphone, pour lequel il a obtenu un brevet en 1876. Son invention a révolutionné la communication humaine en permettant des conversations vocales sur de longues distances."
+    },
+    {
+        "id": 115,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui est crédité de l'invention du premier parachute testé par un humain ?",
+        "answers": [
+            "Alberto Santos-Dumont",
+            "Louis-Sébastien Lenormand",
+            "Otto Lilienthal",
+            "Jean-François Pilâtre de Rozier",
+            "Jacques-Étienne Montgolfier"
+        ],
+        "correct": "Louis-Sébastien Lenormand",
+        "difficulty": "facile",
+        "explanation": "Louis-Sébastien Lenormand est crédité d'avoir effectué le premier saut en parachute testé par un humain. En 1783, il a sauté depuis une tour à Annonay, France, en utilisant un dispositif qu'il avait conçu."
+    },
+    {
+        "id": 116,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui a inventé la télégraphie sans fil ?",
+        "answers": [
+            "Guglielmo Marconi",
+            "Nikola Tesla",
+            "James Clerk Maxwell",
+            "Alexander Graham Bell",
+            "Thomas Edison"
+        ],
+        "correct": "Guglielmo Marconi",
+        "difficulty": "facile",
+        "explanation": "Guglielmo Marconi est crédité de l'invention de la télégraphie sans fil. En 1895, il a réussi à transmettre des signaux radio sur une distance significative, ouvrant la voie au développement de la communication sans fil moderne."
+    },
+    {
+        "id": 117,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui a inventé l'imprimerie à caractères mobiles ?",
+        "answers": [
+            "Johannes Gutenberg",
+            "William Caxton",
+            "Bi Sheng",
+            "Peter Schoeffer",
+            "Aldus Manutius"
+        ],
+        "correct": "Johannes Gutenberg",
+        "difficulty": "facile",
+        "explanation": "Johannes Gutenberg est crédité de l'invention de la première imprimerie à caractères mobiles en Europe vers 1440. Son développement a révolutionné la production de livres, rendant les textes plus accessibles et facilitant la diffusion du savoir."
+    },
+    {
+        "id": 118,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui a découvert la pénicilline ?",
+        "answers": [
+            "Alexander Fleming",
+            "Louis Pasteur",
+            "Robert Koch",
+            "Joseph Lister",
+            "Paul Ehrlich"
+        ],
+        "correct": "Alexander Fleming",
+        "difficulty": "facile",
+        "explanation": "Alexander Fleming est crédité de la découverte de la pénicilline en 1928. En observant une moisissure, le Penicillium notatum, il a constaté qu'elle empêchait la croissance bactérienne sur des cultures de staphylocoques, ce qui a conduit au développement du premier antibiotique largement utilisable."
+    },
+    {
+        "id": 119,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Quel scientifique a formulé les lois du mouvement ?",
+        "answers": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Johannes Kepler",
+            "Albert Einstein",
+            "Niels Bohr"
+        ],
+        "correct": "Isaac Newton",
+        "difficulty": "facile",
+        "explanation": "Isaac Newton a formulé les trois lois du mouvement, qui sont fondamentales pour la physique classique. Ces lois ont été publiées dans son ouvrage 'Philosophiæ Naturalis Principia Mathematica' en 1687 et décrivent comment les objets se déplacent sous l'influence de forces."
+    },
+    {
+        "id": 120,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui est connu pour avoir inventé le télescope réflecteur ?",
+        "answers": [
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Johannes Kepler",
+            "Christiaan Huygens",
+            "Edmond Halley"
+        ],
+        "correct": "Isaac Newton",
+        "difficulty": "facile",
+        "explanation": "Isaac Newton est crédité de l'invention du télescope réflecteur en 1668. Son design innovant utilisait un miroir concave principal pour recueillir et focaliser la lumière, éliminant ainsi les aberrations chromatiques présentes dans les télescopes à lentilles (ou télescopes réfracteurs)."
+    },
+    {
+        "id": 121,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Quel scientifique est célèbre pour avoir découvert la loi de l'inertie ?",
+        "answers": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Johannes Kepler",
+            "Albert Einstein",
+            "Niels Bohr"
+        ],
+        "correct": "Galileo Galilei",
+        "difficulty": "facile",
+        "explanation": "Galileo Galilei est reconnu pour avoir formulé la loi de l'inertie, qui énonce que tout corps persistera dans son état de repos ou de mouvement uniforme en ligne droite à moins qu'il ne soit contraint de changer cet état par des forces extérieures. Cette découverte a jeté les bases de ce que Newton formaliserait plus tard comme la première loi du mouvement."
+    },
+    {
+        "id": 122,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui a inventé le téléphone ?",
+        "answers": [
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Nikola Tesla",
+            "Guglielmo Marconi",
+            "Leonardo da Vinci"
+        ],
+        "correct": "Alexander Graham Bell",
+        "difficulty": "facile",
+        "explanation": "Alexander Graham Bell est crédité de l'invention du téléphone. En 1876, il a déposé un brevet pour son invention qui permettait la transmission vocale sur des fils électriques. Bien que d'autres inventeurs comme Elisha Gray aient travaillé sur des technologies similaires à peu près au même moment, Bell est officiellement reconnu pour cette découverte fondamentale."
+    },
+    {
+        "id": 123,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Quel scientifique a inventé le dynamo électrique ?",
+        "answers": [
+            "Michael Faraday",
+            "Nikola Tesla",
+            "Thomas Edison",
+            "James Clerk Maxwell",
+            "Benjamin Franklin"
+        ],
+        "correct": "Michael Faraday",
+        "difficulty": "facile",
+        "explanation": "Michael Faraday est crédité de l'invention du dynamo électrique en 1831. Il a découvert le principe de la génération d'électricité par induction magnétique, ce qui lui permit de développer le premier dynamos. Cette invention a jeté les bases pour la production d'électricité à grande échelle."
+    },
+    {
+        "id": 124,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Qui a découvert le principe de la pénicilline ?",
+        "answers": [
+            "Louis Pasteur",
+            "Robert Koch",
+            "Alexander Fleming",
+            "Marie Curie",
+            "Paul Ehrlich"
+        ],
+        "correct": "Alexander Fleming",
+        "difficulty": "facile",
+        "explanation": "Alexander Fleming est crédité de la découverte de la pénicilline en 1928. En observant une culture bactérienne contaminée par un champignon du genre Penicillium, il remarqua que ce dernier inhibait la croissance des bactéries environnantes. Cette observation a mené au développement de la première pénicilline utilisable, révolutionnant le traitement des infections bactériennes."
+    },
+    {
+        "id": 125,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des inventions et découvertes",
+        "question": "Quel scientifique est associé à la découverte de la structure en double hélice de l'ADN ?",
+        "answers": [
+            "James Watson et Francis Crick",
+            "Gregor Mendel",
+            "Rosalind Franklin",
+            "Linus Pauling",
+            "Charles Darwin"
+        ],
+        "correct": "James Watson et Francis Crick",
+        "difficulty": "facile",
+        "explanation": "James Watson et Francis Crick sont crédités de la découverte de la structure en double hélice de l'ADN en 1953. Leur modèle a été crucial pour comprendre le fonctionnement de l'ADN comme support de l'hérédité. Bien que Rosalind Franklin ait contribué à cette découverte par ses photographies de diffraction des rayons X, elle n'a pas reçu la reconnaissance officielle avec Watson et Crick lors du prix Nobel."
+    },
+    {
+        "id": 126,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui était le premier président des États-Unis ?",
+        "answers": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "John Adams",
+            "James Madison"
+        ],
+        "correct": "George Washington",
+        "difficulty": "facile",
+        "explanation": "George Washington est reconnu comme le premier président des États-Unis, ayant servi de 1789 à 1797. Son leadership a été crucial pour établir les fondations du gouvernement fédéral américain après la guerre d'indépendance. Il est souvent surnommé 'le Père fondateur' en raison de son rôle clé dans l'établissement des institutions politiques et civiles du pays."
+    },
+    {
+        "id": 127,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Quel philosophe est connu pour sa maxime 'Cogito, ergo sum' ?",
+        "answers": [
+            "René Descartes",
+            "Platon",
+            "Socrate",
+            "Aristote",
+            "Immanuel Kant"
+        ],
+        "correct": "René Descartes",
+        "difficulty": "facile",
+        "explanation": "La maxime 'Cogito, ergo sum', qui signifie 'Je pense, donc je suis', est attribuée à René Descartes. Il l'a formulée dans ses écrits comme moyen de trouver une base certaine pour la connaissance en partant du doute méthodique. Cette déclaration a eu un impact profond sur la philosophie occidentale, notamment dans le développement du rationalisme."
+    },
+    {
+        "id": 128,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui a écrit les 'Iliade' et l'‘Odyssée’ ?",
+        "answers": [
+            "Sappho",
+            "Eschyle",
+            "Hésiode",
+            "Homère",
+            "Pindare"
+        ],
+        "correct": "Homère",
+        "difficulty": "facile",
+        "explanation": "Homère est traditionnellement crédité d'avoir écrit les 'Iliade' et l'‘Odyssée’, deux épopées majeures de la littérature antique. Ces œuvres décrivent respectivement des événements du siège de Troie et le voyage périlleux du héros Ulysse pour rentrer chez lui après la guerre. Elles sont fondamentales pour comprendre la culture et la mythologie grecques anciennes."
+    },
+    {
+        "id": 129,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui est connu comme le leader de la révolution française et a déclaré 'Liberté, égalité, fraternité' ?",
+        "answers": [
+            "Napoléon Bonaparte",
+            "Maximilien Robespierre",
+            "Louis XVI",
+            "Jean-Paul Marat",
+            "Georges Danton"
+        ],
+        "correct": "Maximilien Robespierre",
+        "difficulty": "facile",
+        "explanation": "Maximilien Robespierre est souvent associé à la déclaration des idéaux de 'Liberté, égalité, fraternité' pendant la Révolution française. Bien qu'il n'ait pas été le seul à promouvoir ces principes, il a joué un rôle majeur dans leur popularisation et leur application pendant la période révolutionnaire, notamment en tant que membre influent du Comité de salut public."
+    },
+    {
+        "id": 130,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui a initié la Réforme protestante au XVIe siècle en publiant ses 95 thèses ?",
+        "answers": [
+            "Jean Calvin",
+            "Ulrich Zwingli",
+            "Thomas Müntzer",
+            "Martin Luther",
+            "Philipp Melanchthon"
+        ],
+        "correct": "Martin Luther",
+        "difficulty": "facile",
+        "explanation": "Martin Luther est crédité d'avoir initié la Réforme protestante en 1517 lorsque, selon la légende, il a cloué ses 95 thèses à la porte de l'église du château de Wittenberg. Ces thèses critiquaient les pratiques de l'Église catholique romaine, notamment la vente des indulgences, et ont conduit à un mouvement réformateur qui a profondément transformé le paysage religieux européen."
+    },
+    {
+        "id": 131,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui est célèbre pour avoir été une figure clé de l'Empire romain et a établi un système juridique qui a influencé le droit occidental moderne ?",
+        "answers": [
+            "Jules César",
+            "Auguste",
+            "Trajan",
+            "Constantin",
+            "Justinien"
+        ],
+        "correct": "Justinien",
+        "difficulty": "facile",
+        "explanation": "L'empereur Justinien Ier est connu pour avoir réformé le droit romain et compilé les 'Institutes de l'Empereur Justinien', 'Code de Justinien', 'Digeste', et 'Novelles'. Ces travaux, collectivement appelés la 'Corpus Juris Civilis', ont servi de fondement au développement du droit civil en Europe occidentale et continuent d'influencer le droit moderne."
+    },
+    {
+        "id": 132,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui est connu comme le père de la philosophie politique et a écrit 'La République' ?",
+        "answers": [
+            "Socrate",
+            "Platon",
+            "Aristote",
+            "Épicure",
+            "Thalès"
+        ],
+        "correct": "Platon",
+        "difficulty": "facile",
+        "explanation": "Platon, l'un des plus influents philosophes de la Grèce antique, est souvent considéré comme le père de la philosophie politique. Dans son ouvrage 'La République', il explore les idées de justice et d'État idéal. Platon a également fondé l'Académie d'Athènes, un centre important pour l'éducation et la pensée philosophique."
+    },
+    {
+        "id": 133,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui a été le premier empereur de Rome et est célèbre pour avoir régné après la chute de la République romaine ?",
+        "answers": [
+            "César Auguste",
+            "Julius César",
+            "Marc Aurèle",
+            "Caligula",
+            "Néron"
+        ],
+        "correct": "César Auguste",
+        "difficulty": "facile",
+        "explanation": "Caius Octavius, plus connu sous le nom de César Auguste, est reconnu comme le premier empereur de Rome. Après avoir vaincu Marc Antoine et Cléopâtre à la bataille d'Actium en 31 av. J.-C., il a établi l'Empire romain et régné jusqu'en 14 ap. J.-C. Son règne est souvent considéré comme une période de paix relative connue sous le nom de Pax Romana."
+    },
+    {
+        "id": 134,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui a écrit 'Les Misérables', un roman emblématique de la littérature française du XIXe siècle ?",
+        "answers": [
+            "Gustave Flaubert",
+            "Émile Zola",
+            "Alexandre Dumas",
+            "Victor Hugo",
+            "Honoré de Balzac"
+        ],
+        "correct": "Victor Hugo",
+        "difficulty": "facile",
+        "explanation": "Victor Hugo est un écrivain français du XIXe siècle, connu pour ses contributions majeures à la littérature. 'Les Misérables' est l'un de ses romans les plus célèbres et traite des thèmes tels que la justice sociale, le bien contre le mal, et le rédemption personnelle. Publié en 1862, ce roman reste un classique mondialement reconnu."
+    },
+    {
+        "id": 135,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui est connu comme l'un des pères fondateurs de la théorie de l'évolution, souvent associé à Charles Darwin mais ayant proposé ses idées indépendamment ?",
+        "answers": [
+            "Gregor Mendel",
+            "Alfred Russel Wallace",
+            "Thomas Henry Huxley",
+            "Jean-Baptiste Lamarck",
+            "Louis Pasteur"
+        ],
+        "correct": "Alfred Russel Wallace",
+        "difficulty": "facile",
+        "explanation": "Alfred Russel Wallace est un naturaliste britannique qui a développé de manière indépendante la théorie de l'évolution par sélection naturelle, presque simultanément à Charles Darwin. En 1858, leurs travaux ont été présentés ensemble lors d'une réunion de la Linnean Society de Londres. Wallace est souvent crédité aux côtés de Darwin pour le développement des idées fondamentales sur l'évolution."
+    },
+    {
+        "id": 136,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui est connu comme le leader de l'Égypte antique, ayant initié la construction des grandes pyramides du Caire ?",
+        "answers": [
+            "Ramsès II",
+            "Toutânkhamon",
+            "Akhenaton",
+            "Khéops",
+            "Séti Ier"
+        ],
+        "correct": "Khéops",
+        "difficulty": "facile",
+        "explanation": "Khéops, également connu sous le nom de Khufu, est l'un des pharaons les plus célèbres de l'Égypte ancienne. Il a régné pendant la quatrième dynastie de la période dite du 'Vieux Empire' et est surtout connu pour avoir commandité la construction de la Grande Pyramide de Gizeh, l'une des Sept Merveilles du Monde Ancien."
+    },
+    {
+        "id": 137,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui était le leader de l'Allemagne pendant la Seconde Guerre mondiale et a joué un rôle central dans l'holocauste ?",
+        "answers": [
+            "Winston Churchill",
+            "Adolf Hitler",
+            "Benito Mussolini",
+            "Franklin D. Roosevelt",
+            "Joseph Staline"
+        ],
+        "correct": "Adolf Hitler",
+        "difficulty": "facile",
+        "explanation": "Adolf Hitler a été le Führer de l'Allemagne nazie de 1934 jusqu'à sa mort en 1945. Son régime est responsable du déclenchement de la Seconde Guerre mondiale et de l'Holocauste, durant lequel environ six millions de Juifs et d'autres groupes ciblés ont été assassinés dans les camps de concentration."
+    },
+    {
+        "id": 138,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui était le leader de l'Indépendance indienne et est souvent appelé 'Mahatma', signifiant 'Grand Esprit' ?",
+        "answers": [
+            "Subhas Chandra Bose",
+            "Jawaharlal Nehru",
+            "Rabindranath Tagore",
+            "Sardar Vallabhbhai Patel",
+            "Mohandas Karamchand Gandhi"
+        ],
+        "correct": "Mohandas Karamchand Gandhi",
+        "difficulty": "facile",
+        "explanation": "Mohandas Karamchand Gandhi, connu sous le nom de Mahatma Gandhi, a été un leader emblématique du mouvement pour l'indépendance indienne contre la domination britannique. Il est célèbre pour ses tactiques non-violentes et son engagement en faveur de la justice sociale."
+    },
+    {
+        "id": 139,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui est connu pour avoir été le pape qui a établi Rome comme capitale permanente de l'Église catholique en 1869 ?",
+        "answers": [
+            "Pie VI",
+            "Pie IX",
+            "Léon XIII",
+            "Pie X",
+            "Pie XII"
+        ],
+        "correct": "Pie IX",
+        "difficulty": "facile",
+        "explanation": "Le pape Pie IX, officiellement Giovanni Maria Mastai-Ferretti, a déplacé la résidence papale de Latran à l'actuel Palais apostolique du Vatican en 1870, établissant Rome comme capitale permanente de l'Église catholique. Cela s'est produit après l'unification italienne lorsque les États pontificaux ont été annexés au Royaume d'Italie."
+    },
+    {
+        "id": 140,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui était le célèbre explorateur portugais connu pour avoir atteint l'Inde en contournant le cap de Bonne-Espérance ?",
+        "answers": [
+            "Christophe Colomb",
+            "Ferdinand Magellan",
+            "Vasco de Gama",
+            "Hernán Cortés",
+            "Juan Ponce de León"
+        ],
+        "correct": "Vasco de Gama",
+        "difficulty": "facile",
+        "explanation": "Vasco de Gama était un explorateur portugais qui a réalisé la première circumnavigation réussie du cap de Bonne-Espérance vers l'Inde en 1498. Cette réalisation a ouvert une nouvelle route maritime directe entre le Portugal et les marchés asiatiques, marquant le début d'une ère de commerce et d'exploration européens dans le sud-est asiatique."
+    },
+    {
+        "id": 141,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui était le célèbre inventeur américain connu pour ses contributions à la télégraphie sans fil et au cinéma ?",
+        "answers": [
+            "Nikola Tesla",
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Guglielmo Marconi",
+            "Benjamin Franklin"
+        ],
+        "correct": "Thomas Edison",
+        "difficulty": "facile",
+        "explanation": "Thomas Edison était un inventeur et industriel américain connu pour ses nombreuses inventions, dont le phonographe, l'ampoule électrique à filament incandescent et des avancées significatives dans la technologie de la télégraphie sans fil. Il a également joué un rôle clé dans le développement précoce du cinéma avec son studio Edison Manufacturing Company."
+    },
+    {
+        "id": 142,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui était l'empereur romain connu pour avoir rédigé ses 'Méditations', un ouvrage philosophique majeur de la période antique ?",
+        "answers": [
+            "Jules César",
+            "Auguste",
+            "Marc Aurèle",
+            "Caligula",
+            "Néron"
+        ],
+        "correct": "Marc Aurèle",
+        "difficulty": "facile",
+        "explanation": "Marcus Aurelius, connu sous le nom de Marc Aurèle en français, était un empereur romain de la dynastie des Antonins. Il est particulièrement célèbre pour avoir écrit les 'Méditations', un texte introspectif et philosophique qui reflète ses réflexions stoïciennes sur la vie, le pouvoir et l'éthique personnelle."
+    },
+    {
+        "id": 143,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui était le roi d'Angleterre qui a aboli la monarchie et proclamé la République en 1649 ?",
+        "answers": [
+            "Henri VIII",
+            "Charles Ier",
+            "Jacques II",
+            "Guillaume III",
+            "Édouard VI"
+        ],
+        "correct": "Charles Ier",
+        "difficulty": "facile",
+        "explanation": "Le roi Charles Ier d'Angleterre a été exécuté en 1649 après un procès pour trahison, ce qui a conduit à l'abolition de la monarchie et à la proclamation de la République sous le nom de Commonwealth d'Angleterre. Cet événement était une étape cruciale dans les conflits politiques du XVIIe siècle connus sous le nom de Guerres des Trois Royaumes."
+    },
+    {
+        "id": 144,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui était le célèbre général et politicien français qui a mené la France à travers une grande partie de la Révolution française ?",
+        "answers": [
+            "Maximilien Robespierre",
+            "Georges Danton",
+            "Jean-Paul Marat",
+            "Napoléon Bonaparte",
+            "Louis XVI"
+        ],
+        "correct": "Napoléon Bonaparte",
+        "difficulty": "facile",
+        "explanation": "Napoléon Bonaparte est devenu une figure centrale en France après la Révolution française. En tant que général, il a remporté plusieurs victoires militaires qui ont consolidé sa position. Il s'est autoproclamé Premier Consul en 1799 avant d'être couronné empereur des Français en 1804, période durant laquelle il a réformé de nombreux aspects de l'administration et du droit français."
+    },
+    {
+        "id": 145,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui était la célèbre reine d'Égypte connue pour son règne puissant et sa beauté légendaire ?",
+        "answers": [
+            "Cléopâtre VII",
+            "Cleopatra III",
+            "Bérénice II",
+            "Hathor",
+            "Nefertiti"
+        ],
+        "correct": "Cléopâtre VII",
+        "difficulty": "facile",
+        "explanation": "Cléopâtre VII, souvent simplement appelée Cléopâtre, était la dernière reine d'Égypte de la dynastie ptolémaïque. Elle est connue pour sa beauté légendaire et son intellect ainsi que ses relations avec des figures importantes comme Jules César et Marc Antoine. Son règne a marqué une période complexe et cruciale dans l'histoire égyptienne, juste avant la conquête romaine."
+    },
+    {
+        "id": 146,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui était le leader sud-africain célèbre pour son combat contre l'apartheid et qui est devenu plus tard président du pays ?",
+        "answers": [
+            "Thabo Mbeki",
+            "Oliver Tambo",
+            "Nelson Mandela",
+            "Desmond Tutu",
+            "Albert Luthuli"
+        ],
+        "correct": "Nelson Mandela",
+        "difficulty": "facile",
+        "explanation": "Nelson Mandela est l'une des figures les plus emblématiques de la lutte contre l'apartheid en Afrique du Sud. Il a été emprisonné pendant 27 ans avant d'être libéré et de jouer un rôle clé dans la transition vers une société démocratique multiraciale. Mandela est finalement devenu le premier président noir d'Afrique du Sud, servant de 1994 à 1999."
+    },
+    {
+        "id": 147,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui était le célèbre leader du mouvement de non-violence pour l'indépendance indienne ?",
+        "answers": [
+            "Subhas Chandra Bose",
+            "Jawaharlal Nehru",
+            "B. R. Ambedkar",
+            "Mahatma Gandhi",
+            "Sardar Vallabhbhai Patel"
+        ],
+        "correct": "Mahatma Gandhi",
+        "difficulty": "facile",
+        "explanation": "Mahatma Gandhi est connu pour son leadership dans le mouvement indien pour l'indépendance de la domination britannique. Il a promu des méthodes non-violentes de protestation, telles que la désobéissance civile et les marches pacifiques, qui ont joué un rôle crucial dans l'obtention de l'indépendance de l'Inde en 1947."
+    },
+    {
+        "id": 148,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui était le célèbre inventeur et ingénieur américain connu pour ses contributions à l'invention de la lampe électrique, du phonographe et du cinématographe ?",
+        "answers": [
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Nikola Tesla",
+            "George Westinghouse",
+            "Guglielmo Marconi"
+        ],
+        "correct": "Thomas Edison",
+        "difficulty": "facile",
+        "explanation": "Thomas Edison est reconnu pour ses nombreuses inventions, mais il est surtout célèbre pour avoir perfectionné la lampe à incandescence et développé le phonographe ainsi que le cinématographe. Ses contributions ont eu un impact profond sur l'industrie et la vie quotidienne, transformant les domaines de l'électricité, du divertissement et de la communication."
+    },
+    {
+        "id": 149,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui était le célèbre physicien allemand connu pour sa théorie de la relativité, qui a profondément changé notre compréhension de l'espace et du temps ?",
+        "answers": [
+            "Werner Heisenberg",
+            "Max Planck",
+            "Erwin Schrödinger",
+            "Albert Einstein",
+            "Niels Bohr"
+        ],
+        "correct": "Albert Einstein",
+        "difficulty": "facile",
+        "explanation": "Albert Einstein est célèbre pour avoir développé la théorie de la relativité, qui comprend les concepts de la relativité restreinte et générale. Ces idées ont révolutionné notre compréhension des phénomènes physiques à grande vitesse et dans des champs gravitationnels intenses, influençant profondément le domaine de la physique théorique."
+    },
+    {
+        "id": 150,
+        "theme": "Histoire et Civilisations",
+        "subtheme": "Histoire des grandes personnalités",
+        "question": "Qui était le célèbre chef militaire et politicien romain qui a joué un rôle crucial dans la transformation de la République romaine en Empire ?",
+        "answers": [
+            "Jules César",
+            "Auguste",
+            "Marc Antoine",
+            "Cicéron",
+            "Pompée"
+        ],
+        "correct": "Jules César",
+        "difficulty": "facile",
+        "explanation": "Jules César était un général et homme d'État romain dont les réformes politiques et militaires ont grandement contribué à la fin de la République romaine. Sa victoire dans la guerre des Gaules et son accession au titre de dictateur perpétuel ont préparé le terrain pour l'établissement de l'Empire sous Auguste, qui était son petit-neveu et héritier politique."
+    }
+]

@@ -3,55 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saga</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Connexion | Saga</title>
+    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js"></script>
+    <script defer src="auth.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        .container { width: 300px; margin: auto; padding: 20px; border: 1px solid #ccc; border-radius: 10px; }
+        input, button { width: 100%; padding: 10px; margin-top: 10px; }
+        .hidden { display: none; }
+    </style>
 </head>
 <body>
-    <div id="username-screen">
-        <h1>Saga</h1>                                       
-        <h2>Veuillez enter votre nom</h2>
-        <input type="text" id="username-input" placeholder="votre nom" />
 
-        <h2>Choisissez une difficulté :</h2>
-        <div id="difficulty-options">
-            <button class="difficulty-btn" data-difficulty="facile">Facile</button>
-            <button class="difficulty-btn" data-difficulty="moyenne">Moyen</button>
+    <div class="container">
+        <h2 id="form-title">Connexion</h2>
+
+        <div id="login-form">
+            <input type="email" id="login-email" placeholder="Email">
+            <input type="password" id="login-password" placeholder="Mot de passe">
+            <button onclick="login()">Se connecter</button>
+            <p>Pas encore inscrit ? <a href="#" onclick="toggleForms()">Créer un compte</a></p>
         </div>
 
-        <button id="start-btn">Nouvelle Partie</button>
+        <div id="signup-form" class="hidden">
+            <input type="text" id="signup-username" placeholder="Nom d'utilisateur">
+            <input type="email" id="signup-email" placeholder="Email">
+            <input type="password" id="signup-password" placeholder="Mot de passe">
+            <button onclick="register()">Créer un compte</button>
+            <p>Déjà un compte ? <a href="#" onclick="toggleForms()">Se connecter</a></p>
+        </div>
+
+        <p id="error-message" style="color: red;"></p>
     </div>
 
-    <div class="quiz-container" id="quiz-container" style="display: none;">
-        <div class="header-container">
-            <h1 class="title">Saga</h1>
-            <span id="question-index">Question: 1</span>
-        </div>
-        
-
-        <div class="countdown">
-            <svg viewBox="0 0 100 100">
-                <circle class="bg-circle" cx="50" cy="50" r="45"></circle>
-                <circle class="progress-circle" cx="50" cy="50" r="45"></circle>
-            </svg>
-            <span id="timer-text">30</span>
-        </div>
-
-        <div id="lives">❤️ ❤️ ❤️</div>
-        
-
-        <div id="question-container">
-            <p id="question">Question en cours...</p>
-            <div id="answer-buttons" class="btn-container"></div>
-        </div>
-
-        <button id="next-btn">Suivant</button>
-        <p id="feedback"></p>
-
-        <div id="bonusDisplay" style="display: none;"></div>
-        <button onclick="useRemoveTwoBonus()" id="useBonusBtn" style="display: none;">❌❌</button>
-
-    </div>
-
-    <script src="script.js"></script>
 </body>
 </html>

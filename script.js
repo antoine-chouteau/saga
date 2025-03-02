@@ -44,6 +44,21 @@ const themeColors = {
     "Culture Pop et Divertissement": "#FF8C00" // Orange
 };
 
+const firebaseConfig = {
+    apiKey: "AIzaSyBzSDTUufNTzd1ZgqnjhryH5H4Mu0x6Le4",
+    authDomain: "sagadb-97f7c.firebaseapp.com",
+    projectId: "sagadb-97f7c",
+    storageBucket: "sagadb-97f7c.firebasestorage.app",
+    messagingSenderId: "597974057996",
+    appId: "1:597974057996:web:e411d697ac39234e6f9a29"
+  };
+  
+
+// Initialize Firebase
+firebase.initializeApp(firebaseConfig);
+const auth = firebase.auth();
+const db = firebase.firestore();
+
 
 difficultyButtons.forEach(button => {
     button.addEventListener("click", () => {
@@ -406,28 +421,6 @@ function useRemoveTwoBonus() {
     }
 }
 
-function gameOver() {
-    document.getElementById("bonusDisplay").style.display = "none"; // Remove from UI
-    document.getElementById("useBonusBtn").style.display = "none";
-    questionElement.textContent = `💀 Partie terminée, ${username} !`;
-    resetState();
-    
-    feedbackElement.innerHTML = `Votre score final : <strong>${score}</strong>`;
-
-    // Create leaderboard button
-    const leaderboardButton = document.createElement("button");
-    leaderboardButton.textContent = "Voir le classement";
-    leaderboardButton.classList.add("btn");
-    leaderboardButton.addEventListener("click", showLeaderboard);
-
-    // Add button to quiz container
-    quizContainer.appendChild(leaderboardButton);
-
-    // Save the score
-    saveScore(username, score);
-}
-
-
 function resetState() {
 
     let timeLimit = level === 1 ? 30 : level === 2 ? 20 : 15; // Timer selon le niveau
@@ -447,40 +440,6 @@ function resetState() {
     if (existingThemeElement) {
         existingThemeElement.remove(); // Remove the theme element from the DOM
     }
-}
-
-function saveScore(username, score) {
-    let scores = JSON.parse(localStorage.getItem("scores")) || [];
-    scores.push({ username, score });
-
-    // Sort scores in descending order & keep only top 50
-    scores.sort((a, b) => b.score - a.score);
-    scores = scores.slice(0, 50);
-
-    localStorage.setItem("scores", JSON.stringify(scores));
-}
-
-
-function showLeaderboard() {
-    let scores = JSON.parse(localStorage.getItem("scores")) || [];
-    
-    // Create leaderboard HTML
-    let leaderboardHTML = `
-        <h2>🏆 Top 50 Scores</h2>
-        <ol>
-    `;
-
-    scores.forEach((entry, index) => {
-        leaderboardHTML += `<li>${index + 1}. ${entry.username} - ${entry.score}</li>`;
-    });
-
-    leaderboardHTML += "</ol>";
-
-    // Add a restart button
-    leaderboardHTML += `<button class="btn" onclick="restartGame()">Rejouer</button>`;
-
-    // Display leaderboard inside quiz container
-    quizContainer.innerHTML = leaderboardHTML;
 }
 
 function restartGame() {
@@ -598,13 +557,85 @@ function endGame() {
     const leaderboardButton = document.createElement("button");
     leaderboardButton.textContent = "Voir le classement";
     leaderboardButton.classList.add("btn");
-    leaderboardButton.addEventListener("click", showLeaderboard);
+    leaderboardButton.addEventListener("click", () => {
+        window.location.href = "leaderboard.html"; // Redirect to leaderboard page
+    });
 
     // Add button to quiz container
     quizContainer.appendChild(leaderboardButton);
 
-    // Save the score
-    saveScore(username, score);
+    // Save the score in Firestore
+    saveScore(score);
+}
+
+function gameOver() {
+    document.getElementById("bonusDisplay").style.display = "none";
+    document.getElementById("useBonusBtn").style.display = "none";
+    questionElement.textContent = `💀 Partie terminée !`;
+    resetState();
+    
+    feedbackElement.innerHTML = `Votre score final : <strong>${score}</strong>`;
+
+    // Create leaderboard button
+    const leaderboardButton = document.createElement("button");
+    leaderboardButton.textContent = "Voir le classement";
+    leaderboardButton.classList.add("btn");
+    leaderboardButton.addEventListener("click", () => {
+        window.location.href = "leaderboard.html"; // Redirect to leaderboard page
+    });
+
+    // Add button to quiz container
+    quizContainer.appendChild(leaderboardButton);
+
+    // Save the score in Firestore
+    saveScore(score);
+}
+
+function saveScore(score) {
+    const user = firebase.auth().currentUser; // Get logged-in user
+
+    if (!user) {
+        console.error("No user is logged in!");
+        return;
+    }
+
+    const userId = user.uid;
+    const userRef = firebase.firestore().collection("users").doc(userId);
+
+    firebase.firestore().runTransaction(async (transaction) => {
+        const userDoc = await transaction.get(userRef);
+
+        if (!userDoc.exists) {
+            console.error("User document not found!");
+            return;
+        }
+
+        const userData = userDoc.data();
+        const bestScore = userData.bestScore || 0;
+        const newBestScore = Math.max(bestScore, score);
+        const newCurrency = (userData.currency || 0) + score; // Earn score as currency
+
+        transaction.update(userRef, {
+            bestScore: newBestScore,
+            currency: newCurrency
+        });
+    })
+    .then(() => {
+        console.log("Score and currency updated successfully!");
+    })
+    .catch((error) => {
+        console.error("Error updating score:", error);
+    });
+
+    // Save to leaderboard (with timestamp for last 60 days filter)
+    firebase.firestore().collection("leaderboard").add({
+        userId: userId,
+        username: user.displayName, // Make sure username is saved at registration
+        score: score,
+        timestamp: firebase.firestore.FieldValue.serverTimestamp()
+    })
+    .then(() => console.log("Score saved to leaderboard!"))
+    .catch((error) => console.error("Error saving score to leaderboard:", error));
 }
 
 function getPaleColor(color) {
@@ -632,3 +663,10 @@ function hexToRgb(hex) {
 
     return { r, g, b };
 }
+
+
+firebase.auth().onAuthStateChanged(user => {
+    if (!user) {
+        window.location.href = "index.html"; // Redirect to login
+    }
+});

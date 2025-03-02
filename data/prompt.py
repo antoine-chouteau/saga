@@ -62,6 +62,7 @@ pattern = re.compile(
 # Generate questions
 question_id = 1
 for difficulty in difficulties:
+    quiz_questions = []
     for item in themes:
         theme = item["theme"]
         subtheme = item["subtheme"]
