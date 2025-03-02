@@ -1,6 +1,4 @@
 // 🔥 Firebase Config
-const db = firebase.firestore();
-
 const firebaseConfig = {
     apiKey: "AIzaSyBzSDTUufNTzd1ZgqnjhryH5H4Mu0x6Le4",
     authDomain: "sagadb-97f7c.firebaseapp.com",
@@ -12,20 +10,29 @@ const firebaseConfig = {
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
+const db = firebase.firestore();
+const auth = firebase.auth();
+
+function toggleForms() {
+    document.getElementById("login-form").classList.toggle("hidden");
+    document.getElementById("signup-form").classList.toggle("hidden");
+    document.getElementById("form-title").textContent = 
+        document.getElementById("login-form").classList.contains("hidden") ? "Inscription" : "Connexion";
+}
 
 // 🔑 Login Function
 function login() {
-    const email = document.getElementById("email").value;
-    const password = document.getElementById("password").value;
+    const email = document.getElementById("login-email").value;
+    const password = document.getElementById("login-password").value;
     firebase.auth().signInWithEmailAndPassword(email, password)
         .then(() => window.location.href = "profil.html") // Redirect to profile
         .catch(error => document.getElementById("message").innerText = error.message);
 }
 
 function register() {
-    const username = document.getElementById("username").value.trim();
-    const email = document.getElementById("email").value;
-    const password = document.getElementById("password").value;
+    const username = document.getElementById("signup-username").value.trim();
+    const email = document.getElementById("signup-email").value;
+    const password = document.getElementById("signup-password").value;
     
     if (!username || !email || !password) {
         document.getElementById("message").innerText = "Veuillez remplir tous les champs.";
