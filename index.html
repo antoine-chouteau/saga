@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Connexion | Saga</title>
-    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
     <script defer src="auth.js"></script>
     <style>
         body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
@@ -28,9 +28,9 @@
         </div>
 
         <div id="signup-form" class="hidden">
-            <input type="text" id="signup-username" placeholder="Nom d'utilisateur">
             <input type="email" id="signup-email" placeholder="Email">
             <input type="password" id="signup-password" placeholder="Mot de passe">
+            <input type="text" id="signup-username" placeholder="Nom d'utilisateur">
             <button onclick="register()">Créer un compte</button>
             <p>Déjà un compte ? <a href="#" onclick="toggleForms()">Se connecter</a></p>
         </div>

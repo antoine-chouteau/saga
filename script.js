@@ -9,7 +9,6 @@ let lives = 3;
 let timerInterval;
 let startTime;
 let difficulty = ""; // Variable to store the selected difficulty
-let username = ""; // Variable to store the player's username
 let currentTheme;
 let level = 1;
 let hasRemoveTwoBonus = 0;
@@ -20,8 +19,8 @@ let themeCount = {};
 let finalTimer = 45;
 let finalNumber = 30;
 
-const usernameScreen = document.getElementById("username-screen");
-const usernameInput = document.getElementById("username-input");
+const diffScreen = document.getElementById("diff-screen");
+const username = localStorage.getItem("username");
 const startScreen = document.getElementById("start-screen");
 const difficultyButtons = document.querySelectorAll(".difficulty-btn");
 const startButton = document.getElementById("start-btn");
@@ -70,22 +69,13 @@ difficultyButtons.forEach(button => {
 
 // Load questions and start game
 startButton.addEventListener("click", () => {
-    username = usernameInput.value.trim();
-
-    // Check if the username is empty
-    if (username === "") {
-        alert("Please enter a valid username!");
-        return;
-    }
-
     if (difficulty === "") {
         alert("Veuillez choisir une difficulté !");
         return;
     }
-
-    // Hide the username screen and show the start screen
-    usernameScreen.style.display = "none";
     
+    diffScreen.style.display = "none";
+
     fetch(`questions_${difficulty}.json`)
         .then(response => response.json())
         .then(data => {
@@ -664,6 +654,13 @@ function hexToRgb(hex) {
     return { r, g, b };
 }
 
+function logout() {
+    firebase.auth().signOut().then(() => {
+        window.location.href = "index.html"; // Redirect to login
+    }).catch(error => {
+        console.error("Logout Error:", error);
+    });
+}
 
 firebase.auth().onAuthStateChanged(user => {
     if (!user) {

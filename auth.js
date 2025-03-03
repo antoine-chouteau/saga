@@ -13,20 +13,45 @@ firebase.initializeApp(firebaseConfig);
 const db = firebase.firestore();
 const auth = firebase.auth();
 
+console.log("Firebase Auth Instance:", auth);
+
 function toggleForms() {
-    document.getElementById("login-form").classList.toggle("hidden");
-    document.getElementById("signup-form").classList.toggle("hidden");
-    document.getElementById("form-title").textContent = 
-        document.getElementById("login-form").classList.contains("hidden") ? "Inscription" : "Connexion";
+    const loginForm = document.getElementById("login-form");
+    const signupForm = document.getElementById("signup-form");
+
+    if (!loginForm || !signupForm) {
+        console.error("Forms not found!");
+        return;
+    }
+
+    loginForm.classList.toggle("hidden");
+    signupForm.classList.toggle("hidden");
 }
 
 // 🔑 Login Function
 function login() {
     const email = document.getElementById("login-email").value;
     const password = document.getElementById("login-password").value;
+
     firebase.auth().signInWithEmailAndPassword(email, password)
-        .then(() => window.location.href = "profil.html") // Redirect to profile
-        .catch(error => document.getElementById("message").innerText = error.message);
+        .then((userCredential) => {
+            const user = userCredential.user;
+
+            // Fetch username from Firestore
+            return firebase.firestore().collection("users").doc(user.uid).get();
+        })
+        .then((doc) => {
+            if (doc.exists) {
+                const username = doc.data().username;
+                localStorage.setItem("username", username); // Store for later use
+                window.location.href = "profil.html"; // Redirect
+            } else {
+                console.error("No such user document!");
+            }
+        })
+        .catch(error => {
+            document.getElementById("error-message").innerText = error.message;
+        });
 }
 
 function register() {

@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Profil | Saga</title>
-    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
     <script defer src="profil.js"></script>
     <style>
         body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
@@ -16,6 +16,20 @@
         .perk.unlocked { color: green; }
     </style>
 </head>
+
+<nav>
+    <button onclick="window.location.href='profil.html'">👤 Profil</button>
+    <button onclick="window.location.href='leaderboard.html'">🏆 Leaderboard</button>
+    <button onclick="window.location.href='game.html'">🎮 Jouer</button>
+    <button onclick="logout()">🚪 Déconnexion</button>
+</nav>
+
+<style>
+    nav { display: flex; justify-content: center; gap: 10px; padding: 10px; background: #eee; margin-bottom: 10px; }
+    button { padding: 8px 15px; border: none; cursor: pointer; white-space: nowrap; }
+    button:hover { background: #ddd; }
+</style>
+
 <body>
 
     <div class="container">

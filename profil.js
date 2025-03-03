@@ -1,12 +1,12 @@
 // 🔥 Firebase Config (Same as auth.js)
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.appspot.com",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID"
-};
+    apiKey: "AIzaSyBzSDTUufNTzd1ZgqnjhryH5H4Mu0x6Le4",
+    authDomain: "sagadb-97f7c.firebaseapp.com",
+    projectId: "sagadb-97f7c",
+    storageBucket: "sagadb-97f7c.firebasestorage.app",
+    messagingSenderId: "597974057996",
+    appId: "1:597974057996:web:e411d697ac39234e6f9a29"
+  };
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
