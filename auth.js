@@ -36,6 +36,7 @@ function login() {
     firebase.auth().signInWithEmailAndPassword(email, password)
         .then((userCredential) => {
             const user = userCredential.user;
+            localStorage.setItem("uid", user.uid);
 
             // Fetch username from Firestore
             return firebase.firestore().collection("users").doc(user.uid).get();
@@ -76,6 +77,8 @@ function register() {
         firebase.auth().createUserWithEmailAndPassword(email, password)
         .then(userCredential => {
             const user = userCredential.user;
+            localStorage.setItem("uid", user.uid);
+            localStorage.setItem("username", username);
             
             // Store user info in Firestore
             return db.collection("users").doc(user.uid).set({
@@ -84,11 +87,11 @@ function register() {
                 bestScore: 0,  // Initialize best score
                 currency: 0,   // Initialize currency
                 perks: {        // Initialize perks
-                    perk1: false,
-                    perk2: false,
-                    perk3: false,
-                    perk4: false,
-                    perk5: false
+                    vieAdditionnelle: false,  // Extra life
+                    tempsAdditionnel1: false, // +20 sec
+                    tempsAdditionnel2: false, // +20 sec
+                    doubleScore: false,       // Double points
+                    skipQuestion: false       // Skip question
                 },
                 answeredQuestions: [] // Store answered question IDs
             });

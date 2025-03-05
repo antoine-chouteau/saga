@@ -4,8 +4,8 @@ let currentQuestionIndex = 0;
 let score = 0;
 let quizLengh = 30;
 let levelLength = 10;
-let maxLives = 3;
-let lives = 3;
+let maxLives = 2;
+let lives = 2;
 let timerInterval;
 let startTime;
 let difficulty = ""; // Variable to store the selected difficulty
@@ -16,11 +16,15 @@ let bonusAppeared = false; // Ensures bonus appears only once per level
 let bonusQuestionNumber = Math.floor(Math.random() * levelLength) + 1; // Pick a random question (1-levelLength)
 let correctAnswer = "";
 let themeCount = {};
-let finalTimer = 45;
 let finalNumber = 30;
+let finalScore = 10;
+let doubleS = false;
+let skipQ = false;
+let skipUsed = false;
 
 const diffScreen = document.getElementById("diff-screen");
 const username = localStorage.getItem("username");
+const uid = localStorage.getItem("uid");
 const startScreen = document.getElementById("start-screen");
 const difficultyButtons = document.querySelectorAll(".difficulty-btn");
 const startButton = document.getElementById("start-btn");
@@ -82,7 +86,7 @@ startButton.addEventListener("click", () => {
             questions = data; 
             console.log(`Questions (${difficulty})s chargées :`, questions);
             quizContainer.style.display = "block";
-            startQuiz();  // Start the quiz once questions are loaded
+            startGame();  // Start the quiz once questions are loaded
         })
         .catch(error => {
             console.error("Erreur lors du chargement des questions :", error);
@@ -101,10 +105,37 @@ function showNextQuestion(selectedTheme) {
     showQuestion(currentQuestions);
 }
 
+async function startGame() {
+    db.collection("users").doc(uid).get()
+    .then((doc) => {
+        const userData = doc.data();
+        const perks = userData.perks || {};
+        console.log("Perks loaded:", perks);
+        let finalTimer = 5;
+        if (perks.doubleScore) doubleS = true;
+        if (perks.vieAdditionnelle) lives++; 
+        if (perks.vieAdditionnelle) maxLives++;
+        if (perks.tempsAdditionnel1) finalTimer += 20;
+        if (perks.tempsAdditionnel2) finalTimer += 20;
+        if (perks.skipQuestion) {
+            skipQ = true;
+            let skipBtn = document.createElement("button");
+            skipBtn.textContent = "⏭️ Passer la question";
+            skipBtn.id = "skipBtn";
+            skipBtn.classList.add("btn");
+            skipBtn.addEventListener("click", useSkip);
+            document.getElementById("quiz-container").appendChild(skipBtn);
+        }
+
+    console.log(`Vies: ${lives}, Temps pour la finale: ${finalTimer} secondes`);
+
+    startQuiz();
+    });
+}
+
 function startQuiz() {
     currentQuestionIndex = 0;
     score = 0;
-    lives = 3;
     updateLives();
     nextButton.style.display = "none";
     feedbackElement.textContent = "";
@@ -190,8 +221,10 @@ function showQuestion(questions) {
     });
 
     if (hasRemoveTwoBonus>0){
-        document.getElementById("bonusDisplay").style.display = "block"; // Remove from UI
         document.getElementById("useBonusBtn").style.display = "block";
+    }
+    if (skipQ && !skipUsed) {
+        document.getElementById("skipBtn").style.display = "block"; 
     }
 
     startTimer(timeLimit);
@@ -215,9 +248,11 @@ function displayThemeOptions() {
         bonusAppeared = true;
     }
 
-    document.getElementById("bonusDisplay").style.display = "none"; // Remove from UI
     document.getElementById("useBonusBtn").style.display = "none";
-
+    if (skipQ) {
+        document.getElementById("skipBtn").style.display = "none";
+    }
+    
     // Display selected themes for the user to choose from (implement your UI here)
     // For example, you could create buttons for each theme in selectedThemes.
     selectedThemes.forEach(theme => {
@@ -299,6 +334,9 @@ function handleBonusSelection() {
     } else {
         hasRemoveTwoBonus++; // Store the "Remove Two" bonus
         displayBonus("Retire 2 mauvaises réponses !", "❌❌");
+        setTimeout(() => {
+            document.getElementById("bonusDisplay").textContent = "";
+        }, 2000);
     }
 
     setTimeout(displayThemeOptions, 2000); // Show themes again after 3s
@@ -406,8 +444,26 @@ function useRemoveTwoBonus() {
 
     hasRemoveTwoBonus--;
     if (hasRemoveTwoBonus==0){
-        document.getElementById("bonusDisplay").style.display = "none"; // Remove from UI
         document.getElementById("useBonusBtn").style.display = "none";
+    }
+}
+
+function useSkip() {
+    if (skipQ && !skipUsed) {
+        currentQuestionIndex++;
+        document.getElementById("skipBtn").style.display = "none"; 
+        skipUsed = true; 
+        if (currentQuestionIndex < quizLengh) {
+            displayThemeOptions();
+            if (currentQuestionIndex === levelLength || currentQuestionIndex === levelLength * 2) {
+                level++;
+                bonusAppeared = false;
+                bonusQuestionNumber = Math.floor(Math.random() * levelLength) + 1;
+            }
+        } else {
+            startFinalRound();
+        } 
+        
     }
 }
 
@@ -515,7 +571,7 @@ function showFinalQuestion(finalQuestions, timerInterval) {
         button.classList.add("btn");
         button.addEventListener("click", () => {
             if (answer === correctAnswer) {
-                score += 15;
+                score += finalScore;
                 showFinalQuestion(finalQuestions, timerInterval);
             } else {
                 lives--;
@@ -559,7 +615,6 @@ function endGame() {
 }
 
 function gameOver() {
-    document.getElementById("bonusDisplay").style.display = "none";
     document.getElementById("useBonusBtn").style.display = "none";
     questionElement.textContent = `💀 Partie terminée !`;
     resetState();
@@ -583,6 +638,10 @@ function gameOver() {
 
 function saveScore(score) {
     const user = firebase.auth().currentUser; // Get logged-in user
+
+    if (doubleS){
+        score = score * 2;
+    }
 
     if (!user) {
         console.error("No user is logged in!");

@@ -12,7 +12,7 @@ const firebaseConfig = {
 firebase.initializeApp(firebaseConfig);
 const auth = firebase.auth();
 const db = firebase.firestore();
-const perkprice = 1000;
+const PERK_PRICE = 1000;
 
 let userData = {}; // Store user data
 
@@ -32,59 +32,71 @@ function loadUserProfile(userId) {
             userData = doc.data();
             document.getElementById("username").textContent = userData.username;
             document.getElementById("best-score").textContent = userData.best_score;
-            document.getElementById("currency").textContent = userData.currency;
-            displayPerks();
+            document.getElementById("currency").textContent = userData.currency+" 🪙";
+            displayPerks(userId);
         }
     });
 }
 
 // 🎁 Display Perks
-function displayPerks() {
+function displayPerks(userId) {
     const perksContainer = document.getElementById("perks-container");
-    perksContainer.innerHTML = "";
+    perksContainer.innerHTML = ""; // Clear previous content
 
-    Object.keys(userData.perks).forEach(perk => {
-        const perkStatus = userData.perks[perk] ? "✔️ Débloqué" : "❌ Non débloqué";
-        const perkClass = userData.perks[perk] ? "perk unlocked" : "perk";
+    const perkNames = {
+        vieAdditionnelle: "Vie Additionnelle",
+        tempsAdditionnel1: "Temps Additionnel Round Final +20s",
+        tempsAdditionnel2: "Temps Additionnel Round Final +20s",
+        doubleScore: "Double Score",
+        skipQuestion: "Passer une Question"
+    };
+
+    Object.keys(perkNames).forEach(perk => {
+        const isUnlocked = userData.perks?.[perk] ?? false;
+        const perkDisplayName = perkNames[perk] || perk;
+
+        const perkElement = document.createElement("div");
+        perkElement.className = `perk ${isUnlocked ? "unlocked" : "locked"}`;
         
-        const perkElement = document.createElement("p");
-        perkElement.className = perkClass;
-        perkElement.textContent = `${perk}: ${perkStatus}`;
+        perkElement.innerHTML = `
+            <p>${perkDisplayName}: ${isUnlocked ? "✔️ Débloqué" : "❌ Non débloqué"}</p>
+        `;
+
+        if (!isUnlocked) {
+            const buyButton = document.createElement("button");
+            buyButton.textContent = `Acheter (${PERK_PRICE} 🪙)`;
+            buyButton.disabled = userData.currency < PERK_PRICE;
+            buyButton.classList.add("buy-button");
+
+            buyButton.addEventListener("click", async () => {
+                await unlockPerk(userId, perk, PERK_PRICE);
+                loadUserProfile(userId); // Refresh UI
+            });
+
+            perkElement.appendChild(buyButton);
+        }
+
         perksContainer.appendChild(perkElement);
     });
 }
 
-// 🛒 Buy a Perk
-function buyPerk() {
-    if (userData.currency < perkprice) {
-        alert("Pas assez de monnaie !");
-        return;
+async function unlockPerk(userId, perkName, cost) {
+    const userRef = db.collection("users").doc(userId);
+    const userDoc = await userRef.get();
+
+    if (!userDoc.exists) return;
+
+    let userData = userDoc.data();
+    
+    if (userData.currency >= cost && !userData.perks?.[perkName]) {
+        await userRef.update({
+            currency: userData.currency - cost,
+            [`perks.${perkName}`]: true
+        });
+        console.log(`${perkName} débloqué !`);
+    } else {
+        console.log("Pas assez de monnaie ou déjà débloqué.");
     }
-
-    // Find a locked perk
-    const lockedPerks = Object.keys(userData.perks).filter(perk => !userData.perks[perk]);
-    if (lockedPerks.length === 0) {
-        alert("Tous les perks sont déjà débloqués !");
-        return;
-    }
-
-    // Unlock the first available perk
-    const perkToUnlock = lockedPerks[0];
-    userData.perks[perkToUnlock] = true;
-    userData.currency -= perkprice;
-
-    // Update Firestore
-    auth.onAuthStateChanged(user => {
-        if (user) {
-            db.collection("users").doc(user.uid).update({
-                perks: userData.perks,
-                currency: userData.currency
-            }).then(() => {
-                displayPerks();
-                document.getElementById("currency").textContent = userData.currency;
-            });
-        }
-    });
 }
 
 // 🚪 Logout Function

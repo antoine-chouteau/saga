@@ -8,30 +8,91 @@
     <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
     <script defer src="profil.js"></script>
+    <link rel="stylesheet" href="styles.css">
     <style>
-        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
-        .container { width: 300px; margin: auto; padding: 20px; border: 1px solid #ccc; border-radius: 10px; }
-        button { width: 100%; padding: 10px; margin-top: 10px; }
-        .perk { margin-top: 10px; }
-        .perk.unlocked { color: green; }
+        /* General Styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 60%;
+            max-width: 600px;
+            margin-top: 20px;
+        }
+
+        h2, h3 {
+            text-align: center;
+        }
+
+        #perks-container {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .perk {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: #e9e9e9;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        .buy-button {
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .buy-button:disabled {
+            background: gray;
+            cursor: not-allowed;
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 20px;
+            background: #dc3545;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #c82333;
+        }
+        /* Center the entire page */
+        .container {
+            margin-top: 20px;
+        }
+
     </style>
 </head>
-
-<nav>
-    <button onclick="window.location.href='profil.html'">👤 Profil</button>
-    <button onclick="window.location.href='leaderboard.html'">🏆 Leaderboard</button>
-    <button onclick="window.location.href='game.html'">🎮 Jouer</button>
-    <button onclick="logout()">🚪 Déconnexion</button>
-</nav>
-
-<style>
-    nav { display: flex; justify-content: center; gap: 10px; padding: 10px; background: #eee; margin-bottom: 10px; }
-    button { padding: 8px 15px; border: none; cursor: pointer; white-space: nowrap; }
-    button:hover { background: #ddd; }
-</style>
-
 <body>
 
+    <!-- Navbar -->
+    <nav>
+        <button onclick="window.location.href='profil.html'">👤 Profil</button>
+        <button onclick="window.location.href='leaderboard.html'">🏆 Leaderboard</button>
+        <button onclick="window.location.href='game.html'">🎮 Jouer</button>
+        <button onclick="logout()">🚪 Déconnexion</button>
+    </nav>
+
+    <!-- Profile Container -->
     <div class="container">
         <h2>Profil</h2>
         <p><strong>Nom d'utilisateur:</strong> <span id="username">Chargement...</span></p>
@@ -42,9 +103,6 @@
         <div id="perks-container">
             <p>Chargement...</p>
         </div>
-
-        <h3>Acheter un Avantage (1000 monnaie)</h3>
-        <button onclick="buyPerk()">Acheter un perk</button>
 
         <button onclick="logout()">Se déconnecter</button>
     </div>
