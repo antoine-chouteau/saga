@@ -679,7 +679,7 @@ function saveScore(score) {
     // Save to leaderboard (with timestamp for last 60 days filter)
     firebase.firestore().collection("leaderboard").add({
         userId: userId,
-        username: user.displayName, // Make sure username is saved at registration
+        username: username, // Make sure username is saved at registration
         score: score,
         timestamp: firebase.firestore.FieldValue.serverTimestamp()
     })

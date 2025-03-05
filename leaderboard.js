@@ -25,6 +25,7 @@ function loadLeaderboard() {
     // 🔥 Query top scores from last 60 days (from "leaderboard" collection)
     db.collection("leaderboard")
         .where("timestamp", ">=", timestampLimit) // Scores within 60 days
+        .orderBy("timestamp")
         .orderBy("score", "desc") // Sort by highest score
         .limit(10) // Get top 10 scores
         .get()
