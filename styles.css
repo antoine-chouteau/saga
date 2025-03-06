@@ -20,6 +20,40 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+/* Question Container (Fixes Text Wrapping Issue) */
+#question-container {
+    width: 100%;
+    max-width: 600px; /* Adjust for better fit */
+    padding: 15px;
+    text-align: center;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+#question {
+    font-size: 20px;
+    white-space: normal; /* Ensures multi-line text */
+    display: block;
+    line-height: 1.4; /* Improve readability */
+}
+
+/* Answer Buttons */
+.btn-container {
+    display: flex;
+    flex-direction: column; /* Stack buttons vertically */
+    gap: 10px; /* Adds space between buttons */
+    align-items: center;
+}
+
+.btn-container button {
+    width: 100%; /* Ensures full width */
+    max-width: 500px; /* Prevents excessive width */
+    font-size: 18px; /* Bigger text for readability */
+    padding: 15px; /* Increased padding */
+    text-align: center;
+    white-space: normal; /* Allow text to wrap */
+}
+
 /* Start Screen */
 #start-screen {
     display: flex;
@@ -69,10 +103,11 @@ button:hover {
     color: white;
 }
 
+/* Header */
 .header-container {
-    position: relative; /* Allows absolute positioning of the question index */
+    position: relative;
     display: flex;
-    justify-content: center; /* Centers "Saga" */
+    justify-content: center;
     align-items: center;
     width: 100%;
     max-width: 800px;
@@ -84,14 +119,14 @@ button:hover {
 .title {
     position: absolute;
     left: 50%;
-    transform: translateX(-50%); /* Ensures perfect centering */
+    transform: translateX(-50%);
     font-size: 32px;
     font-weight: bold;
 }
 
 #question-index {
     position: absolute;
-    right: 0; /* Aligns to the right */
+    right: 0;
     font-size: 18px;
     color: gray;
 }
@@ -104,8 +139,8 @@ button:hover {
     color: #333;
 }
 
-  /* Navbar Styles */
-  nav {
+/* Navbar */
+nav {
     display: flex;
     justify-content: center;
     gap: 10px;
@@ -145,14 +180,13 @@ nav button:hover {
     margin-left: 10px;
 }
 
-/* Timer Container */
+/* Timer */
 #timer-container {
     position: relative;
     width: 60px;
     height: 60px;
 }
 
-/* Timer Text (Centered Inside the Timer) */
 #timer-text {
     position: absolute;
     top: 50%;
@@ -163,7 +197,7 @@ nav button:hover {
     color: black;
 }
 
-/* Countdown SVG */
+/* Countdown */
 .countdown {
     position: relative;
     display: flex;
@@ -180,32 +214,15 @@ nav button:hover {
     stroke-width: 6;
 }
 
-/* Progress Circle (Dynamic Countdown) */
+/* Progress Circle */
 .progress-circle {
     fill: none;
     stroke: #8a9b0f;
     stroke-width: 6;
     stroke-linecap: round;
-    stroke-dasharray: 283; /* Full circle circumference */
-    stroke-dashoffset: 283; /* Start fully empty */
+    stroke-dasharray: 283;
+    stroke-dashoffset: 283;
     transform: rotate(-90deg);
     transform-origin: center;
     transition: stroke-dashoffset 0.1s linear, stroke 0.1s linear;
-}
-
-#leaderboard ol {
-    list-style: none;
-    padding: 0;
-}
-
-#leaderboard li {
-    font-size: 18px;
-    padding: 5px;
-    border-bottom: 1px solid #ccc;
-}
-
-.selected {
-    background-color: #4CAF50;
-    color: white;
-    border: 2px solid #2E7D32;
 }

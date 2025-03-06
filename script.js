@@ -18,6 +18,7 @@ let correctAnswer = "";
 let themeCount = {};
 let finalNumber = 30;
 let finalScore = 10;
+let finalTimer = 5;
 let doubleS = false;
 let skipQ = false;
 let skipUsed = false;
@@ -80,7 +81,7 @@ startButton.addEventListener("click", () => {
     
     diffScreen.style.display = "none";
 
-    fetch(`questions_${difficulty}.json`)
+    fetch(`quiz_questions_${difficulty}.json`)
         .then(response => response.json())
         .then(data => {
             questions = data; 
@@ -111,7 +112,6 @@ async function startGame() {
         const userData = doc.data();
         const perks = userData.perks || {};
         console.log("Perks loaded:", perks);
-        let finalTimer = 5;
         if (perks.doubleScore) doubleS = true;
         if (perks.vieAdditionnelle) lives++; 
         if (perks.vieAdditionnelle) maxLives++;
