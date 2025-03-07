@@ -226,3 +226,8 @@ nav button:hover {
     transform-origin: center;
     transition: stroke-dashoffset 0.1s linear, stroke 0.1s linear;
 }
+
+.difficulty-btn.selected {
+    background-color: #4CAF50 !important;
+    color: white !important;
+}

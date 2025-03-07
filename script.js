@@ -100,6 +100,13 @@ function fetchQuestions(theme) {
     return questions.filter(question => question.theme === theme);
 }
 
+document.querySelectorAll('.difficulty-btn').forEach(btn => {
+    btn.addEventListener('click', function() {
+        document.querySelectorAll('.difficulty-btn').forEach(b => b.classList.remove('selected'));
+        this.classList.add('selected');
+    });
+});
+
 function showNextQuestion(selectedTheme) {
     currentTheme = selectedTheme;
     let currentQuestions = fetchQuestions(currentTheme)
